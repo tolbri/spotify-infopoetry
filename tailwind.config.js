@@ -1,0 +1,41 @@
+module.exports = {
+  purge: [],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    fontFamily: 'Proxima Nova',
+    container: {
+      center: true,
+      padding: '2rem'
+    },
+    extend: {
+      colors: {
+        'main': '#1DB954',
+        'dark': '#181818',
+        'darkest': '#121212',
+        'light': '#282828',
+        'lightest': '#B3B3B3',
+      },
+      lineHeight: {
+        'extra-loose': '2.5'
+      },
+      spacing: {
+        '14': '3.5rem',
+        '22': '5.5rem',
+        '72': '18rem',
+        '100': '25rem',
+        '180': '45rem',
+        '200': '50rem'
+      },
+      width: {
+        '7/10': '70%',
+        '3/10': '30%'
+      }
+    },
+  },
+  variants: {
+    extend: {
+      textColor: ['responsive', 'hover', 'focus', 'group-hover']
+    },
+  },
+  plugins: [],
+}
