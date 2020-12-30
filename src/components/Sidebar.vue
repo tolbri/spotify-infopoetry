@@ -27,7 +27,9 @@
     <div class="sidebar-spotify overflow-y-auto px-5 mt-2">
       <h3 class="uppercase tracking-widest text-lightest font-light text-xs">Library</h3>
       <ul class="leading-extra-loose">
-        <li class="truncate"><a href="#" class="hover:text-white">Made For You</a></li>
+        <router-link to="/songattributes">
+        <li class="truncate"><a href="#" class="hover:text-white">Song Attributes</a></li>
+        </router-link>
         <li class="truncate"><a href="#" class="hover:text-white">Recently Played</a></li>
         <li class="truncate"><a href="#" class="hover:text-white">Liked Songs</a></li>
         <li class="truncate"><a href="#" class="hover:text-white">Albums</a></li>
