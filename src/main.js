@@ -6,10 +6,14 @@ import Home from "@/components/Home";
 import Dataset from "@/components/Dataset";
 import store from "./store";
 import SongAttributes from "@/components/SongAttributes";
+import VuePapaParse from "vue-papa-parse";
+import { VueCsvImport } from 'vue-csv-import';
+
 
 Vue.config.productionTip = false;
 
 Vue.use(VueRouter);
+Vue.use(VuePapaParse);
 
 const routes = [
   {path: '/songattributes', component: SongAttributes},
@@ -24,6 +28,9 @@ const router = new VueRouter({
 
 
 new Vue({
+  components: {
+    VueCsvImport
+  },
   router,
   store,
   render: h => h(App),

@@ -28,10 +28,12 @@ import {getAccessToken, spotify} from "@/services/spotify";
 
 
 
+
 export default {
   name: 'App',
   components: {Topbar, Playbar, Sidebar},
   mounted() {
+
     const accessToken = getAccessToken() || this.accessToken // comes from URL or Vuex
       store.dispatch('saveAccessToken', {accessToken})
     if (this.$store.getters.accessToken) {
@@ -47,6 +49,7 @@ export default {
   },
   data: function() {
     return {
+
 
     };
   },
