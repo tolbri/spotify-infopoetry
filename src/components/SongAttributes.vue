@@ -1,5 +1,5 @@
 <template>
-  <div class="home-content">
+  <div class="home-content flex-none">
     <div class="flex flex-end mt-10 p-5 ">
       <transition name="expand">
         <div v-bind:class="{ enlarge: expand }" class="cover bg-light mr-10 shadow-lg">
@@ -16,20 +16,26 @@
         </button>
       </div>
     </div>
-    <div class="mt-10">
-      <SongRow v-for="dataObject in dataObject"
-               :key="dataObject.title"
-               :track="dataObject.title"
-               :artist="dataObject.artist"
-               :year="dataObject.year"/>
+
+    <div class="song-row mt-10 flex-1 h-screen overflow-y-auto">
+
+      <SongRow class=""
+               v-for="dataset in dataset"
+               :key="dataset.song_id"
+               :track="dataset.track_name"
+               :artist="dataset.artist_name"
+               :album="dataset.album_name"
+               :cover="dataset.album_cover"/>
+
     </div>
+
   </div>
 </template>
 
 <script>
 
 import SongRow from "@/components/SongRow";
-import dataObject from "./../services/dataset.json";
+import dataset from "./../services/dataset.json";
 
 
 export default {
@@ -37,19 +43,7 @@ export default {
   components: {SongRow},
   data() {
     return {
-      dataObject1: [
-        {
-          "title": "Sunrise",
-          "artist": "Norah Jones",
-          "year": 2004
-        },
-        {
-          "title": "Black Night",
-          "artist": "Deep Purple",
-          "year": 2000
-        }
-        ],
-      dataObject,
+      dataset,
       expand: false
     }
   },
@@ -69,6 +63,16 @@ export default {
 .cover.enlarge {
   width: 30rem;
   height: 30rem;
+}
+
+.song-row::-webkit-scrollbar
+{
+  width: 8px;
+  background-color: #181818;
+}
+.song-row::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #535353;
 }
 
 

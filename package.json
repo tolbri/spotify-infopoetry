@@ -8,10 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "beautify-scrollbar": "^1.0.8",
     "core-js": "^3.6.5",
     "csv-parse": "^4.14.2",
     "react-papaparse": "^3.11.1",
     "spotify-web-api-js": "^1.5.1",
+    "v2-lazy-list": "^2.2.5",
     "vue": "^2.6.11",
     "vue-csv-import": "^4.0.1",
     "vue-papa-parse": "^2.0.0",

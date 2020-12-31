@@ -4,7 +4,7 @@
       <Sidebar />
       <div class="content-spotify content-area bg-dark flex-1 flex flex-col">
         <Topbar />
-        <div class="content-spotify overflow-y-auto">
+        <div class="content-spotify overflow-y-hidden">
           <div class="container mx-auto">
             <router-view>
 
@@ -77,5 +77,9 @@ export default {
 .content-spotify::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background-color: #535353;
+}
+
+::-webkit-scrollbar-thumb {
+  cursor: pointer;
 }
 </style>
