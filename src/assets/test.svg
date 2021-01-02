@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="Background">
+    <rect width="500" height="500" style="fill: #e6e6e6"/>
+  </g>
+  <g id="Design">
+    <rect y="241.56977" width="500" height="16.86047" style="fill: #2e3192"/>
+    <rect y="241.56977" width="500" height="16.86047" transform="translate(500 0) rotate(90)" style="fill: #2e3192"/>
+    <circle cx="119.62791" cy="122.2093" r="47.96512" style="fill: #00a99d"/>
+    <circle cx="377.50429" cy="377.50429" r="119.07406" style="fill: #00a99d"/>
+  </g>
+</svg>
