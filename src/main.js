@@ -7,13 +7,21 @@ import Dataset from "@/components/Dataset";
 import store from "./store";
 import SongAttributes from "@/components/SongAttributes";
 import VueApexCharts from 'vue-apexcharts'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faPlay, faPlayCircle } from '@fortawesome/pro-solid-svg-icons'
+import { faCircle } from '@fortawesome/pro-regular-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
+
+library.add(faPlayCircle, faCircle, faPlay, faPlayCircle)
 
 Vue.config.productionTip = false;
 
 Vue.use(VueRouter);
+
 Vue.use(VueApexCharts);
 Vue.component('apexchart', VueApexCharts)
+Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 
 const routes = [

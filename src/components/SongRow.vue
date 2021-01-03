@@ -1,5 +1,9 @@
 <template>
-  <div @mouseover="emitDetails" class="p-5 flex items-center text-white hover:bg-darkest cursor-pointer">
+  <div @click="emitDetails" class="py-2 pl-2 flex items-center text-white hover:bg-light cursor-pointer">
+    <div @click="songPreview" class="h-10 w-14 flex items-center ">
+        <font-awesome-icon class="text-lightest hover:text-white" size="2x" :icon="['fas', 'play-circle']" />
+    </div>
+    <div class="flex w-full" @click="showChart">
     <img class="h-10 w-10" :src="`${cover}`" alt=""/>
     <div class="ml-10">
       <h1 class="text-sm">{{ track }}</h1>
@@ -8,6 +12,7 @@
         {{ album }}
       </p>
     </div>
+  </div>
   </div>
 </template>
 
@@ -55,9 +60,15 @@ export default {
     },
     tempo: {
       type: [String, Number]
+    },
+    preview: {
+      type: [String, Number]
     }
   },
   methods: {
+    songPreview() {
+      console.log(this.preview);
+    },
     emitDetails() {
       let data = {
         track_name: this.track,
@@ -72,6 +83,9 @@ export default {
         tempo: this.tempo
       }
       this.$emit('show-details', data)
+    },
+    showChart() {
+      this.$emit('show-chart')
     }
   }
 }

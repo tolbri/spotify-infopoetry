@@ -8,12 +8,15 @@ module.exports = {
       padding: '2rem'
     },
     extend: {
+      zIndex: {
+        '-10': '-10',
+      },
       colors: {
         'main': '#1DB954',
         'dark': '#181818',
         'darkest': '#121212',
         'light': '#282828',
-        'lightest': '#B3B3B3',
+        'lightest': '#B3B3B3'
       },
       lineHeight: {
         'extra-loose': '2.5'
@@ -23,12 +26,15 @@ module.exports = {
         '22': '5.5rem',
         '72': '18rem',
         '100': '25rem',
+        '120': '30rem',
+        '128': '32rem',
         '180': '45rem',
         '200': '50rem'
       },
       width: {
         '7/10': '70%',
-        '3/10': '30%'
+        '3/10': '30%',
+        '180' : '45rem'
       }
     },
   },

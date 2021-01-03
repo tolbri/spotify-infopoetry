@@ -1,16 +1,10 @@
 <template>
-  <div class="flex flex-col h-screen text-sm text-lightest">
-    <div class="flex-1 flex overflow-y-hidden">
+  <div class="flex flex-col h-screen  text-sm text-lightest">
+    <div class="flex-1 flex overflow-y-hidden overflow-x-hidden">
       <Sidebar />
-      <div class="content-spotify content-area bg-dark flex-1 flex flex-col">
+      <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
         <Topbar />
-        <div class="content-spotify overflow-y-hidden">
-          <div class="container mx-auto">
-            <router-view>
-
-            </router-view>
-          </div>
-        </div>
+        <router-view></router-view>
       </div>
     </div>
     <Playbar />
@@ -60,21 +54,12 @@ export default {
 </script>
 
 <style>
-.sidebar-spotify::-webkit-scrollbar
+::-webkit-scrollbar
 {
   width: 8px;
   background-color: #121212;
 }
-.sidebar-spotify::-webkit-scrollbar-thumb {
-  border-radius: 8px;
-  background-color: #535353;
-}
-.content-spotify::-webkit-scrollbar
-{
-  width: 8px;
-  background-color: #181818;
-}
-.content-spotify::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background-color: #535353;
 }
