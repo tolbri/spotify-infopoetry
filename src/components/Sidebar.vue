@@ -1,5 +1,5 @@
 <template>
-  <div class="sidebar bg-darkest w-48 flex-none flex flex-col justify-between font-semibold">
+  <div class="z-10 sidebar bg-darkest w-48 flex-none flex flex-col justify-between font-semibold">
     <ul class="py-6">
       <router-link to="/">
       <li class="border-l-4 border-transparent">

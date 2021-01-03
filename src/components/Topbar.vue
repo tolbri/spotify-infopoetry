@@ -1,5 +1,5 @@
 <template>
-  <div class="top-bar flex justify-end px-4">
+  <div class="z-10 bg-dark top-bar flex justify-end px-4">
     <div class="flex items-center">
       <div class="relative w-8 h-8">
       <img v-if="$store.getters.user" :src="$store.getters.user.images[0].url" class="rounded-full" />
