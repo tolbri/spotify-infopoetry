@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-light flex-none h-22 px-5 flex items-center justify-between">
+  <div class="z-10 bg-light flex-none h-22 px-5 flex items-center justify-between">
     <div class="flex items-center">
       <a href="#"><img src="./../assets/albumcover01.jpg" alt="album cover" class="w-14 h-14"></a>
       <div class="ml-3">

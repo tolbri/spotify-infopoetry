@@ -1,6 +1,10 @@
 <template>
   <div class="home-content overflow-y-auto overflow-x-hidden">
     <div class="container mx-auto">
+      <transition name="fade">
+          <div v-if="!show" class="background-cover opacity-20 absolute top-0 left-48 w-132 h-full" v-bind:style="{'background-image': 'url('+`${cover}`+')'}" >
+          </div>
+      </transition>
       <div class="w-120 h-120 bg-light mr-10 shadow-lg absolute">
         <div class="w-full h-full p-5">
           <apexchart ref="demoChart" :options="chartOptions" :series="series" height="100%"
@@ -12,11 +16,11 @@
       <transition name="fade">
         <div v-if="show" class="z-50 w-120 h-120 bg-light mr-10 shadow-lg absolute">
           <div class="w-full h-full">
-            <img src="./../assets/albumcover01.jpg" alt="">
+            <img :src="`${cover}`" alt="">
           </div>
         </div>
       </transition>
-      <div class="pl-128">
+      <div class="pl-130">
         <div class="pt-2">
           <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
           <h2 class="mb-5 text-5xl font-semibold text-white">Song Attributes</h2>
@@ -64,12 +68,14 @@
 
 import SongRow from "@/components/SongRow";
 import dataset from "./../services/dataset.json";
+import cover from "./../assets/albumcover01.jpg";
 
 export default {
   name: "SongAttributes",
   components: {SongRow},
   data() {
     return {
+      cover,
       show: true,
       dataset,
       chartOptions: {
@@ -173,6 +179,10 @@ export default {
 </script>
 
 <style scoped>
+
+.background-cover {
+  filter: blur(4px);
+}
 
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;

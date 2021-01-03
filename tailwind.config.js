@@ -8,6 +8,10 @@ module.exports = {
       padding: '2rem'
     },
     extend: {
+      backgroundImage: theme => ({
+        'hero-pattern': "url('./assets/albumcover01.jpg')",
+        'footer-texture': "url('/img/footer-texture.png')",
+      }),
       zIndex: {
         '-10': '-10',
       },
@@ -28,6 +32,9 @@ module.exports = {
         '100': '25rem',
         '120': '30rem',
         '128': '32rem',
+        '130': '32.5rem',
+        '132': '33rem',
+        '136': '34rem',
         '180': '45rem',
         '200': '50rem'
       },
