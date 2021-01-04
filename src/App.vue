@@ -28,6 +28,8 @@ export default {
   components: {Topbar, Playbar, Sidebar},
   mounted() {
 
+
+
     const accessToken = getAccessToken() || this.accessToken // comes from URL or Vuex
       store.dispatch('saveAccessToken', {accessToken})
     if (this.$store.getters.accessToken) {
