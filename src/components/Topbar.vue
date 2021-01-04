@@ -59,9 +59,10 @@ export default {
 
 .top-bar.active {
   background-color: #121212;
-  border-bottom: #121212 solid 1px;
   --tw-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+              var(--tw-ring-shadow, 0 0 #0000),
+              var(--tw-shadow);
 }
 
 </style>
