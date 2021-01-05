@@ -33,14 +33,18 @@ export default {
     const accessToken = getAccessToken() || this.accessToken // comes from URL or Vuex
       store.dispatch('saveAccessToken', {accessToken})
     if (this.$store.getters.accessToken) {
-      console.log(accessToken);
+      console.log("Token Received");
       spotify.setAccessToken(accessToken)
       spotify
           .getMe()
           .then(me => {
             store.dispatch('saveUser', {user: me})
             return me
-          })
+          });
+
+
+
+
     }
   },
   data: function() {

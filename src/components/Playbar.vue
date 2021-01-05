@@ -15,7 +15,7 @@
         <button class="ml-8">
           <svg class="fill-current text-lightest hover:text-white h-6 w-6" viewBox="0 0 20 20"><path d="M4 5h3v10H4V5zm12 0v10l-9-5 9-5z"/></svg>
         </button>
-        <button class="ml-8">
+        <button @click="playSong" class="ml-8">
           <svg class="fill-current text-lightest hover:text-white h-8 w-8" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1117.07 2.93 10 10 0 012.93 17.07zm12.73-1.41A8 8 0 104.34 4.34a8 8 0 0011.32 11.32zM7 6l8 4-8 4V6z"/></svg>
         </button>
         <button class="ml-8">
@@ -35,9 +35,10 @@
       <button>
         <svg class="fill-current text-lightest hover:text-white h-6 w-6" width="24" height="24" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"/><path d="M15 6H3v2h12V6zm0 4H3v2h12v-2zM3 16h8v-2H3v2zM17 6v8.18c-.31-.11-.65-.18-1-.18-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3V8h3V6h-5z"/></svg>
       </button>
-      <button class="ml-4">
+      <button class="ml-4" @click="devicepicker = !devicepicker">
         <svg class="fill-current text-lightest hover:text-white h-5 w-5" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M3 6h18V4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v-2H3V6zm10 6H9v1.78c-.61.55-1 1.33-1 2.22s.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12zm-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM22 8h-6c-.5 0-1 .5-1 1v10c0 .5.5 1 1 1h6c.5 0 1-.5 1-1V9c0-.5-.5-1-1-1zm-1 10h-4v-8h4v8z"/></svg>
       </button>
+      <Devicepicker v-if="devicepicker"/>
       <button class="ml-4">
         <svg class="fill-current text-lightest hover:text-white h-5 w-5" width="24" height="24" viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0014 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
       </button>
@@ -49,9 +50,46 @@
   </div>
 </template>
 
+
+
 <script>
+import {spotify} from "@/services/spotify";
+import Devicepicker from "@/components/Devicepicker";
+
+
+
 export default {
-  name: "Playbar"
+  name: "Playbar",
+  components: {Devicepicker},
+  data: function(){
+    return {
+      devicepicker: false
+    }
+  },
+  methods: {
+    playSong() {
+      if (this.$store.getters.device) {
+        // Get a User's Available Devices
+        // let device_id = this.$store.getters.device;
+        console.log("Device ID: " + this.$store.getters.device);
+        // spotify.transferMyPlayback(this.$store.getters.device)
+        //     .then(function() {
+        //       console.log('Transfering playback to ' + this.$store.getters.device);
+        //     }, function(err) {
+        //       //if the user making the request is non-premium, a 403 FORBIDDEN response code will be returned
+        //       console.log('Something went wrong!', err);
+        //     });
+
+        spotify.play({"uris": ["spotify:track:4ByEFOBuLXpCqvO1kw8Wdm"]})
+            .then(function() {
+              console.log('Playback started');
+            }, function(err) {
+              //if the user making the request is non-premium, a 403 FORBIDDEN response code will be returned
+              console.log('Something went wrong!', err);
+            });
+      }
+    }
+  }
 }
 </script>
 

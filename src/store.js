@@ -7,10 +7,12 @@ export const store = new Vuex.Store({
     state: {
         accessToken: null,
         user: null,
+        devices: null,
     },
     getters: {
         accessToken: state => state.accessToken,
-        user: state => state.user
+        user: state => state.user,
+        devices: state => state.devices
     },
     actions: {
         saveAccessToken({ commit }, { accessToken }) {
@@ -18,6 +20,9 @@ export const store = new Vuex.Store({
         },
         saveUser({ commit}, { user }) {
             commit('ADD_USER', { user })
+        },
+        saveDevices({ commit}, { devices }) {
+            commit('ADD_DEVICES', { devices })
         }
     },
     mutations: {
@@ -26,6 +31,9 @@ export const store = new Vuex.Store({
         },
         ADD_USER(state, { user }) {
             state.user = user
+        },
+        ADD_DEVICES(state, { devices }) {
+            state.devices = devices
         }
 
     },
