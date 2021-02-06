@@ -1,6 +1,9 @@
 <template>
-  <div class="home-content">
-  <h2 class="mt-24 text-5xl font-semibold text-white">Home</h2>
+  <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
+    <Topbar />
+  <div class="home-content overflow-y-auto overflow-x-hidden">
+    <div class="container mx-auto">
+  <h2 class="top-bar-headline mt-24 text-5xl font-semibold text-white">Home</h2>
   <div class="mt-12">
     <h3 class="font-semibold text-xl border-b border-light pb-2">Recently Played</h3>
     <div class="flex items-center mt-4 -mx-4">
@@ -183,11 +186,15 @@
     </div>
   </div>
   </div>
+  </div>
+  </div>
 </template>
 
 <script>
+import Topbar from "@/components/Topbar";
 export default {
-  name: "Home"
+  name: "Home",
+  components: {Topbar },
 }
 </script>
 

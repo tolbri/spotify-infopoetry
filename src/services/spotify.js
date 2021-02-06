@@ -23,7 +23,8 @@ const scopes = [
     "user-read-playback-state",
     "user-read-currently-playing",
     "playlist-read-private",
-    "playlist-read-collaborative"
+    "playlist-read-collaborative",
+    "streaming"
 ];
 
 const loginURL = `${authEndpoint}?client_id=${clientID}&redirect_uri=${redirectURI}&scope=${scopes.join("%20")}&response_type=token&show_dialog=true`;

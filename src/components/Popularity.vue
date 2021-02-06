@@ -11,7 +11,7 @@
         <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
           <div class="w-full h-full p-5">
             <apexchart id="radarChart"
-                        ref="radarChart"
+                       ref="radarChart"
                        :options="chartOptions"
                        :series="series"
                        height="100%"
@@ -226,8 +226,7 @@ export default {
 
     },
     getAverage(nums){
-      let average = nums.reduce((a, b) => (a + b)) / nums.length;
-      return average
+      return nums.reduce((a, b) => (a + b)) / nums.length;
     },
     addToChart(data) {
 
@@ -288,10 +287,6 @@ export default {
 </script>
 
 <style scoped>
-
-.background-cover {
-  /*filter: blur(4px);*/
-}
 
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;

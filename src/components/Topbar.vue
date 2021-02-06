@@ -1,7 +1,7 @@
 <template>
   <div class="header z-10 top-bar flex justify-stretch px-4">
     <div class="flex flex-1 items-center">
-      <h2 class="headline text-2xl font-semibold text-white px-5"></h2>
+      <h2 class="headline text-2xl font-semibold text-white px-5">...</h2>
     </div>
     <div class="flex items-center">
       <div class="relative w-8 h-8">

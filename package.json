@@ -17,14 +17,17 @@
     "beautify-scrollbar": "^1.0.8",
     "core-js": "^3.6.5",
     "csv-parse": "^4.14.2",
+    "k-progress": "^1.5.0",
     "react-papaparse": "^3.11.1",
     "spotify-web-api-js": "^1.5.1",
+    "spotify-web-api-node": "^4.0.0",
     "v2-lazy-list": "^2.2.5",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.6.0",
     "vue-csv-import": "^4.0.1",
     "vue-papa-parse": "^2.0.0",
     "vue-router": "^3.4.9",
+    "vuetify-audio": "^0.3.3",
     "vuex": "^3.6.0"
   },
   "devDependencies": {
@@ -40,7 +43,8 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "vue-cli-plugin-vuetify": "~2.0.9",
     "vue-svg-loader": "^0.16.0",
-    "vue-template-compiler": "^2.6.12"
+    "vue-template-compiler": "^2.6.12",
+    "vuetify": "^2.4.3"
   },
   "eslintConfig": {
     "root": true,
