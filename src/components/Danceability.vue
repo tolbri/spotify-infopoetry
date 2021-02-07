@@ -11,7 +11,7 @@
         <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
           <div class="w-full h-full p-5">
             <apexchart
-                ref="barChart"
+                ref="scatterPlot"
                 :options="chartOptions"
                 :series="series"
                 height="100%"
@@ -52,7 +52,7 @@
                      :artist="dataset.artist"
                      :album_cover="dataset.album_img"
                      :track="dataset.title"
-                     :popularity="dataset.popularity"
+                     :danceability="dataset.danceability"
                      :year="dataset.year"
 
                      @click.native="show = false"
@@ -68,7 +68,7 @@
 <script>
 
 import SongRow from "@/components/SongRow";
-import dataset from "./../services/song_popularity.json";
+import dataset from "./../services/song_danceability.json";
 import cover from "./../assets/albumcover03.jpg";
 import Topbar from "@/components/Topbar";
 
@@ -76,7 +76,8 @@ export default {
   name: "SongAttributes",
   components: {SongRow, Topbar},
   mounted() {
-    this.getTrackPopularity();
+    this.getTrackDanceability();
+    this.startData.data = this.getInitialData();
   },
   data() {
     return {
@@ -85,13 +86,13 @@ export default {
       dataset,
       startData: {
         "name": "Top 500 Songs",
-        "type": 'column',
-        "data": [55, 53, 63, 66, 69, 68, 66]
+        "data": null
       },
       songPopularity: null,
       chartOptions: {
+        colors: ['#121212', '#1DB954'],
         tooltip: {
-          enabled: false
+          enabled: false,
         },
         states: {
           hover: {
@@ -110,9 +111,12 @@ export default {
           width: 2
         },
         chart: {
-          zoom: {
-            enabled: false
+          animations: {
+            enabled: false,
           },
+          // zoom: {
+          //   enabled: false
+          // },
           background: '#282828',
           offsetX: 0
         },
@@ -123,6 +127,7 @@ export default {
           },
         },
         xaxis: {
+          type: 'datetime',
           axisBorder: {
             show: true,
             offsetY: 1
@@ -130,19 +135,10 @@ export default {
           axisTicks: {
             show: false
           },
-          categories: [
-            "40's",
-            "50's",
-            "60's",
-            "70's",
-            "80's",
-            "90's",
-            "00's",
-          ]
         },
         yaxis: {
           min: 0,
-          max: 100,
+          max: 1,
           show: true,
           labels: {
             offsetX: 0,
@@ -155,14 +151,14 @@ export default {
           }
         },
         markers: {
-          size: 0
+          size: 2,
+          strokeWidth: 0,
         }
       },
       series: [
         {
-          name: "Top 500 Songs",
-          type: 'column',
-          data: [55, 53, 63, 66, 69, 68, 66]
+          name: "Empty",
+          data: [],
         }
       ],
       labels: [
@@ -176,91 +172,78 @@ export default {
     }
   },
   methods: {
-    getTrackPopularity() {
-      let topTracks= this.$store.getters.topTracks;
-      if(topTracks) {
-
-        let popularity = this.getAverage(topTracks.map(function(topTracks) {
-          return topTracks.popularity;
-        })) ;
-
-        this.userTrackPopularity = popularity;
-
+    getInitialData() {
+      let data = dataset.map(function(dataset) {
+        return [
+          new Date(dataset.year.toString()),
+          dataset.danceability
+        ]
+      });
+      if(this.$store.getters.topTracks) {
+        this.$refs.scatterPlot.updateOptions({ colors: ['#E91E63','#121212', '#1DB954'] })
         this.series = [
           {
             name: "You",
-            type: "line",
-            data: [
-              popularity,
-              popularity,
-              popularity,
-              popularity,
-              popularity,
-              popularity,
-              popularity,
-            ]
+            data: this.getTrackDanceability()
           },
           {
-            name: this.startData.name,
-            type: this.startData.type,
-            data: this.startData.data
-          }
-        ]
+          name: "Top 500 Songs",
+          data: data,
+        }]
+      } else {
+        this.series = [{
+          name: "Top 500 Songs",
+          data: data,
+        }]
+      }
+      return data
+    },
+
+
+    getTrackDanceability() {
+      let topTracksAudioFeature= this.$store.getters.audioFeatures;
+      let topTracks= this.$store.getters.topTracks;
+
+      if(topTracks) {
+
+        let dateArray = topTracks.map(function(topTracks) {
+          return new Date(topTracks.album.release_date.toString())
+        });
+
+        let danceArray = topTracksAudioFeature.map(function(topTracksAudioFeature) {
+          return topTracksAudioFeature.danceability
+        });
+
+        let data = dateArray.map((x, i) => [x, danceArray[i]]);
+
+        return data
+
       }
 
     },
-    getAverage(nums){
-      return nums.reduce((a, b) => (a + b)) / nums.length;
-    },
-    getYearPosition(num){
-      if(num >= 1940 && num <= 1949) {
-        return 0
-      } else if(num >= 1950 && num <= 1959) {
-        return 1
-      } else if(num >= 1960 && num <= 1969) {
-        return 2
-      } else if(num >= 1970 && num <= 1979) {
-        return 3
-      } else if(num >= 1980 && num <= 1989) {
-        return 4
-      } else if(num >= 1990 && num <= 1999) {
-        return 5
-      } else if(num >= 2000 && num <= 2009) {
-        return 6
-      }
-    },
+
     addToChart(data) {
+      let selectedSong = [
+          [
+        new Date(data.year.toString()),
+        data.danceability
+              ]
+      ];
+      let userTrackDanceability = this.getTrackDanceability();
 
-      let dataYears = [null, null, null, null, null, null, null];
-      dataYears[this.getYearPosition(data.year)] = data.popularity;
-
-      let selectedSong = dataYears;
-
-      let userSongPopularity = this.userTrackPopularity;
-
-      if(typeof userSongPopularity == "number") {
+      if(userTrackDanceability) {
+        this.$refs.scatterPlot.updateOptions({ colors: ['#E91E63','#121212', '#1DB954'] })
         this.series = [
           {
-            name: "Your Top 20",
-            type: "line",
-            data: [
-              userSongPopularity,
-              userSongPopularity,
-              userSongPopularity,
-              userSongPopularity,
-              userSongPopularity,
-              userSongPopularity,
-              userSongPopularity,
-            ]
+            name: "You",
+            data: userTrackDanceability
           },
           {
             name: this.startData.name,
-            type: this.startData.type,
             data: this.startData.data
           },
           {
             name: data.track_name,
-            type: "column",
             data: selectedSong
           }
         ]
@@ -269,12 +252,10 @@ export default {
         this.series = [
           {
             name: this.startData.name,
-            type: this.startData.type,
             data: this.startData.data
           },
           {
             name: data.track_name,
-            type: "column",
             data: selectedSong
           }
         ]
