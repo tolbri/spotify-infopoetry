@@ -12,6 +12,8 @@ import { faPlay, faPlayCircle, faPause, faTimes } from '@fortawesome/pro-solid-s
 import { faCircle } from '@fortawesome/pro-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import KProgress from 'k-progress';
+import Popularity from "@/components/Popularity";
+import Danceability from "@/components/Danceability";
 
 
 library.add(faPlayCircle, faPause, faCircle, faPlay, faPlayCircle, faTimes)
@@ -27,6 +29,8 @@ Vue.component('k-progress', KProgress);
 
 
 const routes = [
+  {path: '/danceability', component: Danceability},
+  {path: '/songpopularity', component: Popularity},
   {path: '/songattributes', component: SongAttributes},
   {path: '/dataset', component: Dataset},
   {path: '/', component: Home}

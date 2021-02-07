@@ -2,10 +2,12 @@
   <div class="flex flex-col">
   <div class="z-10 bg-light flex-none h-22 px-5 flex items-center justify-between">
     <div class="flex justify-self-start w-1/3 items-center">
-      <a class="flex-shrink-0" href="#"><img v-if="$store.getters.selectedSong" :src="$store.getters.selectedSong.cover" alt="album cover" class="w-14 h-14"></a>
+      <div class="flex-shrink-0" href="#">
+        <img v-if="$store.getters.selectedSong" :src="$store.getters.selectedSong.cover" alt="album cover" class="w-14 h-14">
+      </div>
       <div class="ml-3 min-w-0">
-        <div v-if="$store.getters.selectedSong" class="hover:underline text-white  truncate">{{$store.getters.selectedSong.track}}</div>
-        <div v-if="$store.getters.selectedSong" class="text-xs text-lightest hover:underline hover:text-white">{{$store.getters.selectedSong.artist}}</div>
+        <div v-if="$store.getters.selectedSong" class="text-white  truncate">{{$store.getters.selectedSong.track}}</div>
+        <div v-if="$store.getters.selectedSong" class="text-xs text-lightest">{{$store.getters.selectedSong.artist}}</div>
       </div>
     </div>
     <div class="player-controls flex flex-col justify-center w-1/3">

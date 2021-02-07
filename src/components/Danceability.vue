@@ -11,12 +11,12 @@
         <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
           <div class="w-full h-full p-5">
             <apexchart
-                       ref="barChart"
-                       :options="chartOptions"
-                       :series="series"
-                       height="100%"
-                       type="line"
-                       width="100%">
+                ref="barChart"
+                :options="chartOptions"
+                :series="series"
+                height="100%"
+                type="scatter"
+                width="100%">
             </apexchart>
           </div>
         </div>
@@ -30,7 +30,7 @@
         <div class="pl-130">
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
-            <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Track Popularity</h2>
+            <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Danceability</h2>
             <p>Created by <span class="text-white">Tim Olbrich</span> • 2000 Songs, 20 h 30 min.</p>
             <button class="w-24 py-2 mt-5 text-center bg-main rounded-full uppercase tracking-wide text-white text-xs"
                     @click="show = !show">
@@ -69,7 +69,7 @@
 
 import SongRow from "@/components/SongRow";
 import dataset from "./../services/song_popularity.json";
-import cover from "./../assets/albumcover01.jpg";
+import cover from "./../assets/albumcover03.jpg";
 import Topbar from "@/components/Topbar";
 
 export default {
@@ -138,7 +138,7 @@ export default {
             "80's",
             "90's",
             "00's",
-            ]
+          ]
         },
         yaxis: {
           min: 0,
@@ -183,7 +183,7 @@ export default {
         let popularity = this.getAverage(topTracks.map(function(topTracks) {
           return topTracks.popularity;
         })) ;
-        
+
         this.userTrackPopularity = popularity;
 
         this.series = [

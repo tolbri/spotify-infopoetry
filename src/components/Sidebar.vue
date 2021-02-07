@@ -30,8 +30,12 @@
         <router-link to="/songattributes">
         <li class="truncate"><a href="#" class="hover:text-white">Song Attributes</a></li>
         </router-link>
-        <li class="truncate"><a href="#" class="hover:text-white">Recently Played</a></li>
-        <li class="truncate"><a href="#" class="hover:text-white">Liked Songs</a></li>
+        <router-link to="/songpopularity">
+        <li class="truncate"><a href="#" class="hover:text-white">Track Popularity</a></li>
+        </router-link>
+        <router-link to="/danceability">
+        <li class="truncate"><a href="#" class="hover:text-white">Danceability</a></li>
+        </router-link>
         <li class="truncate"><a href="#" class="hover:text-white">Albums</a></li>
         <li class="truncate"><a href="#" class="hover:text-white">Artists</a></li>
         <li class="truncate"><a href="#" class="hover:text-white">Podcasts</a></li>

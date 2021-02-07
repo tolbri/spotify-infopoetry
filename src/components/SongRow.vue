@@ -64,6 +64,12 @@ export default {
     },
     id: {
       type: [String]
+    },
+    popularity: {
+      type: [Number]
+    },
+    year: {
+      type: [Number]
     }
   },
   methods: {
@@ -98,7 +104,9 @@ export default {
         loudness: this.loudness,
         speechiness: this.speechiness,
         valence: this.valence,
-        tempo: this.tempo
+        tempo: this.tempo,
+        popularity: this.popularity,
+        year: this.year
       }
       this.$emit('show-details', data)
     },

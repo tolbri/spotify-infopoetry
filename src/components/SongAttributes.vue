@@ -10,8 +10,8 @@
         </transition>
         <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
           <div class="w-full h-full p-5">
-            <apexchart id="radarChart"
-                        ref="radarChart"
+            <apexchart
+                       ref="radarChart"
                        :options="chartOptions"
                        :series="series"
                        height="100%"
@@ -104,7 +104,6 @@ export default {
         'valence': null
       },
       chartOptions: {
-
         chart: {
           background: '#282828',
           offsetX: 10,
@@ -289,9 +288,6 @@ export default {
 
 <style scoped>
 
-.background-cover {
-  /*filter: blur(4px);*/
-}
 
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;
