@@ -5,7 +5,7 @@ module.exports = {
     //     public: '0.0.0.0:8080'
     // },
     publicPath: process.env.NODE_ENV === 'production'
-        ? '/my-project/'
+        ? '/spotify-infopoetry/'
         : '/',
     // publicPath: "/",
     chainWebpack: (config) => {
