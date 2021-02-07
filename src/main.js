@@ -14,6 +14,7 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import KProgress from 'k-progress';
 import Popularity from "@/components/Popularity";
 import Danceability from "@/components/Danceability";
+import Duration from "@/components/Duration";
 
 
 library.add(faPlayCircle, faPause, faCircle, faPlay, faPlayCircle, faTimes)
@@ -29,6 +30,7 @@ Vue.component('k-progress', KProgress);
 
 
 const routes = [
+  {path: '/duration', component: Duration},
   {path: '/danceability', component: Danceability},
   {path: '/songpopularity', component: Popularity},
   {path: '/songattributes', component: SongAttributes},

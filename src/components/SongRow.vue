@@ -70,6 +70,9 @@ export default {
     },
     year: {
       type: [Number]
+    },
+    duration: {
+      type: [Number]
     }
   },
   methods: {
@@ -106,7 +109,8 @@ export default {
         valence: this.valence,
         tempo: this.tempo,
         popularity: this.popularity,
-        year: this.year
+        year: this.year,
+        duration: this.duration
       }
       this.$emit('show-details', data)
     },
