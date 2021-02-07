@@ -1,10 +1,13 @@
 module.exports = {
-    devServer: {
-        disableHostCheck: true,
-        port: 8080,
-        public: '0.0.0.0:8080'
-    },
-    publicPath: "/",
+    // devServer: {
+    //     disableHostCheck: true,
+    //     port: 8080,
+    //     public: '0.0.0.0:8080'
+    // },
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/my-project/'
+        : '/',
+    // publicPath: "/",
     chainWebpack: (config) => {
         const svgRule = config.module.rule('svg');
 
