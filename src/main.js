@@ -35,7 +35,8 @@ const routes = [
   {path: '/songpopularity', component: Popularity},
   {path: '/songattributes', component: SongAttributes},
   {path: '/dataset', component: Dataset},
-  {path: '/', component: Home}
+  {path: '/', component: Home},
+  {path: '/spotify-infopoetry/', component: Home}
 ];
 
 const router = new VueRouter({
