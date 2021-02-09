@@ -31,7 +31,7 @@
             <div class="lg:w-3/5 w-full px-4 lg:my-0 my-10">
               <div>
                 <div class="overflow-hidden pr-1 mt-2">
-                  <table class="table-auto bg-purpl">
+                  <table class="table-auto">
                     <thead>
                     <tr>
                       <th class="text-left text-white font-semibold pb-2">Scope</th>

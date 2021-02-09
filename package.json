@@ -1,5 +1,5 @@
 {
-  "name": "spotify-infopoetry",
+  "name": "Chartbreakers",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-pro": "^5.15.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/pro-light-svg-icons": "^5.15.2",
     "@fortawesome/pro-regular-svg-icons": "^5.15.1",
     "@fortawesome/pro-solid-svg-icons": "^5.15.1",
     "@fortawesome/vue-fontawesome": "^2.0.2",

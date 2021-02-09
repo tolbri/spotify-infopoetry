@@ -10,15 +10,17 @@ import VueApexCharts from 'vue-apexcharts';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faPlay, faPlayCircle, faPause, faTimes, faExternalLinkSquare, faDesktop } from '@fortawesome/pro-solid-svg-icons'
 import { faCircle } from '@fortawesome/pro-regular-svg-icons'
+import { faHomeAlt, faAlbumCollection, faInfoCircle } from '@fortawesome/pro-light-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import KProgress from 'k-progress';
 import Popularity from "@/components/Popularity";
 import Danceability from "@/components/Danceability";
 import Duration from "@/components/Duration";
 import PreLogin from "@/components/PreLogin";
+import About from "@/components/About";
 
 
-library.add(faPlayCircle, faPause, faCircle, faPlay, faPlayCircle, faTimes, faExternalLinkSquare, faDesktop)
+library.add(faInfoCircle, faAlbumCollection, faHomeAlt, faPlayCircle, faPause, faCircle, faPlay, faPlayCircle, faTimes, faExternalLinkSquare, faDesktop)
 
 Vue.config.productionTip = false;
 
@@ -31,6 +33,7 @@ Vue.component('k-progress', KProgress);
 
 
 const routes = [
+  {path: '/about', component: About},
   {path: '/prelogin', component: PreLogin},
   {path: '/duration', component: Duration},
   {path: '/danceability', component: Danceability},

@@ -159,6 +159,7 @@ export default {
   ::-webkit-scrollbar {
     display: block;
     width: 8px;
+    height: 8px;
     background-color: #181818;
   }
 

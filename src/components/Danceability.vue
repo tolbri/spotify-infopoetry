@@ -12,9 +12,9 @@
         <div class="xl:w-120 xl:h-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
           <div class="w-full h-full p-5 z-10">
             <div class="absolute top-0 left-0 w-full h-full">
-              <img :src="`${background}`" alt="" class="opacity-20">
+              <img :src="`${background}`" alt="" class="opacity-20 rounded">
             </div>
-            <apexchart class=""
+            <apexchart class="rounded"
                        ref="scatterPlot"
                        :options="chartOptions"
                        :series="series"
@@ -27,7 +27,7 @@
         <transition name="fade">
           <div v-if="show" class="z-50 xl:w-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
             <div class="w-full h-full">
-              <img :src="`${cover}`" alt="">
+              <img :src="`${cover}`" alt="" class="rounded">
             </div>
           </div>
         </transition>
@@ -38,7 +38,7 @@
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Danceability</h2>
-            <p>Created by <span class="text-white">Tim Olbrich</span> • 2000 Songs, 20 h 30 min.</p>
+            <p>Created by <span class="text-white">Tim Olbrich</span> • 500 Songs, 32 h 45 min.</p>
             <button class="w-24 py-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs"
                     @click="show = !show">
               {{ show ? 'Play' : 'Pause' }}
@@ -46,10 +46,7 @@
           </div>
           <div class="w-full pt-5">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Information</strong>
-            <p class="pt-1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-              invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-              dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-              amet.</p>
+            <p class="pt-1">Music and dance are tightly connected to each other, which leads to the question if we prefer dancy songs over others. On the plot you can see each of the 500 greatest songs represented as a dot. A higher danceability value means that this track is more suitable to dance to. Logged in users can see their own Top-20 tracks appear in the graph. Are you a dancer?</p>
           </div>
           <div class="song-row mt-5 divide-y divide-light">
             <SongRow v-for="dataset in dataset"

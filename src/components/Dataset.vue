@@ -8,10 +8,12 @@
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Dataset</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">500 Greatest Songs of All Time</h2>
-            <p>Created by <a href="https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/" class="text-white hover:underline">Rolling Stone</a> • 500 Songs, 32 h 45 min.</p>
+            <p>Created by <a href="https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/" target="_blank" class="text-white hover:underline">Rolling Stone</a> • 500 Songs, 32 h 45 min.</p>
+            <a href="/downloads/spotify-infopoetry-rolling-stones.csv" download="spotify-infopoetry">
             <button class="w-28 py-2 mr-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs">
               Download
             </button>
+            </a>
             <a href="https://open.spotify.com/playlist/33jXjzOGlYJcnHhARPj4LK" target="_blank">
             <button class="w-28 py-2 mx-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs">
               Follow
@@ -20,10 +22,7 @@
           </div>
           <div class="w-full pt-5">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Information</strong>
-            <p class="pt-1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-              invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-              dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-              amet.</p>
+            <p class="pt-1">The music magazine Rolling Stone published a list of their greatest 500 Songs of All Time. Now you can listen to it on Spotify or download the dataset for your own purposes. The subsequent table is ordered from first place (top) to last place (bottom).</p>
           </div>
 
           <div class="py-2 pl-2 flex justify-start flex-row text-white mt-10">
