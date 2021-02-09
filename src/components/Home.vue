@@ -1,12 +1,14 @@
 <template>
-  <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
-    <Topbar />
-  <div class="home-content overflow-y-auto overflow-x-hidden">
+  <div class="flex flex-col content-spotify bg-dark w-full">
+    <div class="h-14">
+      <Topbar />
+    </div>
+  <div class="flex-1 home-content overflow-y-auto overflow-x-hidden">
     <div class="container mx-auto">
   <h2 class="top-bar-headline mt-24 text-5xl font-semibold text-white">Home</h2>
   <div class="mt-12">
     <h3 class="font-semibold text-xl border-b border-light pb-2">Data Visualizations</h3>
-    <div class="flex items-center mt-4 -mx-4 flex-wrap">
+    <div class="flex items-start mt-4 -mx-4 flex-wrap">
 
       <div class="xl:w-1/5 lg:w-1/4 w-1/2 px-4  mb-10 lg:mb-0 mb-0">
         <router-link to="/songpopularity">
@@ -99,7 +101,7 @@
 
   <div class="mt-12 mb-12">
     <h3 class="font-semibold text-xl border-b border-light pb-2">Disclosure</h3>
-    <div class="flex items-center mt-4 -mx-4">
+    <div class="flex items-start mt-4 -mx-4">
       <div class="xl:w-1/5 lg:w-1/4 w-1/3 px-4  mb-10 lg:mb-0 mb-0">
         <router-link to="/duration">
           <a href="#">

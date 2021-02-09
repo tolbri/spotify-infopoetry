@@ -1,10 +1,10 @@
 <template>
-  <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
-    <Topbar/>
-
-    <div class="overflow-y-auto overflow-x-hidden">
-      <div class="container mx-auto">
-        <div class="">
+  <div class="flex flex-col content-spotify bg-dark w-full">
+    <div class="h-14">
+      <Topbar />
+    </div>
+    <div class=" overflow-y-auto overflow-x-hidden">
+      <div class="container mx-auto flex flex-col h-full">
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Dataset</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">500 Greatest Songs of All Time</h2>
@@ -62,7 +62,6 @@
           </div>
         </div>
       </div>
-    </div>
   </div>
 </template>
 

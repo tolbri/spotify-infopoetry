@@ -1,11 +1,11 @@
 <template>
-  <div class="header z-10 top-bar flex justify-stretch px-4">
+  <div class="h-full header z-10 top-bar flex justify-stretch px-4">
     <div class="flex flex-1 items-center">
       <h2 class="headline text-2xl font-semibold text-white px-5"></h2>
     </div>
     <div class="flex items-center">
       <div class="relative w-8 h-8">
-      <img v-if="$store.getters.user" :src="$store.getters.user.images[0].url" class="rounded-full" />
+      <img v-if="$store.getters.user" :src="$store.getters.user.images[0].url" class="rounded-full h-full w-full" />
       </div>
       <router-link to="/prelogin" v-if="$store.getters.user == null">
       <a  href="#" class="ml-2 hover:underline hover:text-white">Login</a>
@@ -32,31 +32,41 @@
 <script>
 
 export default {
-  mounted() {
-    const header = document.querySelector(".top-bar");
-    const headline = document.querySelector(".headline");
-    const headlineText = document.querySelector(".top-bar-headline");
-    const observerOptions = {
-      rootMargin: "0px 0px 0px 0px"
-    };
-
-    const intersectionObserver = new IntersectionObserver(function(entries) {
-      entries.forEach(entry => {
-        if(!entry.isIntersecting) {
-          headline.textContent = headlineText.textContent;
-          header.classList.add("active");
-
-        } else {
-          headline.textContent = "";
-          header.classList.remove("active");
-        }
-      })
-    }, observerOptions);
-    intersectionObserver.observe(headlineText);
+  mounted(){
+    this.displayHeader()
+  } ,
+  watch:{
+    $route (){
+      this.displayHeader()
+    }
   },
   data: function(){
     return {
       accountOptions: false
+    }
+  },
+  methods: {
+    displayHeader(){
+      const header = document.querySelector(".top-bar");
+      const headline = document.querySelector(".headline");
+      const headlineText = document.querySelector(".top-bar-headline");
+      const observerOptions = {
+        rootMargin: "0px 0px 0px 0px"
+      };
+
+      const intersectionObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(entry => {
+          if(!entry.isIntersecting) {
+            headline.textContent = headlineText.textContent;
+            header.classList.add("active");
+
+          } else {
+            headline.textContent = "";
+            header.classList.remove("active");
+          }
+        })
+      }, observerOptions);
+      intersectionObserver.observe(headlineText);
     }
   },
   name: "Topbar"
@@ -66,7 +76,6 @@ export default {
 
 <style scoped>
 .top-bar {
-  height: 52px;
   border-bottom: #282828 solid 1px;
   transition: .5s;
 }

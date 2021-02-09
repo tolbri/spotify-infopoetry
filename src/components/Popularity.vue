@@ -1,6 +1,8 @@
 <template>
-  <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
-    <Topbar/>
+  <div class="flex flex-col content-spotify bg-dark w-full">
+    <div class="h-14">
+      <Topbar />
+    </div>
     <div class="overflow-y-auto overflow-x-hidden">
       <div class="container mx-auto">
         <transition name="fade">
