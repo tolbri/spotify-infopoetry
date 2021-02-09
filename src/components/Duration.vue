@@ -8,31 +8,37 @@
           <!--          <div v-if="!show" class="background-cover opacity-20 absolute top-0 left-44 w-136 h-full" v-bind:style="{'background-image': 'url('+`${cover}`+')'}" >-->
           <!--          </div>-->
         </transition>
-        <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
-          <div class="w-full h-full p-5">
-            <apexchart
-                ref="scatterPlot"
-                :options="chartOptions"
-                :series="series"
-                height="100%"
-                type="scatter"
-                width="100%">
+        <div class="xl:w-120 xl:h-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div class="w-full h-full p-5 z-10">
+            <div class="absolute top-0 left-0 w-full h-full">
+              <img :src="`${background}`" alt="" class="opacity-20">
+            </div>
+            <apexchart class=""
+                       ref="scatterPlot"
+                       :options="chartOptions"
+                       :series="series"
+                       height="100%"
+                       type="scatter"
+                       width="100%">
             </apexchart>
           </div>
         </div>
         <transition name="fade">
-          <div v-if="show" class="z-50 w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div v-if="show" class="z-50 xl:w-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
             <div class="w-full h-full">
               <img :src="`${cover}`" alt="">
             </div>
           </div>
         </transition>
-        <div class="pl-130">
+        <div class="fixed w-full -ml-10 hidden md:flex lg:hidden">
+          <div class="absolute h-96 w-full bg-darkest shadow-lg opacity-90"></div>
+        </div>
+        <div class="xl:pl-130 lg:pl-96 md:pt-96 lg:pt-0">
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Playback Duration</h2>
             <p>Created by <span class="text-white">Tim Olbrich</span> • 2000 Songs, 20 h 30 min.</p>
-            <button class="w-24 py-2 mt-5 text-center bg-main rounded-full uppercase tracking-wide text-white text-xs"
+            <button class="w-24 py-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs"
                     @click="show = !show">
               {{ show ? 'Play' : 'Pause' }}
             </button>
@@ -71,10 +77,11 @@
 import SongRow from "@/components/SongRow";
 import dataset from "./../services/song_duration.json";
 import cover from "./../assets/albumcover04.jpg";
+import background from "./../assets/background04.jpg";
 import Topbar from "@/components/Topbar";
 
 export default {
-  name: "SongAttributes",
+  name: "Duration",
   components: {SongRow, Topbar},
   mounted() {
     this.userTrackPopularity();
@@ -83,6 +90,7 @@ export default {
   data() {
     return {
       cover,
+      background,
       show: true,
       dataset,
       startData: {
@@ -91,7 +99,7 @@ export default {
       },
       songPopularity: null,
       chartOptions: {
-        colors: ['#121212', '#1DB954'],
+        colors: ["#fff", "#EF4444"],
         tooltip: {
           enabled: false
         },
@@ -120,7 +128,7 @@ export default {
             type: 'xy',
             autoScaleYaxis: true,
           },
-          background: '#282828',
+          // background: '#282828',
           offsetX: 0
         },
         legend: {
@@ -140,8 +148,10 @@ export default {
           max: 100,
           tickAmount: 2,
           labels: {
-            rotate: 0,
-          },
+            style: {
+              colors: "#B3B3B3",
+            }
+            },
           axisBorder: {
             show: true,
             offsetY: 1
@@ -160,6 +170,9 @@ export default {
           tickAmount: 12,
           show: true,
           labels: {
+            style: {
+              colors: "#B3B3B3",
+            },
             formatter: function(value) {
               let minutes = Math.floor(value / 60000);
               let seconds = ((value % 60000) / 1000).toFixed(0);
@@ -197,7 +210,7 @@ export default {
       });
       let userTrackDanceability = this.userTrackPopularity();
       if(this.$store.getters.topTracks) {
-        this.$refs.scatterPlot.updateOptions({ colors: ['#E91E63','#121212', '#1DB954'] })
+        this.$refs.scatterPlot.updateOptions({ colors: ["#A327D6","#fff", "#EF4444"]});
         this.series = [
           {
             name: "You",
@@ -249,7 +262,7 @@ export default {
       let userTrackDanceability = this.userTrackPopularity();
 
       if(userTrackDanceability) {
-        this.$refs.scatterPlot.updateOptions({ colors: ['#E91E63','#121212', '#1DB954'] })
+        this.$refs.scatterPlot.updateOptions({ colors: ["#A327D6","#fff", "#EF4444"]});
         this.series = [
           {
             name: "You",
@@ -293,16 +306,5 @@ export default {
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */
 {
   opacity: 0;
-}
-
-
-.dataset::-webkit-scrollbar {
-  width: 8px;
-  background-color: #181818;
-}
-
-.dataset::-webkit-scrollbar-thumb {
-  border-radius: 8px;
-  background-color: #535353;
 }
 </style>

@@ -1,17 +1,33 @@
 <template>
-  <div @click="emitDetails" class="py-2 pl-2 flex items-center text-white hover:bg-light cursor-pointer">
-    <div @click="playSong()" class="h-10 w-14 flex items-center ">
-        <font-awesome-icon class="text-lightest hover:text-white" size="2x" :icon="['fas', 'play-circle']" />
+  <div class="py-2 pl-2 flex justify-start flex-row text-white" v-bind:class="{ 'cursor-pointer':!dataset, 'hover:bg-light': !dataset }" @click="emitDetails(), showChart();">
+
+    <div class="w-10 flex items-center " @click="playSong()">
+        <font-awesome-icon :icon="['fas', 'play-circle']" class="text-lightest hover:text-white" size="2x" />
     </div>
-    <div class="flex w-full truncate" @click="showChart();">
-    <img class="h-10 w-10" :src="`${album_cover}`" alt=""/>
-    <div class="ml-10">
-      <h1 class="text-sm">{{ track }}</h1>
-      <p class="text-xs mt-1 text-lightest">
+
+      <div class="w-10">
+        <img :src="`${album_cover}`" alt="" class="w-full"/>
+      </div>
+
+    <div class="xl:pl-10 pl-5 xl:w-96 lg:w-56 w-full">
+      <h1 class="text-sm truncate px-2">{{ track }}</h1>
+      <p class="text-xs mt-1 text-lightest truncate px-2">
         {{ artist }}
       </p>
     </div>
-  </div>
+
+
+      <div class="xl:w-72 lg:w-52 lg:flex hidden px-2" v-if="dataset">
+        <p class="truncate">{{writers}}</p>
+      </div>
+      <div class="xl:w-72 lg:w-52 lg:flex hidden px-2" v-if="dataset">
+        <p class="truncate">{{producer}}</p>
+      </div>
+      <div class="xl-20 xl:flex hidden px-2 text-right" v-if="dataset">
+        {{year}}
+      </div>
+
+
   </div>
 </template>
 
@@ -73,6 +89,16 @@ export default {
     },
     duration: {
       type: [Number]
+    },
+    writers: {
+      type: [String],
+    },
+    producer: {
+      type: [String]
+    },
+    dataset: {
+      type: [Boolean],
+      default: false
     }
   },
   methods: {

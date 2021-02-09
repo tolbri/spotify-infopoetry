@@ -3,7 +3,7 @@
       class="w-full bg-dark h-1 relative overflow-hidden rounded-full "
   >
     <div
-        class="h-full progressbar absolute top-0 rounded-full bg-main"
+        class="h-full progressbar absolute top-0 rounded-full bg-purple-600"
         role="progressbar"
         :style="{width: `${percentage}%`}"
         :aria-valuenow="percentage"

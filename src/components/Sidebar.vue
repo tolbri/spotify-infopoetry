@@ -40,27 +40,12 @@
         <li class="truncate"><a href="#" class="hover:text-white">Playback Duration</a></li>
         </router-link>
       </ul>
-      <div class="h-64">
 
-      </div>
-<!--      <h3 class="uppercase tracking-widest text-lightest font-light text-xs mt-6">Your Playlists</h3>-->
-<!--      <ul class="leading-extra-loose mb-6">-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Acoustic Hits</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Acoustic Covers</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Discover Weekly</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Hot Hits Canada</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">90's Hip-Hop Don't Stop Long Text</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">90s Smash Hits</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">TGIF</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">mint Canada</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Hip-Hop Central</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">R&amp;B Right Now</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">I Love My '90s R&amp;B</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Are &amp; Be</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Today's Top Hits</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">Get Turnt</a></li>-->
-<!--        <li class="truncate"><a href="#" class="hover:text-white">iTunes</a></li>-->
-<!--      </ul>-->
+      <h3 class="uppercase tracking-widest text-lightest font-light text-xs mt-6">Disclosure</h3>
+      <ul class="leading-extra-loose mb-6">
+        <li class="truncate"><a href="#" class="hover:text-white">Spotify API</a></li>
+      </ul>
+
     </div>
 <!--    <div class="border-t border-light h-16 px-4 py-2 flex items-center group">-->
 <!--      <svg class="fill-current text-lightest w-8 h-8 group-hover:text-white" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M12 22a10 10 0 110-20 10 10 0 010 20zm0-2a8 8 0 100-16 8 8 0 000 16zm1-9h2a1 1 0 010 2h-2v2a1 1 0 01-2 0v-2H9a1 1 0 010-2h2V9a1 1 0 012 0v2z"/></svg>-->
@@ -77,7 +62,7 @@ name: "Sidebar"
 
 <style scoped>
 .router-link-exact-active li {
-  @apply border-main;
+  @apply border-purple-600;
 }
 
 </style>

@@ -1,0 +1,5002 @@
+[
+  {
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "writers": "Dylan",
+    "producer": "Tom Wilson",
+    "year": 1965,
+    "album_name": "Highway 61 Revisited",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273540a241e3001ddc276b9ab93",
+    "spotify_id": "3AhXZa8sUQht0UEdBJgpGc"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Andrew Loog Oldham",
+    "year": 1965,
+    "album_name": "Out Of Our Heads",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b",
+    "spotify_id": "2PzU4IB8Dr6mxV3lHuaG34"
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "writers": "John Lennon",
+    "producer": "Lennon, Phil Spector, Yoko Ono",
+    "year": 1971,
+    "album_name": "Imagine",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27399581550ef9746ca582bb3cc",
+    "spotify_id": "7pKfPomDEeI4TPT6EOYjn9"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "writers": "Gaye, Renaldo Benson, Al Cleveland",
+    "producer": "Gaye",
+    "year": 1971,
+    "album_name": "What's Going On",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a50b1d091804aa030724874c",
+    "spotify_id": "4RNHbYuRaZesMODlihhsUG"
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "writers": "Otis Redding",
+    "producer": "Jerry Wexler",
+    "year": 1967,
+    "album_name": "I Never Loved a Man the Way I Love You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+    "spotify_id": "7s25THrKz86DM225dOYwnr"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations",
+    "writers": "Brian Wilson, Mike Love",
+    "producer": "Wilson",
+    "year": 1966,
+    "album_name": "Smiley Smile (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fb9dac3244b8486758058a81",
+    "spotify_id": "5t9KYe0Fhd5cW6UYT4qP8f"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "writers": "Chuck Berry",
+    "producer": "Leonard and Phil Chess",
+    "year": 1958,
+    "album_name": "Berry Is On Top",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+    "spotify_id": "2QfiRTz5Yc8DdShCxG1tB2"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Hey Jude",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1968,
+    "album_name": "1 (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+    "spotify_id": "0aym2LBJBk9DAYuHHutrIl"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "writers": "Kurt Cobain",
+    "producer": "Butch Vig",
+    "year": 1991,
+    "album_name": "Nevermind (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "spotify_id": "5ghIJDpPoe3CfHMGu71E6T"
+  },
+  {
+    "artist": "Ray Charles",
+    "title": "What'd I Say",
+    "writers": "Charles",
+    "producer": "Ahmet Ertegun, Jerry Wexler",
+    "year": 1959,
+    "album_name": "What'd I Say",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731990f67950270de15b709d99",
+    "spotify_id": "5yQ9iMZXGcr5rlO4hoLsP4"
+  },
+  {
+    "artist": "The Who",
+    "title": "My Generation",
+    "writers": "Pete Townshend",
+    "producer": "Shel Talmy",
+    "year": 1965,
+    "album_name": "My Generation",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9",
+    "spotify_id": "4u9f8hqstB7iITDJNzKhQx"
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
+    "writers": "Cooke",
+    "producer": "Hugo Peretti, Luigi Creatore",
+    "year": 1964,
+    "album_name": "Ain't That Good News",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737329db55d8ec4e851b694aa1",
+    "spotify_id": "0KOE1hat4SIer491XKk4Pa"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Yesterday",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1965,
+    "album_name": "Help! (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+    "spotify_id": "3BQHpFgAp4l80e1XslIjNI"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Blowin' in the Wind",
+    "writers": "Dylan",
+    "producer": "John Hammond",
+    "year": 1963,
+    "album_name": "The Freewheelin' Bob Dylan",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+    "spotify_id": "18GiV1BaXzPVYpp9rmOg0E"
+  },
+  {
+    "artist": "The Clash",
+    "title": "London Calling",
+    "writers": "Mick Jones, Joe Strummer",
+    "producer": "Guy Stevens",
+    "year": 1980,
+    "album_name": "London Calling (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182",
+    "spotify_id": "5jzma6gCzYtKB1DbEwFZKH"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "I Want to Hold Your Hand",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1963,
+    "album_name": "1 (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+    "spotify_id": "4pbG9SUmWIvsROVLF0zF9s"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Purple Haze",
+    "writers": "Hendrix",
+    "producer": "Chas Chandler",
+    "year": 1967,
+    "album_name": "Are You Experienced",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+    "spotify_id": "0wJoRiX5K5BxlqZTolB2LD"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Maybellene",
+    "writers": "Berry",
+    "producer": "Leonard and Phil Chess",
+    "year": 1955,
+    "album_name": "Berry Is On Top",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+    "spotify_id": "3SQhmctWreNM0X6Zkm2K5R"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Hound Dog",
+    "writers": "Jerry Leiber, Mike Stoller",
+    "producer": "Steve Sholes",
+    "year": 1956,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "64Ny7djQ6rNJspquof2KoX"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1970,
+    "album_name": "Let It Be (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
+    "spotify_id": "7iN1s7xHE4ifF5povM6A48"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Born to Run",
+    "writers": "Springsteen",
+    "producer": "Springsteen, Mike Appel",
+    "year": 1975,
+    "album_name": "Born To Run",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273503143a281a3f30268dcd9f9",
+    "spotify_id": "6hTcuIQa0sxrrByu9wTD7s"
+  },
+  {
+    "artist": "The Ronettes",
+    "title": "Be My Baby",
+    "writers": "Jeff Barry, Ellie Greenwich, Phil Spector",
+    "producer": "Spector",
+    "year": 1963,
+    "album_name": "Be My Baby: The Very Best of The Ronettes",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
+    "spotify_id": "2G2YzndIA6jeWFPBXhUjh5"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "In My Life",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1965,
+    "album_name": "Rubber Soul (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4",
+    "spotify_id": "3KfbEIOC7YIv90FIfNSZpo"
+  },
+  {
+    "artist": "The Impressions",
+    "title": "People Get Ready",
+    "writers": "Curtis Mayfield",
+    "producer": "Johnny Pate",
+    "year": 1965,
+    "album_name": "People Get Ready",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731ae893c8b27d4180044f6293",
+    "spotify_id": "6AeG6jSoAVbmUFO6LyYmBf"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "writers": "Brian Wilson, Tony Asher",
+    "producer": "Wilson",
+    "year": 1966,
+    "album_name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bde8dfd1922129f3d9e3732f",
+    "spotify_id": "6iGU74CwXuT4XVepjc9Emf"
+  },
+  {
+    "artist": "Otis Redding",
+    "title": "(Sittin' on) the Dock of the Bay",
+    "writers": "Redding, Steve Cropper",
+    "producer": "Cropper",
+    "year": 1968,
+    "album_name": "The Dock of the Bay (Mono)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27313a5da9563c438059afa7ad4",
+    "spotify_id": "3zBhihYUHBmGd2bcQIobrF"
+  },
+  {
+    "artist": "Derek and the Dominos",
+    "title": "Layla",
+    "writers": "Eric Clapton, Jim Gordon",
+    "producer": "Tom Dowd, the Dominos",
+    "year": 1970,
+    "album_name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fbcaf7402f38faac27610efc",
+    "spotify_id": "2kkvB3RNRzwjFdGhaUA0tz"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Day in the Life",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1967,
+    "album_name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a",
+    "spotify_id": "0hKRSZhUGEhKU6aNSPBACZ"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Help!",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1965,
+    "album_name": "Help! (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+    "spotify_id": "7DD7eSuYSC5xk2ArU62esN"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "I Walk the Line",
+    "writers": "Cash",
+    "producer": "Sam Phillips",
+    "year": 1956,
+    "album_name": "I Walk the Line (Original Soundtrack Recording)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737586047ed2cb60ea3188b5bd",
+    "spotify_id": "7hxZF4jETnE5Q75rKQnMjE"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven",
+    "writers": "Jimmy Page, Robert Plant",
+    "producer": "Page",
+    "year": 1971,
+    "album_name": "Led Zeppelin IV (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+    "spotify_id": "5CQ30WqJwcep0pYcV4AMNc"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Sympathy for the Devil",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1968,
+    "album_name": "Beggars Banquet (50th Anniversary Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27344934a06d21864415376f5f2",
+    "spotify_id": "1Ud6moTC0KyXMq1Oxfien0"
+  },
+  {
+    "artist": "Ike and Tina Turner",
+    "title": "River Deep - Mountain High",
+    "writers": "Phil Spector, Jeff Barry, Ellie Greenwich",
+    "producer": "Spector",
+    "year": 1966,
+    "album_name": "Tina!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730fb7bfe5782ceb4198b9db2b",
+    "spotify_id": "19jo0UT2vqD4pNVfIqTy4R"
+  },
+  {
+    "artist": "The Righteous Brothers",
+    "title": "You've Lost That Lovin' Feelin'",
+    "writers": "Phil Spector, Barry Mann, Cynthia Weil",
+    "producer": "Spector",
+    "year": 1964,
+    "album_name": "You've Lost That Lovin' Feelin'",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f62ec50234d5578631792ea8",
+    "spotify_id": "6AeyHqzNHJthYJbn0tvJ4b"
+  },
+  {
+    "artist": "The Doors",
+    "title": "Light My Fire",
+    "writers": "Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek",
+    "producer": "Paul Rothchild",
+    "year": 1967,
+    "album_name": "The Doors",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735b96a8c5d61be8878452f8f1",
+    "spotify_id": "5uvosCdMlFdTXhoazkTI5R"
+  },
+  {
+    "artist": "U2",
+    "title": "One",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Brian Eno, Daniel Lanois",
+    "year": 1991,
+    "album_name": "Achtung Baby (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27337cd18af5725b9cad0a5ab53",
+    "spotify_id": "3G69vJMWsX6ZohTykad2AU"
+  },
+  {
+    "artist": "Bob Marley",
+    "title": "No Woman, No Cry",
+    "writers": "Vincent Ford, Marley",
+    "producer": "Chris Blackwell, Marley and the Wailers",
+    "year": 1975,
+    "album_name": "Live!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739c7b208c7c3ecdb325613d34",
+    "spotify_id": "423hwXFgoN8RYmqLoLuVvY"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Gimme Shelter",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1969,
+    "album_name": "Let It Bleed",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
+    "spotify_id": "6H3kDe7CGoWYBabAeVWGiD"
+  },
+  {
+    "artist": "Buddy Holly and the Crickets",
+    "title": "That'll Be the Day",
+    "writers": "Jerry Allison, Holly, Norman Petty",
+    "producer": "Petty",
+    "year": 1957,
+    "album_name": "True Love Ways",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27343ccc13f5689361657ceeddd",
+    "spotify_id": "0sXddx2CKFucyWtLmLZEGp"
+  },
+  {
+    "artist": "Martha Reeves and the Vandellas",
+    "title": "Dancing in the Street",
+    "writers": "Marvin Gaye, Ivy Hunter, William \"Mickey\" Stevenson",
+    "producer": "Stevenson",
+    "year": 1965,
+    "album_name": "Dance Party",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
+    "spotify_id": "6rLqjzGV5VMLDWEnuUqi8q"
+  },
+  {
+    "artist": "The Band",
+    "title": "The Weight",
+    "writers": "Robbie Robertson",
+    "producer": "John Simon",
+    "year": 1968,
+    "album_name": "Music From Big Pink (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320bbceac6950d3fe13fa13c3",
+    "spotify_id": "0P7DoyGrr4Wp9w5TotEtUC"
+  },
+  {
+    "artist": "The Kinks",
+    "title": "Waterloo Sunset",
+    "writers": "Ray Davies",
+    "producer": "Ray Davies",
+    "year": 1968,
+    "album_name": "Something Else (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730e8ad2c568fb819d76717ca2",
+    "spotify_id": "5nrmGFJ87crVoJF5xdRqwn"
+  },
+  {
+    "artist": "Little Richard",
+    "title": "Tutti-Frutti",
+    "writers": "Dorothy La Bostrie, Richard Penniman, Joe Lubin",
+    "producer": "Robert \"Bumps\" Blackwell",
+    "year": 1955,
+    "album_name": "Here's Little Richard (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738a22827b01e5d68d3736d58b",
+    "spotify_id": "2iXcvnD3d1gfLBum0cE5Eg"
+  },
+  {
+    "artist": "Ray Charles",
+    "title": "Georgia on My Mind",
+    "writers": "Hoagy Carmichael, Stuart Gorrell",
+    "producer": "Sid Feller",
+    "year": 1960,
+    "album_name": "Made in the Usa Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27337124f88e23fbf010f9b2d80",
+    "spotify_id": "4Mckv604NWFSw11g4iCgG0"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Heartbreak Hotel",
+    "writers": "Mae Boren Axton, Tommy Durden, Presley",
+    "producer": "Steve Sholes",
+    "year": 1956,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "6xNwKNYZcvgV3XTIwsgNio"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Heroes",
+    "writers": "Bowie, Brian Eno",
+    "producer": "Tony Visconti",
+    "year": 1977,
+    "album_name": "Heroes\" (2017 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bc1c63a5b66ab9ac3ea21672",
+    "spotify_id": "7Jh1bpe76CNTCgdgAdBw4Z"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "All Along the Watchtower",
+    "writers": "Bob Dylan",
+    "producer": "Hendrix",
+    "year": 1968,
+    "album_name": "Electric Ladyland",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+    "spotify_id": "2aoo2jlRnM3A0NyLQqMN2f"
+  },
+  {
+    "artist": "Simon and Garfunkel",
+    "title": "Bridge Over Troubled Water",
+    "writers": "Paul Simon",
+    "producer": "Art Garfunkel, Roy Halee, Simon",
+    "year": 1970,
+    "album_name": "Bridge Over Troubled Water",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f",
+    "spotify_id": "6l8EbYRtQMgKOyc1gcDHF9"
+  },
+  {
+    "artist": "The Eagles",
+    "title": "Hotel California",
+    "writers": "Don Felder, Glenn Frey, Don Henley",
+    "producer": "Bill Szymczyk",
+    "year": 1976,
+    "album_name": "Hotel California (2013 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+    "spotify_id": "40riOy7x9W7GXjyGp4pjAv"
+  },
+  {
+    "artist": "Smokey Robinson and the Miracles",
+    "title": "The Tracks of My Tears",
+    "writers": "Pete Moore, Robinson, Marv Tamplin",
+    "producer": "Robinson",
+    "year": 1965,
+    "album_name": "Going To A Go-Go",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27396ebd8447b29307e31f95090",
+    "spotify_id": "6QyQmdvQ1ywNccYa0pwLNQ"
+  },
+  {
+    "artist": "Grandmaster Flash and the Furious Five",
+    "title": "The Message",
+    "writers": "Duke Bootee, Melle Mel",
+    "producer": "Sylvia Robinson",
+    "year": 1982,
+    "album_name": "The Message",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273798575ed938d0968a00ce887",
+    "spotify_id": "5DuTNKFEjJIySAyJH1yNDU"
+  },
+  {
+    "artist": "Prince",
+    "title": "When Doves Cry",
+    "writers": "Prince",
+    "producer": "Prince",
+    "year": 1984,
+    "album_name": "Purple Rain",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b",
+    "spotify_id": "51H2y6YrNNXcy3dfc3qSbA"
+  },
+  {
+    "artist": "Percy Sledge",
+    "title": "When a Man Loves a Woman",
+    "writers": "Calvin Lewis, Andrew Wright",
+    "producer": "Marlin Greene, Quin Ivy",
+    "year": 1966,
+    "album_name": "When A Man Loves A Woman",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27359e8deadd0cf6df8e570a9f8",
+    "spotify_id": "51FpzuGkRYXFgsE2zXt9av"
+  },
+  {
+    "artist": "The Kingsmen",
+    "title": "Louie Louie",
+    "writers": "Richard Berry",
+    "producer": "Ken Chase",
+    "year": 1963,
+    "album_name": "The Best of The Kingsmen",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27348e88654b690107f44596b17",
+    "spotify_id": "0iA3xXSkSCiJywKyo1UKjQ"
+  },
+  {
+    "artist": "Little Richard",
+    "title": "Long Tall Sally",
+    "writers": "Robert \"Bumps\" Blackwell, Enotris Johnson, Little Richard",
+    "producer": "Blackwell",
+    "year": 1956,
+    "album_name": "Here's Little Richard (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738a22827b01e5d68d3736d58b",
+    "spotify_id": "507IFqPuG8mBQoKebfGG9t"
+  },
+  {
+    "artist": "The Sex Pistols",
+    "title": "Anarchy in the U.K.",
+    "writers": "Paul Cook, Steve Jones, Glen Matlock, Johnny Rotten",
+    "producer": "Chris Thomas, Bill Price",
+    "year": 1977,
+    "album_name": "Never Mind The Bollocks, Here's The Sex Pistols",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d0f19de33459c832e50d6ecd",
+    "spotify_id": "3LoDeIbiR12sAznmpNEmKA"
+  },
+  {
+    "artist": "Procol Harum",
+    "title": "Whiter Shade of Pale",
+    "writers": "Keith Reid, Gary Brooker",
+    "producer": "Denny Cordell",
+    "year": 1967,
+    "album_name": "Hits'n'Flips",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739d713ba3dce10df2b943dc6a",
+    "spotify_id": "78ZqE2tjAxbqEGGlvGnQfT"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Billie Jean",
+    "writers": "Jackson",
+    "producer": "Jackson, Quincy Jones",
+    "year": 1983,
+    "album_name": "Thriller 25 Super Deluxe Edition",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "spotify_id": "5ChkMS8OtdzJeqyybCc9R5"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "The Times They Are A-Changin",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1964,
+    "album_name": "The Times They Are A-Changin'",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733b812eed53f0d7e134fe446e",
+    "spotify_id": "52vA3CYKZqZVdQnzRrdZt6"
+  },
+  {
+    "artist": "Al Green",
+    "title": "Let's Stay Together",
+    "writers": "Al Green, Al Jackson Jr., Willie Mitchell",
+    "producer": "Mitchell",
+    "year": 1971,
+    "album_name": "Let's Stay Together",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732c3ecdbc368a97ad038f640c",
+    "spotify_id": "63xdwScd1Ai1GigAwQxE8y"
+  },
+  {
+    "artist": "Jerry Lee Lewis",
+    "title": "Whole Lotta Shakin' Going On",
+    "writers": "Dave Williams, Roy Hall",
+    "producer": "Jack Clement",
+    "year": 1957,
+    "album_name": "Original Golden Hits - Volume 1",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273590307592dffc5c83ed9d129",
+    "spotify_id": "19J1kwHa3sgxLwaWDleGhd"
+  },
+  {
+    "artist": "Bo Diddley",
+    "title": "Bo Diddley",
+    "writers": "Ellas McDaniel",
+    "producer": "Phil and Leonard Chess",
+    "year": 1955,
+    "album_name": "Bo Diddley",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dcd1d02a2b91f0842ad105ed",
+    "spotify_id": "2R7uUQ0Dehu80gsOcydQC9"
+  },
+  {
+    "artist": "Buffalo Springfield",
+    "title": "For What It's Worth",
+    "writers": "Stephen Stills",
+    "producer": "Charles Greene, Brian Stone",
+    "year": 1967,
+    "album_name": "Buffalo Springfield",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89",
+    "spotify_id": "1qRA5BS78u3gME0loMl9AA"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "She Loves You",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1963,
+    "album_name": "1 (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+    "spotify_id": "6nEkxYIEnrbYH7h1hJ8Xn6"
+  },
+  {
+    "artist": "Cream",
+    "title": "Sunshine of Your Love",
+    "writers": "Jack Bruce, Pete Brown, Eric Clapton",
+    "producer": "Felix Pappalardi",
+    "year": 1968,
+    "album_name": "Disraeli Gears (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273db1fb2dede292908e86d94d7",
+    "spotify_id": "2K2M0TcglCRLLpFOzKeFZA"
+  },
+  {
+    "artist": "Bob Marley and the Wailers",
+    "title": "Redemption Song",
+    "writers": "Marley",
+    "producer": "Chris Blackwell",
+    "year": 1980,
+    "album_name": "Uprising",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
+    "spotify_id": "26PwuMotZqcczKLHi4Htz3"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Jailhouse Rock",
+    "writers": "Jerry Leiber, Mike Stoller",
+    "producer": "Steve Sholes",
+    "year": 1957,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "4gphxUgq0JSFv2BCLhNDiE"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Tangled Up in Blue",
+    "writers": "Dylan",
+    "producer": "Dylan",
+    "year": 1975,
+    "album_name": "Blood On The Tracks",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27372ca15b8637acbc7d15ff5ba",
+    "spotify_id": "6Vcwr9tb3ZLO63F8DL8cqu"
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Crying",
+    "writers": "Joe Melson, Orbison",
+    "producer": "Fred Foster",
+    "year": 1961,
+    "album_name": "Crying",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732b150c08d3c57a785b02c578",
+    "spotify_id": "6eLL7QTdMWdhhG4i3jHDR9"
+  },
+  {
+    "artist": "Dionne Warwick",
+    "title": "Walk On By",
+    "writers": "Burt Bacharach, Hal David",
+    "producer": "Bacharach, David",
+    "year": 1964,
+    "album_name": "Make Way For Dionne Warwick",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27391f2d96a42e77de7834a8523",
+    "spotify_id": "3xsOtNxtBW0oTI1OWKAzTm"
+  },
+  {
+    "artist": "James Brown",
+    "title": "Papa's Got A Brand New Bag",
+    "writers": "Brown",
+    "producer": "Brown",
+    "year": 1966,
+    "album_name": "20 All-Time Greatest Hits!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27312b16cbb525e11bcbfd50d82",
+    "spotify_id": "6v4gV9s0pnwKbmF1yk5knO"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "California Girls",
+    "writers": "Brian Wilson, Mike Love",
+    "producer": "Wilson",
+    "year": 1965,
+    "album_name": "Summer Days (And Summer Nights) [Remastered]",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ffe1a4788385a4835ae14df8",
+    "spotify_id": "6bJuuCtXYiwOcKT9s8uRh8"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Superstition",
+    "writers": "Wonder",
+    "producer": "Wonder, Malcolm Cecil, Robert Margouleff",
+    "year": 1972,
+    "album_name": "The Definitive Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+    "spotify_id": "1h2xVEoJORqrg71HocgqXd"
+  },
+  {
+    "artist": "Eddie Cochran",
+    "title": "Summertime Blues",
+    "writers": "Cochran, Jerry Capehart",
+    "producer": "Capehart",
+    "year": 1958,
+    "album_name": "12 Of His Biggest Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27324c50e31cea9cf898d05448c",
+    "spotify_id": "3oAWTk92mZBxKBOKf8mR5v"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Whole Lotta Love",
+    "writers": "Willie Dixon, Led Zeppelin",
+    "producer": "Jimmy Page",
+    "year": 1969,
+    "album_name": "Led Zeppelin II (1994 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
+    "spotify_id": "0hCB0YR03f6AmQaHbwWDe8"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Strawberry Fields Forever",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1967,
+    "album_name": "Magical Mystery Tour (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
+    "spotify_id": "3Am0IbOxmvlSXro7N5iSfZ"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Mystery Train",
+    "writers": "Junior Parker, Sam Phillips",
+    "producer": "Phillips",
+    "year": 1955,
+    "album_name": "For LP Fans Only",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735e4c9a47023c30429966ed6e",
+    "spotify_id": "0GvhHQbWSnGltjl0je61dI"
+  },
+  {
+    "artist": "James Brown",
+    "title": "I Got You (I Feel Good)",
+    "writers": "Brown",
+    "producer": "Brown",
+    "year": 1965,
+    "album_name": "I Got You (I Feel Good)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719",
+    "spotify_id": "5haXbSJqjjM0TCJ5XkfEaC"
+  },
+  {
+    "artist": "The Byrds",
+    "title": "Mr. Tambourine Man",
+    "writers": "Bob Dylan",
+    "producer": "Terry Melcher",
+    "year": 1965,
+    "album_name": "Mr. Tambourine Man",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273576fccf9a91d9f7c808b8abd",
+    "spotify_id": "2HCaIYjkvWSZzaSKUoOh3d"
+  },
+  {
+    "artist": "The Kinks",
+    "title": "You Really Got Me",
+    "writers": "Ray Davies",
+    "producer": "Shel Talmy",
+    "year": 1964,
+    "album_name": "Kinks",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733e55d44d1e71dab08c35cc1c",
+    "spotify_id": "29SyMC0plk6qw8NMF7lfRL"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "I Heard It Through the Grapevine",
+    "writers": "Barrett Strong, Norman Whitfield",
+    "producer": "Whitfield",
+    "year": 1968,
+    "album_name": "In The Groove",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
+    "spotify_id": "1tqT6DhmsrtQgyCKUwotiw"
+  },
+  {
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "writers": "Al Lewis, Larry Stock, Vincent Rose",
+    "producer": "Dave Bartholomew",
+    "year": 1956,
+    "album_name": "Greatest Hits: Walking To New Orleans",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737313f9fa26988b263f725287",
+    "spotify_id": "2NkAoxQOr6MGdMB5JDTU81"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Norwegian Wood (This Bird Has Flown)",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1965,
+    "album_name": "Rubber Soul (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4",
+    "spotify_id": "1H7gMYGykdtwZOV6s1N0by"
+  },
+  {
+    "artist": "The Police",
+    "title": "Every Breath You Take",
+    "writers": "Sting",
+    "producer": "Hugh Padgham",
+    "year": 1983,
+    "album_name": "Synchronicity (Remastered 2003)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+    "spotify_id": "1JSTJqkT5qHq8MDJnJbRE1"
+  },
+  {
+    "artist": "Patsy Cline",
+    "title": "Crazy",
+    "writers": "Willie Nelson",
+    "producer": "Owen Bradley",
+    "year": 1961,
+    "album_name": "Showcase",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736fda96b0954b958ee44c8efc",
+    "spotify_id": "3zpj9dvJABiyMrmLCPw6i8"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Thunder Road",
+    "writers": "Springsteen",
+    "producer": "Springsteen, Jon Landau, Mike Appel",
+    "year": 1975,
+    "album_name": "Born To Run",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273503143a281a3f30268dcd9f9",
+    "spotify_id": "56lhDZNQ5J47aog6mGKeGk"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Ring of Fire",
+    "writers": "June Carter, Merle Kilgore",
+    "producer": "Don Law",
+    "year": 1963,
+    "album_name": "Ring Of Fire: The Best Of Johnny Cash",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7",
+    "spotify_id": "6YffUZJ2R06kyxyK6onezL"
+  },
+  {
+    "artist": "The Temptations",
+    "title": "My Girl",
+    "writers": "Smokey Robinson, Ronald White",
+    "producer": "Robinson, White",
+    "year": 1965,
+    "album_name": "The Temptations Sing Smokey",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e",
+    "spotify_id": "745H5CctFr12Mo7cqa1BMH"
+  },
+  {
+    "artist": "The Mamas and the Papas",
+    "title": "California Dreamin'",
+    "writers": "John and Michelle Phillips",
+    "producer": "Lou Adler",
+    "year": 1965,
+    "album_name": "If You Can Believe Your Eyes & Ears",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+    "spotify_id": "4s6LhHAV5SEsOV0lC2tjvJ"
+  },
+  {
+    "artist": "The Five Satins",
+    "title": "In the Still of the Night",
+    "writers": "Fred Parris",
+    "producer": "The Five Satins",
+    "year": 1956,
+    "album_name": "For Collectors Only",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739e8ad4f8a33d8a0968769165",
+    "spotify_id": "0GVvRmCoiLkhxJvlZy9bLk"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Suspicious Minds",
+    "writers": "Mark James",
+    "producer": "Chips Moman, Felton Jarvis, Presley",
+    "year": 1969,
+    "album_name": "From Elvis in Memphis",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fdc0aa7765f3197ac9179ec7",
+    "spotify_id": "1H5IfYyIIAlgDX8zguUzns"
+  },
+  {
+    "artist": "Ramones",
+    "title": "Blitzkrieg Bop",
+    "writers": "The Ramones",
+    "producer": "Craig Leon",
+    "year": 1976,
+    "album_name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273db687db0afb257abdee10816",
+    "spotify_id": "4KcH1ZRV2W1q7Flq0QqC76"
+  },
+  {
+    "artist": "U2",
+    "title": "I Still Haven't Found What I'm Looking For",
+    "writers": "Bono",
+    "producer": "Daniel Lanois, Brian Eno",
+    "year": 1987,
+    "album_name": "The Joshua Tree (Super Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b7bea3d01f04e6d0408d2afe",
+    "spotify_id": "6wpGqhRvJGNNXwWlPmkMyO"
+  },
+  {
+    "artist": "Little Richard",
+    "title": "Good Golly, Miss Molly",
+    "writers": "Robert \"Bumps\" Blackwell, John Marascalco",
+    "producer": "Blackwell",
+    "year": 1958,
+    "album_name": "The Very Best Of... Little Richard",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733dc4895dd411bf05e0dbbf5a",
+    "spotify_id": "7ojv5P29GWTw89c7w6drV9"
+  },
+  {
+    "artist": "Carl Perkins",
+    "title": "Blue Suede Shoes",
+    "writers": "Perkins",
+    "producer": "Sam Phillips",
+    "year": 1956,
+    "album_name": "The Dance Album",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730c5504754600ac34c5cdf16b",
+    "spotify_id": "3Qylbx7tZcsP9RggQ6umUh"
+  },
+  {
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "writers": "Otis Blackwell, Jack Hammer",
+    "producer": "Sam Phillips",
+    "year": 1957,
+    "album_name": "The Golden Rock Hits Of Jerry Lee Lewis",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27369164b514dd74bee43e6898d",
+    "spotify_id": "5UvE5QlINnvEc7aFO14DVL"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Roll Over Beethoven",
+    "writers": "Berry",
+    "producer": "Leonard and Phil Chess",
+    "year": 1956,
+    "album_name": "Berry Is On Top",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+    "spotify_id": "6C7aTTCUWRK7dD379yUT3W"
+  },
+  {
+    "artist": "Al Green",
+    "title": "Love and Happiness",
+    "writers": "Green, Mabon \"Teenie\" Hodges",
+    "producer": "Willie Mitchell",
+    "year": 1972,
+    "album_name": "I'm Still in Love with You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c1b0096e79bc8e42a9bbf6b5",
+    "spotify_id": "6SMHgPgNkhe9lneNTbgtel"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Fortunate Son",
+    "writers": "John Fogerty",
+    "producer": "Fogerty",
+    "year": 1969,
+    "album_name": "Willy And The Poor Boys",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5",
+    "spotify_id": "4BP3uh0hFLFRb5cjsgLqDh"
+  },
+  {
+    "artist": "Gnarls Barkley",
+    "title": "Crazy",
+    "writers": "Brian Burton, Thomas Calloway, Gianfranco Reverberi, Gian Piero Reverberi",
+    "producer": "Danger Mouse",
+    "year": 2006,
+    "album_name": "St. Elsewhere",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273670f4666a378de834285eb33",
+    "spotify_id": "2N5zMZX7YeL1tico8oQxa9"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "You Can't Always Get What You Want",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1969,
+    "album_name": "Let It Bleed",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
+    "spotify_id": "6lFZbCc7pn6Lme1NP7qQqQ"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Voodoo Child (Slight Return)",
+    "writers": "Jimi Hendrix",
+    "producer": "Chas Chandler",
+    "year": 1968,
+    "album_name": "Electric Ladyland",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+    "spotify_id": "2AxCeJ6PSsBYiTckM0HLY7"
+  },
+  {
+    "artist": "Gene Vincent and His Blue Caps",
+    "title": "Be-Bop-A-Lula",
+    "writers": "Vincent, Bill Davis",
+    "producer": "Ken Nelson",
+    "year": 1956,
+    "album_name": "Dance To The Bop",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27300609985cc3195342e224d69",
+    "spotify_id": "0HUp7ipIDJvITTqizN6cxJ"
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "Hot Stuff",
+    "writers": "Pete Bellotte, Harold Faltermeyer, Keith Forsey",
+    "producer": "Giorgio Moroder, Bellotte",
+    "year": 1979,
+    "album_name": "Bad Girls (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768",
+    "spotify_id": "2Vnw8zKmjhr1jczUeaqiQg"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Living for the City",
+    "writers": "Wonder",
+    "producer": "Wonder",
+    "year": 1973,
+    "album_name": "The Definitive Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+    "spotify_id": "1O1mCVN5hue4lOOqd5EysZ"
+  },
+  {
+    "artist": "Simon and Garfunkel",
+    "title": "The Boxer",
+    "writers": "Paul Simon",
+    "producer": "Roy Halee, Simon, Art Garfunkel",
+    "year": 1969,
+    "album_name": "Bridge Over Troubled Water",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f",
+    "spotify_id": "76TZCvJ8GitQ2FA1q5dKu0"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Mr. Tambourine Man",
+    "writers": "Dylan",
+    "producer": "Tom Wilson",
+    "year": 1965,
+    "album_name": "Bringing It All Back Home",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736960c5f4eb72f0c06aa92181",
+    "spotify_id": "3RkQ3UwOyPqpIiIvGVewuU"
+  },
+  {
+    "artist": "Buddy Holly and the Crickets",
+    "title": "Not Fade Away",
+    "writers": "Holly, Norman Petty",
+    "producer": "Petty",
+    "year": 1957,
+    "album_name": "Not Fade Away: The Complete Studio Recordings And More",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737a199b96bb2b8d72dcf017af",
+    "spotify_id": "2iBlRjsrDW24eMqDrCBpcB"
+  },
+  {
+    "artist": "Prince",
+    "title": "Little Red Corvette",
+    "writers": "Prince",
+    "producer": "Prince",
+    "year": 1983,
+    "album_name": "4Ever",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273310d424176609be2578fa63f",
+    "spotify_id": "6X4JeTWCuKEzKOEHXDtyBo"
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "writers": "Morrison",
+    "producer": "Bert Berns",
+    "year": 1967,
+    "album_name": "Blowin' Your Mind!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733f29a976eea00141514ab936",
+    "spotify_id": "3yrSvpt2l1xhsV9Em88Pul"
+  },
+  {
+    "artist": "Otis Redding",
+    "title": "I've Been Loving You too Long (to Stop Now)",
+    "writers": "Jerry Butler, Redding",
+    "producer": "Jim Stewart, Steve Cropper",
+    "year": 1965,
+    "album_name": "Stax-Volt: The Complete Singles 1959-1968",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273165ce4e9204e41d651b3f651",
+    "spotify_id": "36Ec6qkBtFF2XYj51zs8L6"
+  },
+  {
+    "artist": "Hank Williams",
+    "title": "I'm So Lonesome I Could Cry",
+    "writers": "Williams",
+    "producer": "Fred Rose",
+    "year": 1949,
+    "album_name": "The Legend Lives Anew: Hank Williams, Sr. With Strings",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736320ce983d16a1720f2359b2",
+    "spotify_id": "4tj7IsJrn4MvesuhoY0JBy"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "That's All Right",
+    "writers": "Arthur Crudup",
+    "producer": "Sam Phillips",
+    "year": 1954,
+    "album_name": "For LP Fans Only",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735e4c9a47023c30429966ed6e",
+    "spotify_id": "0tHcXWIYt99GY8BONrPIfA"
+  },
+  {
+    "artist": "The Drifters",
+    "title": "Up on the Roof",
+    "writers": "Gerry Goffin, Carole King",
+    "producer": "Jerry Leiber, Mike Stoller",
+    "year": 1962,
+    "album_name": "Up on the Roof: The Best of the Drifters",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733bb8851909c64440332fa8f4",
+    "spotify_id": "2806jBTs12WAfzFImSxJzL"
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "You Send Me",
+    "writers": "Cooke",
+    "producer": "Richard \"Bumps\" Blackwell",
+    "year": 1957,
+    "album_name": "The Man Who Invented Soul",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cdea00c6905f588e1f72ccad",
+    "spotify_id": "5aivQ5CkXXHJoMLy0o92HL"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Honky Tonk Women",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1969,
+    "album_name": "Goats Head Soup (Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aa4b9597399ef187074ee07b",
+    "spotify_id": "5hViuOELqYLRJ3UEdYAGEk"
+  },
+  {
+    "artist": "Al Green",
+    "title": "Take Me to the River",
+    "writers": "Green, Mabon Hodges",
+    "producer": "Willie Mitchell",
+    "year": 1974,
+    "album_name": "Al Green Explores Your Mind",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bea5c345ec616678c372ac2f",
+    "spotify_id": "62r1CS9zL1FL5Ilb7hLX7n"
+  },
+  {
+    "artist": "Beyonce feat. Jay-Z",
+    "title": "Crazy in Love",
+    "writers": "Rich Harrison, Beyonce, Jay-Z",
+    "producer": "Harrison, Beyonce",
+    "year": 2003,
+    "album_name": "Crazy In Love (featuring Jay-Z)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27393f61347a057b7c8f3f34426",
+    "spotify_id": "19lLzX7vt4BhrSOaHeRyn7"
+  },
+  {
+    "artist": "The Isley Brothers",
+    "title": "Shout (Parts 1 and 2)",
+    "writers": "Rudolph Isley, Ronald Isley, O'Kelly Isley",
+    "producer": "Hugo Peretti, Luigi Creatore",
+    "year": 1959,
+    "album_name": "Nippers 50's-Vol.2",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27306e16ae2d1d0161daba8fb11",
+    "spotify_id": "1o8b7Nn4cpb8MneytnwUVm"
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Go Your Own Way",
+    "writers": "Lindsey Buckingham",
+    "producer": "Fleetwood Mac, Richard Dashut, Ken Caillat",
+    "year": 1977,
+    "album_name": "Rumours (Super Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+    "spotify_id": "4xh7W7tlNMIczFhupCPniY"
+  },
+  {
+    "artist": "The Jackson 5",
+    "title": "I Want You Back",
+    "writers": "Freddie Perren, Fonce Mizell, Deke Richards, Berry Gordy Jr.",
+    "producer": "Perren, Mizell, Richards, Gordy",
+    "year": 1969,
+    "album_name": "Diana Ross Presents The Jackson 5",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+    "spotify_id": "5LxvwujISqiB8vpRYv887S"
+  },
+  {
+    "artist": "Ben E. King",
+    "title": "Stand By Me",
+    "writers": "King, Elmo Glick, Jerry Leiber, Mike Stoller",
+    "producer": "Leiber, Stoller",
+    "year": 1961,
+    "album_name": "Don't Play That Song (Mono)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
+    "spotify_id": "3SdTKo2uVsxFblQjpScoHy"
+  },
+  {
+    "artist": "The Animals",
+    "title": "The House of the Rising Sun",
+    "writers": "Alan Price",
+    "producer": "Mickie Most",
+    "year": 1964,
+    "album_name": "The Animals",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733c534611bd3658006378a2d7",
+    "spotify_id": "7BY005dacJkbO6EPiOh2wb"
+  },
+  {
+    "artist": "James Brown",
+    "title": "It's A Man's Man's Man's World",
+    "writers": "Brown, Betty Jean Newsome",
+    "producer": "Brown",
+    "year": 1966,
+    "album_name": "20 All-Time Greatest Hits!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27312b16cbb525e11bcbfd50d82",
+    "spotify_id": "6AIB4vBOGWM4FJ65yNWaXu"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Jumpin' Jack Flash",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1968,
+    "album_name": "Goats Head Soup (Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aa4b9597399ef187074ee07b",
+    "spotify_id": "1ANGrkuyDlTrpgdhyZR5yY"
+  },
+  {
+    "artist": "The Shirelles",
+    "title": "Will You Love Me Tomorrow",
+    "writers": "Gerry Goffin, Carole King",
+    "producer": "Luther Dixon",
+    "year": 1960,
+    "album_name": "Tonight's The Night",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b88a6f4d9ecb90789a6f7d07",
+    "spotify_id": "0bwy3sGHeYwng2Ioicq6wf"
+  },
+  {
+    "artist": "Big Joe Turner",
+    "title": "Shake, Rattle & Roll",
+    "writers": "Charles Calhoun",
+    "producer": "Ahmet Ertegun, Jerry Wexler",
+    "year": 1954,
+    "album_name": "Shake Rattle & Rock",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273da7d1d4e55f0c922dc898e3d",
+    "spotify_id": "7aLoa1F3EoM8AeC6Ao1RKz"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Changes",
+    "writers": "Bowie",
+    "producer": "Ken Scott",
+    "year": 1971,
+    "album_name": "Hunky Dory (2015 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c657af8d545b4dcf432ace76",
+    "spotify_id": "0LrwgdLsFaWh9VXIjBRe8t"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Rock & Roll Music",
+    "writers": "Berry",
+    "producer": "Phil and Leonard Chess",
+    "year": 1957,
+    "album_name": "One Dozen Berry's",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273565ff7555aecab006053a8b1",
+    "spotify_id": "09hxCc0SgV8u46gWsfeqJA"
+  },
+  {
+    "artist": "Steppenwolf",
+    "title": "Born to Be Wild",
+    "writers": "Mars Bonfire",
+    "producer": "Gabriel Mekler",
+    "year": 1968,
+    "album_name": "Steppenwolf",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e2aacda30b100cc33d523be0",
+    "spotify_id": "3lN8PP6R2IxbLP05QpYXng"
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Maggie May",
+    "writers": "Stewart, Martin Quittenton",
+    "producer": "Stewart",
+    "year": 1971,
+    "album_name": "Every Picture Tells A Story",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f20825485137abccd82b9665",
+    "spotify_id": "6rovOdp3HgK1DeAMYDzoA7"
+  },
+  {
+    "artist": "U2",
+    "title": "With or Without You",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Brian Eno, Daniel Lanois",
+    "year": 1987,
+    "album_name": "The Joshua Tree (Super Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b7bea3d01f04e6d0408d2afe",
+    "spotify_id": "6ADSaE87h8Y3lccZlBJdXH"
+  },
+  {
+    "artist": "Bo Diddley",
+    "title": "Who Do You Love?",
+    "writers": "Ellas McDaniel",
+    "producer": "Phil and Leonard Chess",
+    "year": 1957,
+    "album_name": "Bo Diddley",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dcd1d02a2b91f0842ad105ed",
+    "spotify_id": "3v30QiQtdQQAUIWwfKByN7"
+  },
+  {
+    "artist": "The Who",
+    "title": "Won't Get Fooled Again",
+    "writers": "Pete Townshend",
+    "producer": "Glyn Johns, the Who",
+    "year": 1971,
+    "album_name": "Who's Next (Expanded Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02",
+    "spotify_id": "1W1GpfPujmgp2vQqcpUhtU"
+  },
+  {
+    "artist": "Wilson Pickett",
+    "title": "In the Midnight Hour",
+    "writers": "Pickett, Steve Cropper",
+    "producer": "Jerry Wexler, Jim Stewart",
+    "year": 1965,
+    "album_name": "In the Midnight Hour",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cb87f62b98324304cfbb7de9",
+    "spotify_id": "4NRQwaks9r58tTDvr4iEyv"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "While My Guitar Gently Weeps",
+    "writers": "George Harrison",
+    "producer": "George Martin",
+    "year": 1968,
+    "album_name": "The Beatles (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+    "spotify_id": "389QX9Q1eUOEZ19vtzzI9O"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Your Song",
+    "writers": "Bernie Taupin, John",
+    "producer": "Gus Dudgeon",
+    "year": 1970,
+    "album_name": "Elton John",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a",
+    "spotify_id": "38zsOOcu31XbbYj9BIPUF1"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Eleanor Rigby",
+    "writers": "John Lennon,¬†Paul McCartney",
+    "producer": "George Martin",
+    "year": 1966,
+    "album_name": "Revolver (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a",
+    "spotify_id": "5GjPQ0eI7AgmOnADn1EO6Q"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Family Affair",
+    "writers": "Sly Stone",
+    "producer": "Stone",
+    "year": 1971,
+    "album_name": "There's A Riot Goin' On",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27322d8fc51ab5a8d5fcb2391db",
+    "spotify_id": "2GVEs1sn5Q1jB1976vQoAX"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "I Saw Her Standing There",
+    "writers": "John Lennon,¬†Paul McCartney",
+    "producer": "George Martin",
+    "year": 1964,
+    "album_name": "Please Please Me (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df",
+    "spotify_id": "3KiexfmhxHvG5IgAElmTkd"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Kashmir",
+    "writers": "John Bonham, Jimmy Page, Robert Plant",
+    "producer": "Page",
+    "year": 1975,
+    "album_name": "Physical Graffiti (1994 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732abc2d86a442efb6cc631d0a",
+    "spotify_id": "2nVHqZbOGkKWzlcy1aMbE7"
+  },
+  {
+    "artist": "The Everly Brothers",
+    "title": "All I Have to Do Is Dream",
+    "writers": "Boudleaux and Felice Bryant",
+    "producer": "Archie Bleyer",
+    "year": 1958,
+    "album_name": "The Very Best of The Everly Brothers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e9a522d43a304d4d433ff251",
+    "spotify_id": "7dblNGnRXEBrVJunazs2U5"
+  },
+  {
+    "artist": "James Brown and His Famous Flames",
+    "title": "Please, Please, Please",
+    "writers": "Brown, Johnny Terry",
+    "producer": "Ralph Bass",
+    "year": 1956,
+    "album_name": "Please Don't Go",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733a22ad98e76e2d0c1760345d",
+    "spotify_id": "3cNjgVBKTJ1SvKhunrCdVy"
+  },
+  {
+    "artist": "Prince and the Revolution",
+    "title": "Purple Rain",
+    "writers": "Prince",
+    "producer": "Prince",
+    "year": 1984,
+    "album_name": "Purple Rain",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b",
+    "spotify_id": "54X78diSLoUDI3joC2bjMz"
+  },
+  {
+    "artist": "Ramones",
+    "title": "I Wanna Be Sedated",
+    "writers": "Ramones",
+    "producer": "Tommy Erdelyi, Ed Stasium",
+    "year": 1978,
+    "album_name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273072ee11a51e23f861c54cef9",
+    "spotify_id": "5NoQvINZLBV1wMYPdNmReL"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Everyday People",
+    "writers": "Sly Stone",
+    "producer": "Stone",
+    "year": 1968,
+    "album_name": "Stand",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731ce6bc3899335f81b8d3f4de",
+    "spotify_id": "4ZVZBc5xvMyV3WzWktn8i7"
+  },
+  {
+    "artist": "The B-52",
+    "title": "s, 'Rock Lobster",
+    "writers": "Fred Schneider, Ricky Wilson",
+    "producer": "Chris Blackwell",
+    "year": 1979,
+    "album_name": "The B-52's",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97",
+    "spotify_id": "2Q5wSOwq6BDSu7sSVMNrtT"
+  },
+  {
+    "artist": "Janis Joplin",
+    "title": "Me and Bobby McGee",
+    "writers": "Kris Kristofferson,¬†Fred Foster",
+    "producer": "Paul Rothchild",
+    "year": 1971,
+    "album_name": "Pearl (Legacy Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736f8c26346723dd0531696bed",
+    "spotify_id": "1IqFh00G2kvvMm8pRMpehA"
+  },
+  {
+    "artist": "Iggy Pop",
+    "title": "Lust for Life",
+    "writers": "David Bowie, Pop",
+    "producer": "Bowie",
+    "year": 1977,
+    "album_name": "Lust For Life",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734aa5f679427e35409a06f225",
+    "spotify_id": "21YxK0klhpfLW8budkJaMF"
+  },
+  {
+    "artist": "The Everly Brothers",
+    "title": "Cathy's Clown",
+    "writers": "Phil and Don Everly",
+    "producer": "Wesley Rose",
+    "year": 1960,
+    "album_name": "The Golden Hits Of The Everly Brothers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733b56057c89ad8a6fbb867a01",
+    "spotify_id": "1MA9StLzlFftLbuqOmoWij"
+  },
+  {
+    "artist": "The Byrds",
+    "title": "Eight Miles High",
+    "writers": "Gene Clark, Roger McGuinn, David Crosby",
+    "producer": "Allen Stanton",
+    "year": 1966,
+    "album_name": "Fifth Dimension",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733f07e7daf8ef639ec8263b19",
+    "spotify_id": "2BGNomqCxEDcXyxf8bg27k"
+  },
+  {
+    "artist": "The Penguins",
+    "title": "Earth Angel",
+    "writers": "Jesse Belvin, Curtis Williams",
+    "producer": "Dootsie Williams",
+    "year": 1954,
+    "album_name": "The Best Of The Penguins",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273660bbbdf242a4aeb6fe2003c",
+    "spotify_id": "11XR0tRT4g5ov4u8M92wbF"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Foxey Lady",
+    "writers": "Hendrix",
+    "producer": "Chas Chandler",
+    "year": 1965,
+    "album_name": "Are You Experienced",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+    "spotify_id": "23MrkN7g6Q5U7GLIxNHN1B"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Hard Day's Night",
+    "writers": "John Lennon,¬†Paul McCartney",
+    "producer": "George Martin",
+    "year": 1964,
+    "album_name": "A Hard Day's Night (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd",
+    "spotify_id": "5J2CHimS7dWYMImCHkEFaJ"
+  },
+  {
+    "artist": "Buddy Holly and the Crickets",
+    "title": "Rave On",
+    "writers": "Sonny West, Bill Tilghman, Norman Petty",
+    "producer": "Petty",
+    "year": 1958,
+    "album_name": "True Love Ways",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27343ccc13f5689361657ceeddd",
+    "spotify_id": "0Yn57BIUdS88OQdTpSrN5w"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Proud Mary",
+    "writers": "John Fogerty",
+    "producer": "Fogerty",
+    "year": 1969,
+    "album_name": "Bayou Country",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e1f18ad145decb952b8191d3",
+    "spotify_id": "2EZc13S7YRi6bTS3SKteRN"
+  },
+  {
+    "artist": "Simon and Garfunkel",
+    "title": "The Sounds of Silence",
+    "writers": "Paul Simon",
+    "producer": "Tom Wilson",
+    "year": 1965,
+    "album_name": "Greatest Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739a8a66a79fbf93928f897c9b",
+    "spotify_id": "3CepTOU9Y7FezTt0CF3lCw"
+  },
+  {
+    "artist": "The Flamingos",
+    "title": "I Only Have Eyes for You",
+    "writers": "Harry Warren",
+    "producer": "George Goldner",
+    "year": 1959,
+    "album_name": "Flamingo Serenade",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731ba2d22b62756c8c2d579c14",
+    "spotify_id": "3YdKJzcoMZMacISlpY4QoP"
+  },
+  {
+    "artist": "Bill Haley and His Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "writers": "Jimmy DeKnight,¬†Max Freedman",
+    "producer": "Milt Gabler",
+    "year": 1954,
+    "album_name": "Rock Around The Clock",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739060a2c0a01366ee03274597",
+    "spotify_id": "1uRKT2LRANv4baowBWHfDS"
+  },
+  {
+    "artist": "U2",
+    "title": "Moment of Surrender",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Brian Eno, Daniel Lanois",
+    "year": 2009,
+    "album_name": "No Line On The Horizon",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273eba4d22b43b3dff989124c4e",
+    "spotify_id": "7beMkxxnfBv1ctJareBmLg"
+  },
+  {
+    "artist": "The Velvet Underground",
+    "title": "I'm Waiting for the Man",
+    "writers": "Lou Reed",
+    "producer": "Andy Warhol, Tom Wilson",
+    "year": 1967,
+    "album_name": "The Velvet Underground & Nico 45th Anniversary",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+    "spotify_id": "3fElupNRLRJ0tbUDahPrAb"
+  },
+  {
+    "artist": "Public Enemy",
+    "title": "Bring the Noise",
+    "writers": "Carlton Ridenhour, Eric Sadler, Hank Shocklee",
+    "producer": "Rick Rubin, Carl Ryder",
+    "year": 1988,
+    "album_name": "It Takes A Nation Of Millions To Hold Us Back",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273629edfa71810af835f33f431",
+    "spotify_id": "6jg8Y7gArYgZeXUBPMre0V"
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Folsom Prison Blues",
+    "writers": "Cash",
+    "producer": "Sam Phillips",
+    "year": 1956,
+    "album_name": "At Folsom Prison",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e",
+    "spotify_id": "2fDHuS1PTkHBbCWWZF1ph9"
+  },
+  {
+    "artist": "Ray Charles",
+    "title": "I Can't Stop Loving You",
+    "writers": "Don Gibson",
+    "producer": "Sid Feller",
+    "year": 1962,
+    "album_name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737b97663666f03928ff1e4578",
+    "spotify_id": "79nJj5dMyTsUzKvN5jUXsJ"
+  },
+  {
+    "artist": "Sinead O",
+    "title": "Connor, 'Nothing Compares 2 U",
+    "writers": "Prince",
+    "producer": "O'Connor, Nellee Hooper",
+    "year": 1990,
+    "album_name": "I Do Not Want What I Haven't Got",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8",
+    "spotify_id": "3nvuPQTw2zuFAVuLsC9IYQ"
+  },
+  {
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "writers": "Freddie Mercury",
+    "producer": "Roy Thomas Baker",
+    "year": 1975,
+    "album_name": "A Night At The Opera (Deluxe Remastered Version)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+    "spotify_id": "7tFiyTwD0nx5a1eklYtX2J"
+  },
+  {
+    "artist": "Tracy Chapman",
+    "title": "Fast Car",
+    "writers": "Chapman",
+    "producer": "David Kershenbaum",
+    "year": 1988,
+    "album_name": "Tracy Chapman",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737602becfedf6e25752cb54ff",
+    "spotify_id": "2M9ro2krNb7nr7HSprkEgo"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Let's Get It On",
+    "writers": "Gaye, Ed Townsend",
+    "producer": "Gaye, Townsend",
+    "year": 1973,
+    "album_name": "Let's Get It On",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b98aacb957a40d613445f92f",
+    "spotify_id": "0jHkgTtTaqg5LNCiYDQPUB"
+  },
+  {
+    "artist": "The Temptations",
+    "title": "Papa Was a Rollin' Stone",
+    "writers": "Norman Whitfield,¬†Barrett Strong",
+    "producer": "Whitfield",
+    "year": 1972,
+    "album_name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787",
+    "spotify_id": "7MiLmLbwNoyf47xQ4TCVYp"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Losing My Religion",
+    "writers": "Berry, Buck, Mills, Stipe",
+    "producer": "Scott Lift, R.E.M.",
+    "year": 1991,
+    "album_name": "Out Of Time (25th Anniversary Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd",
+    "spotify_id": "31AOj9sFz2gM0O3hMARRBx"
+  },
+  {
+    "artist": "Joni Mitchell",
+    "title": "Both Sides Now",
+    "writers": "Mitchell",
+    "producer": "Mitchell",
+    "year": 1969,
+    "album_name": "Both Sides Now",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f4df89e6b6af4ce95e220b2c",
+    "spotify_id": "1pjATX7sbd6Y4jMVqIvzHk"
+  },
+  {
+    "artist": "Jay-Z",
+    "title": "99 Problems",
+    "writers": "Jay-Z, Rick Rubin",
+    "producer": "Rubin",
+    "year": 2003,
+    "album_name": "The Black Album",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+    "spotify_id": "7sLpSWxQazJzDVG6YGzlVs"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Dream On",
+    "writers": "Steven Tyler",
+    "producer": "Arian Barber",
+    "year": 1973,
+    "album_name": "Aerosmith",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e",
+    "spotify_id": "5MxNLUsfh7uzROypsoO5qe"
+  },
+  {
+    "artist": "Abba",
+    "title": "Dancing Queen",
+    "writers": "Benny Andersson,¬†Bj√∂rn Ulvaeus, Stig Anderson",
+    "producer": "Andersson, Ulvaeus",
+    "year": 1976,
+    "album_name": "Arrival",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733c60391b048d33edff6f3d62",
+    "spotify_id": "4NtUY5IGzHCaqfZemmAu56"
+  },
+  {
+    "artist": "The Sex Pistols",
+    "title": "God Save the Queen",
+    "writers": "Johnny Rotten, Steve Jones, Glen Matlock, Paul Cook",
+    "producer": "Chris Thomas",
+    "year": 1977,
+    "album_name": "Never Mind The Bollocks, Here's The Sex Pistols",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d0f19de33459c832e50d6ecd",
+    "spotify_id": "6ui6l3ZNvlrGQZArwo8195"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Paint it Black",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Andrew Loog Oldham",
+    "year": 1966,
+    "album_name": "Aftermath",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694",
+    "spotify_id": "63T7DJ1AFDD6Bn8VzG6JE8"
+  },
+  {
+    "artist": "The Bobby Fuller Four",
+    "title": "I Fought the Law",
+    "writers": "Sonny Curtis, Fuller",
+    "producer": "Bob Keane",
+    "year": 1966,
+    "album_name": "Never To Be Forgotten - The Mustang Years",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737808c94d787cfceb6b28f294",
+    "spotify_id": "6Um3XCAxl9YfFmAnGl93xc"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Don't Worry Baby",
+    "writers": "Brian Wilson, Roger Christian",
+    "producer": "Wilson",
+    "year": 1964,
+    "album_name": "Shut Down (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e9303d395184aab6ad4f0ea1",
+    "spotify_id": "1GLmaPfulP0BrfijohQpN5"
+  },
+  {
+    "artist": "Tom Petty",
+    "title": "Free Fallin'",
+    "writers": "Petty, Jeff Lynne",
+    "producer": "Lynne",
+    "year": 1989,
+    "album_name": "Full Moon Fever",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+    "spotify_id": "5tVA6TkbaAH9QMITTQRrNv"
+  },
+  {
+    "artist": "Big Star",
+    "title": "September Gurls",
+    "writers": "Alex Chilton",
+    "producer": "Big Star",
+    "year": 1974,
+    "album_name": "Radio City",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273471e287a6c0dd5e063059c55",
+    "spotify_id": "74njazGdnO2igjEkb0mGiy"
+  },
+  {
+    "artist": "Joy Division",
+    "title": "Love Will Tear Us Apart",
+    "writers": "Ian Curtis, Peter Hook, Stephen Morris, Bernard Sumner",
+    "producer": "Martin Hannett",
+    "year": 1980,
+    "album_name": "Love Will Tear Us Apart",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731e0fdc2906851e29d09320c3",
+    "spotify_id": "34iOH7LY3vme5rQxsVILZ4"
+  },
+  {
+    "artist": "OutKast",
+    "title": "Hey Ya!",
+    "writers": "Andr√© 3000",
+    "producer": "Andr√© 3000",
+    "year": 2003,
+    "album_name": "Speakerboxxx/The Love Below",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367",
+    "spotify_id": "2PpruBYCo4H7WOBJ7Q2EwM"
+  },
+  {
+    "artist": "Booker T. and the MG",
+    "title": "s, 'Green Onions",
+    "writers": "Booker T. Jones, Steve Cropper, Lewis Steinberg, Al Jackson",
+    "producer": "Jim Stewart",
+    "year": 1962,
+    "album_name": "Green Onions",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27346007ceff2f1c33c9b9ec19c",
+    "spotify_id": "4fQMGlCawbTkH9yPPZ49kP"
+  },
+  {
+    "artist": "The Drifters",
+    "title": "Save the Last Dance for Me",
+    "writers": "Doc Pomus, Mort Shuman",
+    "producer": "Jerry Leiber, Mike Stoller",
+    "year": 1960,
+    "album_name": "Save the Last Dance for Me",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d6c8814abab49d72189678a5",
+    "spotify_id": "391TUcoPonqYykPkSZ5Z9U"
+  },
+  {
+    "artist": "B.B. King",
+    "title": "The Thrill is Gone",
+    "writers": "Roy Hawkins, Rick Darnell",
+    "producer": "Bill Szymczyk",
+    "year": 1969,
+    "album_name": "Deuces Wild",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730cb9e4d49412fce4ae730004",
+    "spotify_id": "3cg0dJfrQB66Qf2YthPb6G"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Please Please Me",
+    "writers": "John Lennon,¬†Paul McCartney",
+    "producer": "George Martin",
+    "year": 1964,
+    "album_name": "Please Please Me (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df",
+    "spotify_id": "6EHuOufBeL6vk3TvVJB5qo"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Desolation Row",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1965,
+    "album_name": "Highway 61 Revisited",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273540a241e3001ddc276b9ab93",
+    "spotify_id": "4n1ZGm3TxYmoYe1YR8cMus"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Who'll Stop the Rain",
+    "writers": "John Fogerty",
+    "producer": "Fogerty",
+    "year": 1970,
+    "album_name": "Cosmo's Factory",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27361834aa14b97a7d9c693134f",
+    "spotify_id": "3Bh6uInhcVBVvLraGZdkKD"
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "I Never Loved a Man (the Way I Love You)",
+    "writers": "Ronny Shannon",
+    "producer": "Jerry Wexler",
+    "year": 1967,
+    "album_name": "I Never Loved a Man the Way I Love You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+    "spotify_id": "1hES47PrbU8GPTI5A9lsr0"
+  },
+  {
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "writers": "Angus Young, Malcolm Young, Brian Johnson",
+    "producer": "Mutt Lange",
+    "year": 1980,
+    "album_name": "Back In Black",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+    "spotify_id": "08mG3Y1vljYA6bvDt4Wqkj"
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Stayin' Alive",
+    "writers": "Robin Gibb, Barry Gibb, Maurice Gibb",
+    "producer": "Barry Gibb, Robin Gibb, Maurice Gibb, Karl Richardson,¬†Albhy Galuten",
+    "year": 1977,
+    "album_name": "Greatest",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+    "spotify_id": "3mRM4NM8iO7UBqrSigCQFH"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Knockin' on Heaven's Door",
+    "writers": "Dylan",
+    "producer": "Gordon Carroll",
+    "year": 1973,
+    "album_name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d",
+    "spotify_id": "6HSXNV0b4M4cLJ7ljgVVeh"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "title": "Free Bird",
+    "writers": "Allen Collins,¬†Ronnie Van Zant",
+    "producer": "Al Kooper",
+    "year": 1973,
+    "album_name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+    "spotify_id": "5EWPGh7jbTNO2wakv8LjUI"
+  },
+  {
+    "artist": "Amy Winehouse",
+    "title": "Rehab",
+    "writers": "Winehouse",
+    "producer": "Mark Ronson",
+    "year": 2007,
+    "album_name": "Back To Black",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52",
+    "spotify_id": "1L5tZi0izXsi5Kk5OJf4W0"
+  },
+  {
+    "artist": "Glen Campbell",
+    "title": "Wichita Lineman",
+    "writers": "Jimmy Webb",
+    "producer": "Al De Lory",
+    "year": 1968,
+    "album_name": "Wichita Lineman (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b367fb90309a051f8aaacc9a",
+    "spotify_id": "6V9VCm1zOY2lGR80RehJ9i"
+  },
+  {
+    "artist": "The Drifters",
+    "title": "There Goes My Baby",
+    "writers": "Benjamin Nelson, Lover Patterson, George Treadwell",
+    "producer": "Jerry Leiber, Mike Stoller",
+    "year": 1959,
+    "album_name": "All-Time Greatest Hits & More 1959-1965",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730138c3d73e51c81b7ba11b08",
+    "spotify_id": "2s4B4fUlVIkE4ELgoupjXL"
+  },
+  {
+    "artist": "Buddy Holly",
+    "title": "Peggy Sue",
+    "writers": "Jerry Allison, Holly,  Norman Petty",
+    "producer": "Petty",
+    "year": 1957,
+    "album_name": "Buddy Holly",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27358816b5b546bdc2c0e7f6416",
+    "spotify_id": "2OARIMw1hpehr86Iwmv04c"
+  },
+  {
+    "artist": "Guns n",
+    "title": "Roses, 'Sweet Child O'Mine",
+    "writers": "Guns n' Roses",
+    "producer": "Mike Clink",
+    "year": 1987,
+    "album_name": "Appetite For Destruction",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "spotify_id": "7snQQk1zcKl8gZ92AnueZW"
+  },
+  {
+    "artist": "The Chantels",
+    "title": "Maybe",
+    "writers": "Arlene Smith",
+    "producer": "Richard Barrett",
+    "year": 1957,
+    "album_name": "The Best Of The Chantels",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ff1c8ed78b0337fbe5bf32db",
+    "spotify_id": "2xMAFTxwZ0w1twuyMZcYb7"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Don't Be Cruel",
+    "writers": "Otis Blackwell, Presley",
+    "producer": "Steve Sholes",
+    "year": 1956,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "01u6AEzGbGbQyYVdxajxqk"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Hey Joe",
+    "writers": "William Roberts",
+    "producer": "Chas Chandler",
+    "year": 1966,
+    "album_name": "Are You Experienced",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+    "spotify_id": "0NWPxcsf5vdjdiFUI8NgkP"
+  },
+  {
+    "artist": "Parliament",
+    "title": "Flash Light",
+    "writers": "George Clinton, Bernie Worrell, Bootsy Collins",
+    "producer": "Clinton",
+    "year": 1977,
+    "album_name": "Funkentelechy Vs. The Placebo Syndrome",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88",
+    "spotify_id": "1v1PV2wERHiMPesMWX0qmO"
+  },
+  {
+    "artist": "Beck",
+    "title": "Loser",
+    "writers": "Beck Hansen",
+    "producer": "Karl Stephenson",
+    "year": 1993,
+    "album_name": "Mellow Gold",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b07e5a0787e609bc1f1270f8",
+    "spotify_id": "5PntSbMHC1ud6Vvl8x56qd"
+  },
+  {
+    "artist": "New Order",
+    "title": "Bizarre Love Triangle",
+    "writers": "Bernard Albrecht, Gillian Gilbert, Peter Hook, Stephen Morris",
+    "producer": "New Order",
+    "year": 1986,
+    "album_name": "Brotherhood (Collector's Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273530a2c5dd17d2ddf8edc2978",
+    "spotify_id": "6wVViUl2xSRoDK2T7dMZbR"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Come Together",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1969,
+    "album_name": "Abbey Road (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+    "spotify_id": "2EqlS6tkEnglzr7tkKAAYD"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Positively 4th Street",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1965,
+    "album_name": "The Essential Bob Dylan",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ec8bd4c7fd93b7a0cd80a994",
+    "spotify_id": "4heMx0OAwfILu13Lf0VbBM"
+  },
+  {
+    "artist": "Otis Redding",
+    "title": "Try a Little Tenderness",
+    "writers": "Jimmy Campbell, Reginald Connelly, Harry Woods",
+    "producer": "Steve Cropper, Jim Stewart",
+    "year": 1966,
+    "album_name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ffffe932598090498459b77c",
+    "spotify_id": "36AlMHDBFwSsD3FQOy1R81"
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Lean on Me",
+    "writers": "Withers",
+    "producer": "Withers",
+    "year": 1972,
+    "album_name": "Still Bill",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27398e08f603553915a041b6937",
+    "spotify_id": "3M8FzayQWtkvOhqMn2V4T2"
+  },
+  {
+    "artist": "The Four Tops",
+    "title": "Reach Out, I'll Be There",
+    "writers": "Eddie Holland, Lamont Dozier, Brian Holland",
+    "producer": "Holland, Dozier, Holland",
+    "year": 1966,
+    "album_name": "Reach Out",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27347d4f42187d70ddbaac864a2",
+    "spotify_id": "6Pkj4nv5K53i64cLVgkVyY"
+  },
+  {
+    "artist": "The Everly Brothers",
+    "title": "Bye Bye Love",
+    "writers": "Boudleaux and Felice Bryant",
+    "producer": "Archie Bleyer",
+    "year": 1957,
+    "album_name": "The Very Best of The Everly Brothers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e9a522d43a304d4d433ff251",
+    "spotify_id": "6oRHRkQigTzJ3KwpO3XOV6"
+  },
+  {
+    "artist": "Them",
+    "title": "Gloria",
+    "writers": "Van Morrison",
+    "producer": "Tommy Scott",
+    "year": 1965,
+    "album_name": "The Essential Van Morrison",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604",
+    "spotify_id": "1DKyFVzIh1oa1fFnEmTkIl"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "In My Room",
+    "writers": "Brian Wilson, Gary Usher",
+    "producer": "Wilson",
+    "year": 1963,
+    "album_name": "Surfer Girl (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733149dcf7671f99b4b52f8b91",
+    "spotify_id": "62fX8EW16l8St2yL8rMer9"
+  },
+  {
+    "artist": "and the Mysterians",
+    "title": "96 Tears",
+    "writers": "Rudy Martinez",
+    "producer": "Martinez",
+    "year": 1966,
+    "album_name": "96 Tears",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733042a878fe015b7103f136f1",
+    "spotify_id": "4PEeZ2U4UfP2Jo8EtIOjus"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Caroline, No",
+    "writers": "Brian Wilson, Tony Asher",
+    "producer": "Wilson",
+    "year": 1966,
+    "album_name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bde8dfd1922129f3d9e3732f",
+    "spotify_id": "5RSQKtG1KNwrzFMEePpjt6"
+  },
+  {
+    "artist": "Prince",
+    "title": 1999,
+    "writers": "Prince",
+    "producer": "Prince",
+    "year": 1982,
+    "album_name": 1999,
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734117e531f63855d072059d6e",
+    "spotify_id": "2H7PHVdQ3mXqEHXcvclTB0"
+  },
+  {
+    "artist": "Neil Young",
+    "title": "Rockin' in the Free World",
+    "writers": "Young",
+    "producer": "Niko Bolas, Young",
+    "year": 1989,
+    "album_name": "Freedom",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ac0e287e2b379f0d6a5e5fb1",
+    "spotify_id": "4Y7fEQ4PAzhlLnLviRw2P4"
+  },
+  {
+    "artist": "Hank Williams",
+    "title": "Your Cheatin' Heart",
+    "writers": "Williams, Fred Rose",
+    "producer": "Rose",
+    "year": 1953,
+    "album_name": "The Complete Hank Williams",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738326fd3fdf926786d2b0525f",
+    "spotify_id": "13Oi7vfd9mrujcEmGAYAPe"
+  },
+  {
+    "artist": "The Lovin",
+    "title": "Spoonful, 'Do You Believe in Magic",
+    "writers": "John Sebastian",
+    "producer": "Erik Jacobsen",
+    "year": 1965,
+    "album_name": "Do you Believe In Magic",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730b6b12fd915f73fce8082de3",
+    "spotify_id": "1udKn1oNKYQSQ9OmiIWCMu"
+  },
+  {
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "writers": "Parton",
+    "producer": "Bob Ferguson",
+    "year": 1974,
+    "album_name": "Jolene",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27326399936751b54c7e9782324",
+    "spotify_id": "2SpEHTbUuebeLkgs9QB7Ue"
+  },
+  {
+    "artist": "John Lee Hooker",
+    "title": "Boom Boom",
+    "writers": "Hooker",
+    "producer": "Calvin Carter",
+    "year": 1962,
+    "album_name": "Burnin'",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a359e57b14e2961fd4b9764c",
+    "spotify_id": "2Mr1bGI2E10K7Mt1UJZ6Mw"
+  },
+  {
+    "artist": "Howlin",
+    "title": "Wolf, 'Spoonful",
+    "writers": "Willie Dixon",
+    "producer": "Leonard and Phil Chess",
+    "year": 1960,
+    "album_name": "Howlin' Wolf",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27301dd571c86f5e43f8d5d27bc",
+    "spotify_id": "7j02rdE5RVtNcNMuLGY5SS"
+  },
+  {
+    "artist": "The Left Banke",
+    "title": "Walk Away Renee",
+    "writers": "Michael Brown, Bob Calilli, Tony Sansone",
+    "producer": "Harry Lookofsky",
+    "year": 1966,
+    "album_name": "Walk Away Ren√©e/Pretty Ballerina",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ccf837ee375cc7b34afb05ac",
+    "spotify_id": "6utiXjyN4dWoMNEZa2skxn"
+  },
+  {
+    "artist": "Lou Reed",
+    "title": "Walk on the Wild Side",
+    "writers": "Reed",
+    "producer": "David Bowie, Mick Ronson, Reed",
+    "year": 1972,
+    "album_name": "Transformer",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d55149748dca0e5a1f40778e",
+    "spotify_id": "5p3JunprHCxClJjOmcLV8G"
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Oh, Pretty Woman",
+    "writers": "Orbison, Billy Dees",
+    "producer": "Wesley Rose",
+    "year": 1964,
+    "album_name": "Oh, Pretty Woman",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731b3c09cb3ec9f618664f2622",
+    "spotify_id": "48i055G1OT5KxGGftwFxWy"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Dance to the Music",
+    "writers": "Sylvester Stewart (Sly Stone)",
+    "producer": "Stone",
+    "year": 1968,
+    "album_name": "Dance To The Music",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27357b9caec6f92ab2e42816a68",
+    "spotify_id": "1MQWtVcs0PKsY4PA6ZvLiy"
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "writers": "Willie Dixon",
+    "producer": "Leonard and Phil Chess, Dixon",
+    "year": 1954,
+    "album_name": "The Lost Tapes",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ef12085d5f3cb7e3247143bd",
+    "spotify_id": "4789JLZ8VZBD3NoEcpOrSi"
+  },
+  {
+    "artist": "James Taylor",
+    "title": "Fire and Rain",
+    "writers": "Taylor",
+    "producer": "Peter Asher",
+    "year": 1970,
+    "album_name": "Sweet Baby James (2019 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b3adf9b1706b05af854bbad4",
+    "spotify_id": "1oht5GevPN9t1T3kG1m1GO"
+  },
+  {
+    "artist": "The Clash",
+    "title": "Should I Stay or Should I Go",
+    "writers": "The Clash",
+    "producer": "Glyn Johns",
+    "year": 1982,
+    "album_name": "Combat Rock (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b",
+    "spotify_id": "39shmbIHICJ2Wxnk1fPSdz"
+  },
+  {
+    "artist": "Chic",
+    "title": "Good Times",
+    "writers": "Nile Rodgers, Bernard Edwards",
+    "producer": "Rodgers, Edwards",
+    "year": 1979,
+    "album_name": "Risqu√© (2018 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ef097b87f419f4221f0ffc1b",
+    "spotify_id": "2wYKNcoqKW4IEcllj42xz1"
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Mannish Boy",
+    "writers": "McKinley Morganfield, Mel London, Ellas McDaniel",
+    "producer": "Leonard and Phil Chess, Willie Dixon",
+    "year": 1955,
+    "album_name": "King Of The Electric Blues",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731063bd72c8de25474308ccc9",
+    "spotify_id": "58PSYdY0GFg0LFb2PxYk4T"
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Moondance",
+    "writers": "Morrison",
+    "producer": "Morrison",
+    "year": 1970,
+    "album_name": "Moondance (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f22514855a9a8356664340fb",
+    "spotify_id": "683b4ikwa62JevCjwrmfg6"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Just Like a Woman",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1966,
+    "album_name": "Blonde On Blonde",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27347d1abf4ee582bd7e19d8ac2",
+    "spotify_id": "37Dl7jQMmt0gUnzTKqnjkN"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Sexual Healing",
+    "writers": "Gaye, Odell Brown, David Ritz",
+    "producer": "Gaye",
+    "year": 1982,
+    "album_name": "Midnight Love",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27346e859872ed30a898160aeb2",
+    "spotify_id": "3VZmChrnVW8JK6ano4gSED"
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Only the Lonely",
+    "writers": "Joe Melson, Orbison",
+    "producer": "Fred Foster",
+    "year": 1960,
+    "album_name": "Sings Lonely and Blue",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ad7b6ec702c5f75075c66d48",
+    "spotify_id": "0PkBTqRtN25z3oKasWoKlj"
+  },
+  {
+    "artist": "The Animals",
+    "title": "We Gotta Get Out of This Place",
+    "writers": "Barry Mann, Cynthia Weil",
+    "producer": "Mickie Most",
+    "year": 1965,
+    "album_name": "Animal Tracks",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734207bbef2b253200d3218d32",
+    "spotify_id": "5geF5xzPGHxpmk9BDBHphZ"
+  },
+  {
+    "artist": "M.I.A.",
+    "title": "Paper Planes",
+    "writers": "M.I.A., Diplo",
+    "producer": "Diplo, Switch",
+    "year": 2007,
+    "album_name": "Kala",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734f3fc8ea510be941de66f032",
+    "spotify_id": "1wgqttlPacpvmX5DKVboOa"
+  },
+  {
+    "artist": "The Byrds",
+    "title": "I'll Feel a Whole Lot Better",
+    "writers": "Gene Clark",
+    "producer": "Terry Melcher",
+    "year": 1965,
+    "album_name": "Mr. Tambourine Man",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273576fccf9a91d9f7c808b8abd",
+    "spotify_id": "2hIGz0CXlqA2ukeuUl8DYP"
+  },
+  {
+    "artist": "Buddy Holly and the Crickets",
+    "title": "Everyday",
+    "writers": "Charles Hardin, Norman Petty",
+    "producer": "Petty",
+    "year": 1957,
+    "album_name": "True Love Ways",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27343ccc13f5689361657ceeddd",
+    "spotify_id": "2KV09xTXmV0tU9r0fDZISt"
+  },
+  {
+    "artist": "Ray Charles",
+    "title": "I Got a Woman",
+    "writers": "Charles, Renald Richard",
+    "producer": "Jerry Wexler",
+    "year": 1954,
+    "album_name": "Essential Blues Anthems",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27302f000192443e8e3def65c88",
+    "spotify_id": "4n3jZ9O3ntnHrP1sjmWW8T"
+  },
+  {
+    "artist": "Afrika Bambaataa and the Soul Sonic Force",
+    "title": "Planet Rock",
+    "writers": "Bambaataa, John Robie, the Soul Sonic Force",
+    "producer": "Bambaataa, Arthur Baker",
+    "year": 1982,
+    "album_name": "Planet Rock (1996 Version)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27371725c8d66227606125ae213",
+    "spotify_id": "6WZkTLGw7mskacC9QIxmzH"
+  },
+  {
+    "artist": "Patsy Cline",
+    "title": "I Fall to Pieces",
+    "writers": "Hank Cochran",
+    "producer": "Owen Bradley",
+    "year": 1961,
+    "album_name": "Showcase",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736fda96b0954b958ee44c8efc",
+    "spotify_id": "6zFsz86nAj5gcvzyVqNL3k"
+  },
+  {
+    "artist": "Dusty Springfield",
+    "title": "Son of a Preacher Man",
+    "writers": "John Hurley, Ronnie Wilkins",
+    "producer": "Jerry Wexler",
+    "year": 1968,
+    "album_name": "Dusty In Memphis [Deluxe Edition]",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f1bb363f80233c2c3cb65c79",
+    "spotify_id": "7odHgoLFi3GQ90E9PeraI3"
+  },
+  {
+    "artist": "Dion",
+    "title": "The Wanderer",
+    "writers": "Ernie Maresca",
+    "producer": "Gene Schwartz",
+    "year": 1961,
+    "album_name": "Runaround Sue",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7",
+    "spotify_id": "3v8d3ku3kiTZVPxEt7a2dE"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Stand!",
+    "writers": "Sly Stone",
+    "producer": "Stone",
+    "year": 1969,
+    "album_name": "Stand",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731ce6bc3899335f81b8d3f4de",
+    "spotify_id": "4ZVZBc5xvMyV3WzWktn8i7"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Rocket Man",
+    "writers": "John, Bernie Taupin",
+    "producer": "Gus Dudgeon",
+    "year": 1972,
+    "album_name": "Honky Chateau",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+    "spotify_id": "3gdewACMIVMEWVbyb8O9sY"
+  },
+  {
+    "artist": "The B-52",
+    "title": "s, 'Love Shack",
+    "writers": "Kate Pierson, Fred Schneider, Keith Strickland, Cindy Wilson",
+    "producer": "Don Was, Nile Rodgers",
+    "year": 1989,
+    "album_name": "Cosmic Thing",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a8f707fa234c504420048b46",
+    "spotify_id": "4W4wYHtsrgDiivRASVOINL"
+  },
+  {
+    "artist": "The Spencer Davis Group",
+    "title": "Gimme Some Lovin'",
+    "writers": "Davis, Steve Winwood, Muff Winwood",
+    "producer": "Jimmy Miller",
+    "year": 1966,
+    "album_name": "Gimme Some Loving / Blues In F",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dbe342cb676e4630b72ef182",
+    "spotify_id": "3qCHUm73I3o5F1mDEfibzo"
+  },
+  {
+    "artist": "Jackie Wilson",
+    "title": "(Your Love Keeps Lifting Me) Higher and Higher",
+    "writers": "Gary Jackson, Raynard Miner, Carl Smith",
+    "producer": "Carl Davis",
+    "year": 1967,
+    "album_name": "The Ultimate Jackie Wilson",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27338266f9d67ff7283d886918b",
+    "spotify_id": "4TBBPZks71c60whhq0PgdP"
+  },
+  {
+    "artist": "The Band",
+    "title": "The Night They Drove Old Dixie Down",
+    "writers": "Robbie Robertson",
+    "producer": "John Simon, the Band",
+    "year": 1969,
+    "album_name": "The Band (Expanded Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273446be683f351a7f76474296d",
+    "spotify_id": "2x0supcZhd6NEH1nem9DnR"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Hot Fun in the Summertime",
+    "writers": "Sly Stone",
+    "producer": "Stone",
+    "year": 1969,
+    "album_name": "Greatest Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a354509ac66d3ac6ecff586e",
+    "spotify_id": "4t6NQkpUmvpvLDCkl3XuwA"
+  },
+  {
+    "artist": "Sugarhill Gang",
+    "title": "Rapper's Delight",
+    "writers": "S. Robinson, H. Jackson, M. Wright, G. O‚ÄôBrien",
+    "producer": "Sylvia Robinson",
+    "year": 1979,
+    "album_name": "Rhino Hi-Five: The Sugarhill Gang",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731e11df565134deafff674368",
+    "spotify_id": "0FWhGmPVxLI6jOVF0wjALa"
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "Chain of Fools",
+    "writers": "Don Covay",
+    "producer": "Jerry Wexler",
+    "year": 1967,
+    "album_name": "Lady Soul (With Bonus Selections)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27377d3f6667f52ae3f8652932c",
+    "spotify_id": "2oZmMp5M6L0Rh7G84Um2tF"
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "writers": "Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward",
+    "producer": "Rodger Bain",
+    "year": 1970,
+    "album_name": "Paranoid (Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+    "spotify_id": "1Y373MqadDRtclJNdnUXVc"
+  },
+  {
+    "artist": "The Drifters",
+    "title": "Money Honey",
+    "writers": "Jesse Stone",
+    "producer": "Ahmet Ertegun, Jerry Wexler",
+    "year": 1953,
+    "album_name": "Clyde McPhatter & The Drifters",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27312a5e996fa71e4d9cb5e521b",
+    "spotify_id": "4cOXb4P2Ri6AMVQqfICPRY"
+  },
+  {
+    "artist": "Bobby Darin",
+    "title": "Mack the Knife",
+    "writers": "Marc Blitzstein, Bertolt Brecht, Kurt Weill",
+    "producer": "Ahmet Ertegun",
+    "year": 1959,
+    "album_name": "That's All",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e774643594281699bde1e4ed",
+    "spotify_id": "3E5ndyOfO6vFDEIE42HA8o"
+  },
+  {
+    "artist": "Mott the Hoople",
+    "title": "All the Young Dudes",
+    "writers": "David Bowie",
+    "producer": "Bowie",
+    "year": 1972,
+    "album_name": "All The Young Dudes (Expanded Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d46e5889ace3c1457be450de",
+    "spotify_id": "0WNGPpmWqzPnk0psUhJ3SX"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "writers": "Thom Yorke",
+    "producer": "Nigel Godrich, Radiohead",
+    "year": 1997,
+    "album_name": "OK Computer",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf",
+    "spotify_id": "2nTsKOXIVGDf2iPeVQO2Gm"
+  },
+  {
+    "artist": "AC/DC",
+    "title": "Highway to Hell",
+    "writers": "Angus Young, Malcolm Young, Bon Scott",
+    "producer": "Robert John Lange",
+    "year": 1979,
+    "album_name": "Highway to Hell",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27351c02a77d09dfcd53c8676d0",
+    "spotify_id": "2zYzyRzz6pRmhPzyfMEC8s"
+  },
+  {
+    "artist": "Blondie",
+    "title": "Heart of Glass",
+    "writers": "Deborah Harry, Chris Stein",
+    "producer": "Mike Chapman",
+    "year": 1978,
+    "album_name": "Best Of Blondie",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738cf86a9be38868f1d73cdb58",
+    "spotify_id": "0a4agFmqHXxcZl1nho1BxM"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Mississippi",
+    "writers": "Dylan",
+    "producer": "Jack Frost",
+    "year": 2001,
+    "album_name": "Love And Theft",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bc66153fea3a00492f35a9f8",
+    "spotify_id": "6iCUV1fm0Ag3Jg8zFniarc"
+  },
+  {
+    "artist": "The Troggs",
+    "title": "Wild Thing",
+    "writers": "Chip Taylor",
+    "producer": "Larry Page",
+    "year": 1966,
+    "album_name": "From Nowhere",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27327b24620f0b3b592472552f5",
+    "spotify_id": "7jGzYUZ2Bgg8BDfYlQRfn8"
+  },
+  {
+    "artist": "The Who",
+    "title": "I Can See For Miles",
+    "writers": "Pete Townshend",
+    "producer": "Kit Lambert",
+    "year": 1967,
+    "album_name": "The Who Sell Out (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27349ae7646f967fc2de8cbb1ff",
+    "spotify_id": "2nlSeJ6CgvWeVOkrLmadf6"
+  },
+  {
+    "artist": "The Dells",
+    "title": "Oh, What A Night",
+    "writers": "Marvin Junior, John Funches",
+    "producer": "Bobby Miller",
+    "year": 1969,
+    "album_name": "Oh, What A Night! / The Great Ballads",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737b23075a61d2ffafa70accd4",
+    "spotify_id": "2ht21Rlf8L6cPLBkYmhpcs"
+  },
+  {
+    "artist": "Jeff Buckley",
+    "title": "Hallelujah",
+    "writers": "Leonard Cohen",
+    "producer": "Andy Wallace",
+    "year": 1994,
+    "album_name": "Grace",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61",
+    "spotify_id": "3pRaLNL3b8x5uBOcsgvdqM"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Higher Ground",
+    "writers": "Wonder",
+    "producer": "Wonder",
+    "year": 1973,
+    "album_name": "Innervisions",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
+    "spotify_id": "0dMd4rilfd6gPbXaLpNYhu"
+  },
+  {
+    "artist": "Smokey Robinson and The Miracles",
+    "title": "Ooo Baby Baby",
+    "writers": "Robinson, Warren Moore",
+    "producer": "Robinson",
+    "year": 1965,
+    "album_name": "Going To A Go-Go",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27396ebd8447b29307e31f95090",
+    "spotify_id": "3nsJGZ5RV2ZHkbKvD771gU"
+  },
+  {
+    "artist": "The Crystals",
+    "title": "He's A Rebel",
+    "writers": "Gene Pitney",
+    "producer": "Phil Spector",
+    "year": 1962,
+    "album_name": "Da Doo Ron Ron: The Very Best of The Crystals",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a93e542069f023c3c9be9b8d",
+    "spotify_id": "0mG8Hety4RELeo6p808fcy"
+  },
+  {
+    "artist": "Randy Newman",
+    "title": "Sail Away",
+    "writers": "Newman",
+    "producer": "Lenny Waronker",
+    "year": 1972,
+    "album_name": "Sail Away (Expanded & Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f761183d5e7c7721c0daf87a",
+    "spotify_id": "79zQv3SsEOmyPAgUP4YDjz"
+  },
+  {
+    "artist": "The Ronettes",
+    "title": "Walking in the Rain",
+    "writers": "Barry Mann, Cynthia Weil, Phil Spector",
+    "producer": "Spector",
+    "year": 1964,
+    "album_name": "Presenting the Fabulous Ronettes Featuring Veronica",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
+    "spotify_id": "7MJPH9KJ0dCpHFMnDViuiu"
+  },
+  {
+    "artist": "Archie Bell and The Drells",
+    "title": "Tighten Up",
+    "writers": "Bell, Billy Butler",
+    "producer": "Skipper Lee Frazier",
+    "year": 1968,
+    "album_name": "Tighten Up",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ee11c2c8b8552f10e67a3c0f",
+    "spotify_id": "6IIcvtmuGpWIasqOpyGlyY"
+  },
+  {
+    "artist": "New York Dolls",
+    "title": "Personality Crisis",
+    "writers": "David Johansen, Johnny Thunders",
+    "producer": "Todd Rundgren",
+    "year": 1973,
+    "album_name": "New York Dolls",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2",
+    "spotify_id": "4AwKXevZmsTNa3KZVj3rzl"
+  },
+  {
+    "artist": "U2",
+    "title": "Sunday Bloody Sunday",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Steve Lillywhite",
+    "year": 1983,
+    "album_name": "War (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273673526fcf35ab235e1a9d94c",
+    "spotify_id": "6C4LXC9UFH1IKiHYOp0BiJ"
+  },
+  {
+    "artist": "Kanye West",
+    "title": "Jesus Walks",
+    "writers": "Kanye West, Rhymefest",
+    "producer": "West",
+    "year": 2004,
+    "album_name": "The College Dropout",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+    "spotify_id": "5g1vtHqi9uV7xtYeCcFOBx"
+  },
+  {
+    "artist": "The Modern Lovers",
+    "title": "Roadrunner",
+    "writers": "Jonathan Richman",
+    "producer": "John Cale",
+    "year": 1976,
+    "album_name": "The Modern Lovers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b456b52a87902c83da4cc347",
+    "spotify_id": "5E5HYgxGMp3BPakHGfKfIB"
+  },
+  {
+    "artist": "George Jones",
+    "title": "He Stopped Loving Her Today",
+    "writers": "Bobby Braddock,Curly Putnam",
+    "producer": "Billy Sherrill",
+    "year": 1980,
+    "album_name": "Super Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273333c4f43127c11f3e748e367",
+    "spotify_id": "6qMgx8ys4MNNxypaIvbG0i"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Sloop John B",
+    "writers": "Traditional, Brian Wilson",
+    "producer": "Wilson",
+    "year": 1966,
+    "album_name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bde8dfd1922129f3d9e3732f",
+    "spotify_id": "2ULL3VZf4WwBKO4vjwT7Bg"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Sweet Little Sixteen",
+    "writers": "Berry",
+    "producer": "Leonard and Phil Chess",
+    "year": 1958,
+    "album_name": "One Dozen Berry's",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273565ff7555aecab006053a8b1",
+    "spotify_id": "4GWHrdyVTC0AWwuRgoWzE7"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Something",
+    "writers": "George Harrison",
+    "producer": "George Martin",
+    "year": 1969,
+    "album_name": "Abbey Road (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+    "spotify_id": "0pNeVovbiZHkulpGeOx1Gj"
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "title": "Somebody to Love",
+    "writers": "Darby Slick",
+    "producer": "Rick Jarrard",
+    "year": 1967,
+    "album_name": "Surrealistic Pillow",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732dac7a01676ddb36c1d0ec05",
+    "spotify_id": "4uGIJG1jYFonGc4LGp5uQL"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Born in the U.S.A.",
+    "writers": "Springsteen",
+    "producer": "Springsteen, Jon Landau, Chuck Plotkin, Steve Van Zandt",
+    "year": 1984,
+    "album_name": "Born In The U.S.A.",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978",
+    "spotify_id": "0dOg1ySSI7NkpAe89Zo0b9"
+  },
+  {
+    "artist": "The Staple Singers, I",
+    "title": "ll Take You There",
+    "writers": "Alvertis Isbell (Al Bell)",
+    "producer": "Bell",
+    "year": 1972,
+    "album_name": "The Very Best Of The Staple Singers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737fd00f79db3d1ff67255a585",
+    "spotify_id": "5YLnfy7R2kueN0BRPkjiEG"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Ziggy Stardust",
+    "writers": "Bowie",
+    "producer": "Ken Scott, Bowie",
+    "year": 1972,
+    "album_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
+    "spotify_id": "5IyL3XOaRPpTgxVjRIAxXU"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Pictures of You",
+    "writers": "Robert Smith, Simon Gallup, Boris Williams, Porl Thompson, Roger O'Donnell, Lol Tolhurst",
+    "producer": "Smith, David M. Allen",
+    "year": 1989,
+    "album_name": "Disintegration (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c7ca2db25ad377e022bc3975",
+    "spotify_id": "1tuwC1Ob5vnYZhvg3zyzJg"
+  },
+  {
+    "artist": "The Dixie Cups",
+    "title": "Chapel of Love",
+    "writers": "Jeff Barry, Ellie Greenwich, Phil Spector",
+    "producer": "Jerry Leiber, Mike Stoller, Barry, Greenwich",
+    "year": 1964,
+    "album_name": "Chapel of Love",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733787a86e05c74e8f1e60ccd9",
+    "spotify_id": "4JchWgAG3RZmCLHcEGf9DZ"
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine",
+    "writers": "Withers",
+    "producer": "Booker T. Jones",
+    "year": 1971,
+    "album_name": "Just As I Am",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce",
+    "spotify_id": "1k1Bqnv2R0uJXQN4u6LKYt"
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "writers": "Jack White",
+    "producer": "White",
+    "year": 2003,
+    "album_name": "Elephant",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273588ca88c368d5f6eae5cb9b1",
+    "spotify_id": "7i6r9KotUPQg3ozKKgEPIN"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "You Are the Sunshine of My Life",
+    "writers": "Wonder",
+    "producer": "Wonder",
+    "year": 1972,
+    "album_name": "Talking Book",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a14b08b9a6616e121df5e8b0",
+    "spotify_id": "0n2pjCIMKwHSXoYfEbYMfX"
+  },
+  {
+    "artist": "Joni Mitchell",
+    "title": "Help Me",
+    "writers": "Mitchell",
+    "producer": "Mitchell",
+    "year": 1974,
+    "album_name": "Court and Spark",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273909f0333c8c1a821a7eea703",
+    "spotify_id": "0tVzXGFyNPusa1VkHmYDLd"
+  },
+  {
+    "artist": "Blondie",
+    "title": "Call Me",
+    "writers": "Giorgio Moroder, Deborah Harry",
+    "producer": "Moroder",
+    "year": 1980,
+    "album_name": "Call Me",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
+    "spotify_id": "7HKxTNVlkHsfMLhigmhC0I"
+  },
+  {
+    "artist": "Elvis Costello and the Attractions",
+    "title": "(What's So Funny About) Peace, Love and Understanding",
+    "writers": "Nick Lowe",
+    "producer": "Lowe",
+    "year": 1979,
+    "album_name": "What's So Funny About Peace, Love and Los Straitjackets",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ea88a9435f44e1af0beed6a4",
+    "spotify_id": "2jHodbcqnYrEqa59df2aKE"
+  },
+  {
+    "artist": "Howlin",
+    "title": "Wolf, 'Smokestack Lightning",
+    "writers": "Chester Burnett",
+    "producer": "Leonard and Phil Chess, Willie Dixon",
+    "year": 1956,
+    "album_name": "The Wolf Of Wall Street (Music From The Motion Picture)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a60da6f669cd8209ffbf9ff1",
+    "spotify_id": "6Zo3QapMvKMceJPHTHNs19"
+  },
+  {
+    "artist": "Pavement",
+    "title": "Summer Babe (Winter Version)",
+    "writers": "Stephen Malkmus",
+    "producer": "Malkmus, Scott Kannberg",
+    "year": 1992,
+    "album_name": "Slanted & Enchanted: Luxe & Reduxe",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730b87b54a20960a414ca7139d",
+    "spotify_id": "4EaAxnlWy52lU4zsKr15am"
+  },
+  {
+    "artist": "Run-DMC",
+    "title": "Walk This Way",
+    "writers": "Steven Tyler, Joe Perry",
+    "producer": "Rick Rubin,Russell Simmons",
+    "year": 1986,
+    "album_name": "Raising Hell",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273186999bb15b42bdaf6241d87",
+    "spotify_id": "6qUEOWqOzu1rLPUPQ1ECpx"
+  },
+  {
+    "artist": "Barrett Strong",
+    "title": "Money (That's What I Want)",
+    "writers": "Berry Gordy, Janie Bradford",
+    "producer": "Gordy",
+    "year": 1960,
+    "album_name": "Money (That's What I Want) - MotownSelect.com",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27394c0dfd627f899b43347811c",
+    "spotify_id": "5ygqNg50ux6hm9YEbkriWS"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Can't Buy Me Love",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1964,
+    "album_name": "A Hard Day's Night (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd",
+    "spotify_id": "3SdingSsFcZDZAyvcJbgAw"
+  },
+  {
+    "artist": "Eminem feat. Dido",
+    "title": "Stan",
+    "writers": "Marshall Mathers,D. Armstrong, P. Herman",
+    "producer": "Eminem, the 45 King",
+    "year": 2000,
+    "album_name": "The Karaoke Channel - Top R&B Hits of 2000, Vol. 6",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e06fd4080e0bbdd1afd5b19b",
+    "spotify_id": "0K4Kg7hzZVoWra1bfpTuse"
+  },
+  {
+    "artist": "The Zombies",
+    "title": "She's Not There",
+    "writers": "Rod Argent",
+    "producer": "Ken Jones",
+    "year": 1964,
+    "album_name": "Begin Here",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b7fbb999ab997e52cecd01f2",
+    "spotify_id": "3dzW0SoVNyJTWWJimX8stj"
+  },
+  {
+    "artist": "The Clash",
+    "title": "Train in Vain",
+    "writers": "Mick Jones, Joe Strummer",
+    "producer": "Guy Stevens",
+    "year": 1979,
+    "album_name": "London Calling (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182",
+    "spotify_id": "6ITuEsxEy2qPhqMowdDAeI"
+  },
+  {
+    "artist": "Al Green",
+    "title": "Tired of Being Alone",
+    "writers": "Green",
+    "producer": "Willie Mitchell, Green",
+    "year": 1971,
+    "album_name": "Gets Next to You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fec6bb271749b854c35e5f5c",
+    "spotify_id": "10vkYRKw6Jjr7try1ir50G"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Black Dog",
+    "writers": "Jimmy Page, Robert Plant, John Paul Jones",
+    "producer": "Page",
+    "year": 1971,
+    "album_name": "Led Zeppelin IV (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+    "spotify_id": "3qT4bUD1MaWpGrTwcvguhb"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Street Fighting Man",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1968,
+    "album_name": "Goats Head Soup (Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aa4b9597399ef187074ee07b",
+    "spotify_id": "5w8br4p3i5TfWfTUEM8b2s"
+  },
+  {
+    "artist": "Bob Marley and the Wailers",
+    "title": "Get Up, Stand Up",
+    "writers": "Bob Marley, Peter Tosh",
+    "producer": "Chris Blackwell",
+    "year": 1975,
+    "album_name": "Legend - The Best Of Bob Marley And The Wailers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21",
+    "spotify_id": "0q5giEtY4wsFTwjWqswLwx"
+  },
+  {
+    "artist": "Neil Young",
+    "title": "Heart of Gold",
+    "writers": "Young",
+    "producer": "Elliot Mazer, Young",
+    "year": 1972,
+    "album_name": "Harvest (2009 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736f1450f3ec5dd82455f266b1",
+    "spotify_id": "1Q1b8eVkUPGlpSArl8JAVw"
+  },
+  {
+    "artist": "Prince",
+    "title": "Sign 'O' The Times",
+    "writers": "Prince",
+    "producer": "Prince",
+    "year": 1987,
+    "album_name": "Sign \"O\" the Times",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733b67e4695d120ebfe9ca359a",
+    "spotify_id": "4Yenz5JZZOUiZSeyKY8bDz"
+  },
+  {
+    "artist": "Blondie",
+    "title": "One Way or Another",
+    "writers": "Deborah Harry, Nigel Harrison",
+    "producer": "Mike Chapman",
+    "year": 1978,
+    "album_name": "Parallel Lines",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f",
+    "spotify_id": "59CLe8stbcx4XYBWdsfbwK"
+  },
+  {
+    "artist": "Madonna",
+    "title": "Like A Prayer",
+    "writers": "Madonna, Patrick Leonard",
+    "producer": "Madonna, Leonard",
+    "year": 1989,
+    "album_name": "Celebration (double disc version)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738f9f218b386e6aeb27184307",
+    "spotify_id": "1z3ugFmUKoCzGsI6jdY4Ci"
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "writers": "Thomas Bangalter, Guy-Manuel de Homem-Christo, Anthony Moore",
+    "producer": "Daft Punk",
+    "year": 2000,
+    "album_name": "Discovery",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738b56fd8fb9f486c7ebd2303a",
+    "spotify_id": "0DiWol3AO6WpXZgp0goxAV"
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Da Ya Think I'm Sexy?",
+    "writers": "Stewart, Carmine Appice",
+    "producer": "Tom Dowd",
+    "year": 1978,
+    "album_name": "Blondes Have More Fun",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273843e6e9fe4544fd294d47b4d",
+    "spotify_id": "4z7maGZkAonDlXlwo8q69f"
+  },
+  {
+    "artist": "Willie Nelson",
+    "title": "Blue Eyes Crying in the Rain",
+    "writers": "Fred Rose",
+    "producer": "Nelson",
+    "year": 1975,
+    "album_name": "Red Headed Stranger",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730e5489389aa853f454a4b1e8",
+    "spotify_id": "2uRVPeQbsEpRQD0DKr1WTo"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Ruby Tuesday",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Andrew Loog Oldham",
+    "year": 1967,
+    "album_name": "Between The Buttons",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738260863a56134f1516913d7f",
+    "spotify_id": "4hupcimlg3UBbW1kAQ6vrT"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "With a Little Help From My Friends",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1967,
+    "album_name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a",
+    "spotify_id": "2RnPATK99oGOZygnD2GTO6"
+  },
+  {
+    "artist": "James Brown",
+    "title": "Say It Loud - I'm Black and I'm Proud",
+    "writers": "Brown, Pee Wee Ellis",
+    "producer": "Brown",
+    "year": 1968,
+    "album_name": "The 50th Anniversary Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cef82dc1b7fc24ffec550e9e",
+    "spotify_id": "5h8ve1B7Gr3k4W0WXAgLxE"
+  },
+  {
+    "artist": "The Jam",
+    "title": "That's Entertainment",
+    "writers": "Paul Weller",
+    "producer": "Vic Coppersmith-Heaven, the Jam",
+    "year": 1980,
+    "album_name": "Sound Affects",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27304e7372b26d27803779696f4",
+    "spotify_id": "7MH7TkjQ4RA1vG454dciw0"
+  },
+  {
+    "artist": "Frankie Lymon and The Teenagers",
+    "title": "Why Do Fools Fall In Love",
+    "writers": "Lymon, Morris Levy",
+    "producer": "George Goldner",
+    "year": 1956,
+    "album_name": "The Best Of Frankie Lymon & The Teenagers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27316a312d3a18f48077f778a4c",
+    "spotify_id": "2xKfXRhw5xaUXfevJJspZf"
+  },
+  {
+    "artist": "Jackie Wilson",
+    "title": "Lonely Teardrops",
+    "writers": "Berry Gordy, Gwen Gordy, Tyran Carlo",
+    "producer": "Dick Jacobs",
+    "year": 1958,
+    "album_name": "Lonely Teardrops",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738dc547bd19cc9f357f26a086",
+    "spotify_id": "6TYR3IVgIwDK6ydc2EPEQq"
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "What's Love Got to Do With It",
+    "writers": "Terry Britten, Graham Lyle",
+    "producer": "Britten",
+    "year": 1984,
+    "album_name": "What's Love Got to Do with It",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f0b43fee481f279a186dff20",
+    "spotify_id": "3Be7CLdHZpyzsVijme39cW"
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Iron Man",
+    "writers": "Black Sabbath",
+    "producer": "Roger Bain",
+    "year": 1971,
+    "album_name": "Paranoid (Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222",
+    "spotify_id": "3IOQZRcEkplCXg6LofKqE9"
+  },
+  {
+    "artist": "The Everly Brothers",
+    "title": "Wake Up Little Susie",
+    "writers": "Felice Bryant, Boudleaux Bryant",
+    "producer": "Archie Bleyer",
+    "year": 1957,
+    "album_name": "The Very Best of The Everly Brothers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e9a522d43a304d4d433ff251",
+    "spotify_id": "11fNLqDB47gMKj7BHhR2Qr"
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "In Dreams",
+    "writers": "Joe Melson, Orbison",
+    "producer": "Fred Foster",
+    "year": 1963,
+    "album_name": "In Dreams",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735316978023f44ea7b42bf8c5",
+    "spotify_id": "5YsyqcewwE0c1ukzHVciS3"
+  },
+  {
+    "artist": "Screamin",
+    "title": "Jay Hawkins, 'I Put a Spell on You",
+    "writers": "Screamin‚Äô Jay Hawkins, Herb Slotkin",
+    "producer": "Arnold Maxin",
+    "year": 1956,
+    "album_name": "At Home with Screamin' Jay Hawkins",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c8a1366f0f2073775e931aa3",
+    "spotify_id": "3sLhMSePzxSrmxluIqeoAZ"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Comfortably Numb",
+    "writers": "David Gilmour, Roger Waters",
+    "producer": "Bob Ezrin",
+    "year": 1979,
+    "album_name": "The Wall",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273288d32d88a616b9a278ddc07",
+    "spotify_id": "5HNCy40Ni5BZJFw1TKzRsC"
+  },
+  {
+    "artist": "The Animals",
+    "title": "Don't Let Me Be Misunderstood",
+    "writers": "Bennie Benjamin, Sol Marcus,Gloria Caldwell",
+    "producer": "Mickie Most",
+    "year": 1965,
+    "album_name": "Animal Tracks",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734207bbef2b253200d3218d32",
+    "spotify_id": "7vYA9ET5AUqJt5pBbhKmcB"
+  },
+  {
+    "artist": "Elvis Costello",
+    "title": "Alison",
+    "writers": "Costello",
+    "producer": "Nick Lowe",
+    "year": 1977,
+    "album_name": "My Aim Is True",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273008a93d976cfd5a76ba06b9b",
+    "spotify_id": "1v98rfd0an913AzHvMNG8a"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "writers": "David Gilmour, Roger Waters",
+    "producer": "Pink Floyd",
+    "year": 1975,
+    "album_name": "Wish You Were Here",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d8fa5ac6259dba33127b398a",
+    "spotify_id": "6mFkJmJqdDVQ1REhVfGgd1"
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "Many Rivers to Cross",
+    "writers": "Cliff",
+    "producer": "Cliff",
+    "year": 1969,
+    "album_name": "Wonderful World, Beautiful People",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27353ead70b80f92eae59f9f18c",
+    "spotify_id": "1dZxI6OuzwJ283y3gOU1Kq"
+  },
+  {
+    "artist": "Alice Cooper",
+    "title": "School's Out",
+    "writers": "Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith",
+    "producer": "Bob Ezrin",
+    "year": 1972,
+    "album_name": "School's Out",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f66ca0527762318a1cf5468a",
+    "spotify_id": "5Z8EDau8uNcP1E8JvmfkZe"
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "title": "Take Me Out",
+    "writers": "Alex Kapranos, Nick McCarthy",
+    "producer": "Tore Johansson",
+    "year": 2004,
+    "album_name": "Franz Ferdinand",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bf68b5be16edfc6f489a17d7",
+    "spotify_id": "6ooluO7DiEhI1zmK94nRCM"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Heartbreaker",
+    "writers": "Jimmy Page, Robert Plant, John Bonham, John Paul Jones",
+    "producer": "Page",
+    "year": 1969,
+    "album_name": "Led Zeppelin II (1994 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
+    "spotify_id": "6WE7jSshLCuVKoCmobVKVf"
+  },
+  {
+    "artist": "Neil Young",
+    "title": "Cortez the Killer",
+    "writers": "Young",
+    "producer": "Young, David Briggs",
+    "year": 1975,
+    "album_name": "Zuma",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732ad5a2afb878470975a78901",
+    "spotify_id": "3ZPLFD6mbw6hhu3g6S4EGl"
+  },
+  {
+    "artist": "Public Enemy",
+    "title": "Fight the Power",
+    "writers": "Chuck D, Eric Sadler, Hank Shocklee, Keith Shocklee",
+    "producer": "Sadler, Hank Shocklee",
+    "year": 1989,
+    "album_name": "Fear Of A Black Planet",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732e3d1de8b2f61a477ae1ed6c",
+    "spotify_id": "1yo16b3u0lptm6Cs7lx4AD"
+  },
+  {
+    "artist": "Patti Smith Group",
+    "title": "Dancing Barefoot",
+    "writers": "Smith, Ivan Kral",
+    "producer": "Todd Rundgren",
+    "year": 1979,
+    "album_name": "Wave",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273297dd2e5a0e6f916364eddc8",
+    "spotify_id": "4kPSjEg8u1U4pg2dHHMmtf"
+  },
+  {
+    "artist": "The Supremes",
+    "title": "Baby Love",
+    "writers": "Brian Holland,Lamont Dozier, Eddie Holland",
+    "producer": "Brian Holland, Dozier",
+    "year": 1964,
+    "album_name": "Where Did Our Love Go",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d5ea1215e77c3f7a7c716370",
+    "spotify_id": "5uES1C2NgkdrNHiCwf9jRr"
+  },
+  {
+    "artist": "The Young Rascals",
+    "title": "Good Lovin'",
+    "writers": "Rudy Clark, Arthur Resnick",
+    "producer": "Tom Dowd, Arif Mardin",
+    "year": 1966,
+    "album_name": "The Young Rascals",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732c7c3631f8d744bfbf448a36",
+    "spotify_id": "0XnhQGfqfi5CnZXcONJuI5"
+  },
+  {
+    "artist": "James Brown",
+    "title": "Get Up (I Feel Like Being a) Sex Machine",
+    "writers": "Brown, Bobby Byrd,Ron Lenhoff",
+    "producer": "Brown",
+    "year": 1970,
+    "album_name": "Star Time",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f",
+    "spotify_id": "2ivdsb1RcEJjIs5tuHkUC9"
+  },
+  {
+    "artist": "Jerry Butler and The Impressions",
+    "title": "For Your Precious Love",
+    "writers": "Arthur Brooks, Butler",
+    "producer": "Calvin Carter",
+    "year": 1958,
+    "album_name": "Curtis in Chicago - Recorded Live!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ce234c9df2001c8c5884e9e9",
+    "spotify_id": "2UL1EwS6tfbNrdH805oyvi"
+  },
+  {
+    "artist": "The Doors",
+    "title": "The End",
+    "writers": "John Densmore, Robbie Krieger, Ray Manzarek, Jim Morrison",
+    "producer": "Paul Rothchild",
+    "year": 1967,
+    "album_name": "The Doors",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735b96a8c5d61be8878452f8f1",
+    "spotify_id": "5UgT7w6zVZjP3oyawMzbiK"
+  },
+  {
+    "artist": "Earth, Wind and Fire",
+    "title": "Way of the World",
+    "writers": "Maurice White, Verdine White, Charles Stepney",
+    "producer": "Maurice White",
+    "year": 1975,
+    "album_name": "That's The Way Of The World",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972",
+    "spotify_id": "4BNhasx75KbS10jHq3VZTz"
+  },
+  {
+    "artist": "Queen",
+    "title": "We Will Rock You",
+    "writers": "Brian May, Mike Stone",
+    "producer": "Queen",
+    "year": 1977,
+    "album_name": "News Of The World (Deluxe Remastered Version)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+    "spotify_id": "54flyrjcdnQdco7300avMJ"
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "title": "I Can't Make You Love Me",
+    "writers": "Mike Reid, Allen Shamblin",
+    "producer": "Don Was, Raitt",
+    "year": 1991,
+    "album_name": "Luck Of The Draw",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e",
+    "spotify_id": "69uJi5QsBtqlYkGURTBli8"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Subterranean Homesick Blues",
+    "writers": "Dylan",
+    "producer": "Tom Wilson",
+    "year": 1965,
+    "album_name": "Bringing It All Back Home",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736960c5f4eb72f0c06aa92181",
+    "spotify_id": "6k9DUKMJpWvu6eFG3O64Lg"
+  },
+  {
+    "artist": "Norman Greenbaum",
+    "title": "Spirit in the Sky",
+    "writers": "Greenbaum",
+    "producer": "Erik Jacobsen",
+    "year": 1970,
+    "album_name": "Spirit In The Sky",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735c1c4d3d94d0e845bd1ebec1",
+    "spotify_id": "0jvN7eQJJt4nxQzgQfZ1SP"
+  },
+  {
+    "artist": "The Velvet Underground",
+    "title": "Sweet Jane",
+    "writers": "Lou Reed",
+    "producer": "The Velvet Underground, Shel Kagan, Geoffrey Haslam",
+    "year": 1970,
+    "album_name": "Loaded: Re-Loaded 45th Anniversary Edition",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a6d589272dca67a07a00c8a8",
+    "spotify_id": "3cw3Z7mS55gd3NUjh4k0bL"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Wild Horses",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1971,
+    "album_name": "Sticky Fingers (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
+    "spotify_id": "52dm9op3rbfAkc1LGXgipW"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Beat It",
+    "writers": "Jackson",
+    "producer": "Quincy Jones",
+    "year": 1982,
+    "album_name": "Thriller 25 Super Deluxe Edition",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "spotify_id": "1OOtq8tRnDM8kG2gqUPjAj"
+  },
+  {
+    "artist": "U2",
+    "title": "Beautiful Day",
+    "writers": "U2",
+    "producer": "Daniel Lanois, Brian Eno",
+    "year": 2000,
+    "album_name": "All That You Can't Leave Behind",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e3f4221446f724b575a9aafb",
+    "spotify_id": "1VuBmEauSZywQVtqbxNqka"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Walk This Way",
+    "writers": "Steven Tyler, Joe Perry",
+    "producer": "Jack Douglas",
+    "year": 1976,
+    "album_name": "Toys In The Attic",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32",
+    "spotify_id": "5SZ6zX4rOrEQferfFC2MfP"
+  },
+  {
+    "artist": "Paul McCartney",
+    "title": "Maybe I'm Amazed",
+    "writers": "McCartney",
+    "producer": "McCartney",
+    "year": 1970,
+    "album_name": "Wingspan",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739ffa84889ead8579d832436b",
+    "spotify_id": "7DsaOo87BUgyNwMxD6nhC9"
+  },
+  {
+    "artist": "The Supremes",
+    "title": "You Keep Me Hanging On",
+    "writers": "Brian Holland,Lamont Dozier, Eddie Holland",
+    "producer": "Brian Holland, Dozier",
+    "year": 1966,
+    "album_name": "Remix The Classics (Vol. 2)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27360314aa1cd9477b3c373173f",
+    "spotify_id": "6ESGTTiBkHRiYPiIufJk97"
+  },
+  {
+    "artist": "The Who",
+    "title": "Baba O'Riley",
+    "writers": "Pete Townshend",
+    "producer": "Glyn Johns, the Who",
+    "year": 1971,
+    "album_name": "Who's Next",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c",
+    "spotify_id": "3qiyyUfYe7CRYLucrPmulD"
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "The Harder They Come",
+    "writers": "Cliff",
+    "producer": "Cliff",
+    "year": 1975,
+    "album_name": "Ultimate Collection: Jimmy Cliff",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273eb7034388240ee6e30d01c32",
+    "spotify_id": "13XMn3vVhwm12NOCpkB380"
+  },
+  {
+    "artist": "Dion",
+    "title": "Runaround Sue",
+    "writers": "Dion DiMucci, Ernie Maresca",
+    "producer": "Gene Schwartz",
+    "year": 1961,
+    "album_name": "Runaround Sue",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7",
+    "spotify_id": "1DndHckdH9m5rp6gYP086b"
+  },
+  {
+    "artist": "Lavern Baker",
+    "title": "Jim Dandy",
+    "writers": "Lincoln Chase",
+    "producer": "Ahmet Ertegun,Jerry Wexler",
+    "year": 1956,
+    "album_name": "LaVern Baker",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273913ca31ce94d4d3c77d27eb2",
+    "spotify_id": "4WNEDjXbuCWnceZPOEkf0S"
+  },
+  {
+    "artist": "Big Brother and the Holding Company",
+    "title": "Piece of My Heart",
+    "writers": "Bert Berns, Jerry Ragovoy",
+    "producer": "John Simon",
+    "year": 1968,
+    "album_name": "Cheap Thrills",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731ba5ee8bc24979ce3eee4797",
+    "spotify_id": "1xKQbqQtQWrtQS47fUJBtl"
+  },
+  {
+    "artist": "Ritchie Valens",
+    "title": "La Bamba",
+    "writers": "William Clauson",
+    "producer": "Bob Keane",
+    "year": 1958,
+    "album_name": "Ritchie Valens",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737723fdc89d8e25e65aa6730d",
+    "spotify_id": "2aEeghgUcnu75tzcolFMfs"
+  },
+  {
+    "artist": "Dr. Dre and 2Pac",
+    "title": "California Love",
+    "writers": "Dr. Dre, Chris Stainton, Roger Troutman, Larry Troutman, 2Pac",
+    "producer": "Dr. Dre",
+    "year": 1996,
+    "album_name": "Rap Superstar Backing Tracks",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736bbb8518396b92990ab32099",
+    "spotify_id": "59ODGXocCVuVgThUKZTdps"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Candle in the Wind",
+    "writers": "John, Bernie Taupin",
+    "producer": "Gus Dudgeon",
+    "year": 1973,
+    "album_name": "Goodbye Yellow Brick Road (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+    "spotify_id": "1L9fzw2pXprOqtemTwtxXF"
+  },
+  {
+    "artist": "The Isley Brothers",
+    "title": "That Lady (Part 1 and 2)",
+    "writers": "The Isley Brothers",
+    "producer": "The Isley Brothers",
+    "year": 1973,
+    "album_name": "The Isley Brothers: Taken To The Next Phase (Reconstructions)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e294092bcd0e5b34462ea487",
+    "spotify_id": "4MexO1G9TadTu0yWDB3T7Q"
+  },
+  {
+    "artist": "Ben E. King",
+    "title": "Spanish Harlem",
+    "writers": "Phil Spector, Jerry Leiber",
+    "producer": "Mike Stoller, Leiber",
+    "year": 1960,
+    "album_name": "Spanish Harlem",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dc378f9d8af0ae5a3c19d941",
+    "spotify_id": "3UCmuRdeTriWgOZMEJsfqZ"
+  },
+  {
+    "artist": "Little Eva",
+    "title": "The Loco-Motion",
+    "writers": "Gerry Goffin, Carole King",
+    "producer": "Goffin",
+    "year": 1962,
+    "album_name": "The Dimension Dolls",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273741f027a3e3a22a688e950d7",
+    "spotify_id": "1hClDWPgajpLIFjLOkFuau"
+  },
+  {
+    "artist": "The Platters",
+    "title": "The Great Pretender",
+    "writers": "Buck Ram",
+    "producer": "Ram",
+    "year": 1955,
+    "album_name": "The Platters Golden Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e5a3d1258466fac94bfd755f",
+    "spotify_id": "2FkCjtQ1lYsf71s2FAS8hE"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "All Shook Up",
+    "writers": "Otis Blackwell, Presley",
+    "producer": "Steve Sholes",
+    "year": 1957,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "5ueyLj6e6oVaTY0KQ6yLaA"
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Tears in Heaven",
+    "writers": "Clapton, Will Jennings",
+    "producer": "Russ Titelman",
+    "year": 1992,
+    "album_name": "Unplugged (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d55ec7fcfacd95e73877b787",
+    "spotify_id": "612VcBshQcy4mpB2utGc3H"
+  },
+  {
+    "artist": "Elvis Costello",
+    "title": "Watching the Detectives",
+    "writers": "Costello",
+    "producer": "Nick Lowe",
+    "year": 1977,
+    "album_name": "My Aim Is True",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273008a93d976cfd5a76ba06b9b",
+    "spotify_id": "0KrYPz4S4mKHeBjCwYJp0s"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Bad Moon Rising",
+    "writers": "John Fogerty",
+    "producer": "Fogerty",
+    "year": 1969,
+    "album_name": "Green River",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733efcd243aaa5638f55318f91",
+    "spotify_id": "20OFwXhEXf12DzwXmaV7fj"
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "Sweet Dreams (Are Made of This)",
+    "writers": "Annie Lennox, Dave Stewart",
+    "producer": "Stewart",
+    "year": 1983,
+    "album_name": "Sweet Dreams (Are Made Of This)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
+    "spotify_id": "1TfqLAPs4K3s2rJMoCokcS"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Little Wing",
+    "writers": "Hendrix",
+    "producer": "Chas Chandler",
+    "year": 1968,
+    "album_name": "Axis: Bold As Love",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27319dcd95d28b63d10164327f2",
+    "spotify_id": "1Eolhana7nKHYpcYpdVcT5"
+  },
+  {
+    "artist": "Martha and the Vandellas",
+    "title": "Nowhere to Run",
+    "writers": "Brian Holland, Lamont Dozier, Eddie Holland",
+    "producer": "Brian Holland, Dozier",
+    "year": 1965,
+    "album_name": "Dance Party",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
+    "spotify_id": "1WPqawIF9HCKfSOt7mN6X0"
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Got My Mojo Working",
+    "writers": "Preston Foster",
+    "producer": "Phil Chess, Leonard Chess, Willie Dixon",
+    "year": 1957,
+    "album_name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2730f202f2eedb8a9abf470638e",
+    "spotify_id": "65VzqBb5ogD2xIFD8jetMG"
+  },
+  {
+    "artist": "Roberta Flack",
+    "title": "Killing Me Softly With His Song",
+    "writers": "Norman Gimbel, Charles Fox",
+    "producer": "Joel Dorn",
+    "year": 1973,
+    "album_name": "Killing Me Softly",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b8506b99a6799950525ee412",
+    "spotify_id": "3gsCAGsWr6pUm1Vy7CPPob"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "All You Need is Love",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1967,
+    "album_name": "Magical Mystery Tour (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
+    "spotify_id": "68BTFws92cRztMS1oQ7Ewj"
+  },
+  {
+    "artist": "The Clash",
+    "title": "Complete Control",
+    "writers": "Mick Jones, Joe Strummer",
+    "producer": "Lee \"Scratch\" Perry",
+    "year": 1979,
+    "album_name": "Hits Back",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27357f627f712e7060d287dd732",
+    "spotify_id": "0mlwPYU0ApElSjZN4yA4L9"
+  },
+  {
+    "artist": "The Box Tops",
+    "title": "The Letter",
+    "writers": "Wayne Carson Thompson",
+    "producer": "Dan Penn",
+    "year": 1967,
+    "album_name": "The Letter/Neon Rainbow",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e",
+    "spotify_id": "6RJK553YhstRzyKA4mug09"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Highway 61 Revisited",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1965,
+    "album_name": "Highway 61 Revisited",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273540a241e3001ddc276b9ab93",
+    "spotify_id": "6os5B6xjuke9YfBKH3tu1e"
+  },
+  {
+    "artist": "The Righteous Brothers",
+    "title": "Unchained Melody",
+    "writers": "Alex North, Hy Zaret",
+    "producer": "Phil Spector",
+    "year": 1965,
+    "album_name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731682e25596b8ecccb47644d1",
+    "spotify_id": "1jFhnVoJkcB4lf9tT0rSZS"
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "How Deep Is Your Love",
+    "writers": "Bee Gees",
+    "producer": "Bee Gees, Karl Richardson, Albhy Galuten",
+    "year": 1977,
+    "album_name": "Greatest",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+    "spotify_id": "2JoZzpdeP2G6Csfdq5aLXP"
+  },
+  {
+    "artist": "Cream",
+    "title": "White Room",
+    "writers": "Pete Brown, Jack Bruce",
+    "producer": "Felix Pappalardi",
+    "year": 1968,
+    "album_name": "Wheels Of Fire",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2735c7731f5acdcb2d02d78b7ee",
+    "spotify_id": "3Xls4cNOwy01dtrNXb1inG"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Personal Jesus",
+    "writers": "Martin Gore",
+    "producer": "Depeche Mode, Flood",
+    "year": 1989,
+    "album_name": "Personal Jesus",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b65cdc085ef62773e5b20b89",
+    "spotify_id": "1xShPgQbOUa98avWJQFDBY"
+  },
+  {
+    "artist": "Bo Diddley",
+    "title": "I'm a Man",
+    "writers": "Diddley",
+    "producer": "Leonard Chess",
+    "year": 1955,
+    "album_name": "Bo Diddley",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dcd1d02a2b91f0842ad105ed",
+    "spotify_id": "760clbeDBWmBsBLbszWuNZ"
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "title": "The Wind Cries Mary",
+    "writers": "Hendrix",
+    "producer": "Chas Chandler",
+    "year": 1967,
+    "album_name": "Are You Experienced",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+    "spotify_id": "5H6Jp0syB5yEPk7SWYdlmk"
+  },
+  {
+    "artist": "The Who",
+    "title": "I Can't Explain",
+    "writers": "Pete Townshend",
+    "producer": "Shel Talmy",
+    "year": 1965,
+    "album_name": "My Generation (50th Anniversary / Super Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c4bce589ca107c9ca77cd3d6",
+    "spotify_id": "4B3gkbr7aGC2sujjgivK0s"
+  },
+  {
+    "artist": "Television",
+    "title": "Marquee Moon",
+    "writers": "Tom Verlaine",
+    "producer": "Andy Johns",
+    "year": 1977,
+    "album_name": "Marquee Moon",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27318b36d985b0ae01163ca9cf6",
+    "spotify_id": "7Me0vOSlJfaPY7Pc4GeItd"
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "Wonderful World",
+    "writers": "Cooke, Herb Alpert, Lou Adler",
+    "producer": "Cooke, Adler",
+    "year": 1960,
+    "album_name": "21 Love Songs",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734a71cdb0762e05f9230a28ac",
+    "spotify_id": "5SKXlfKfhNUyJ3GkpI0ELJ"
+  },
+  {
+    "artist": "Chuck Berry",
+    "title": "Brown Eyed Handsome Man",
+    "writers": "Berry",
+    "producer": "Leonard Chess, Phil Chess",
+    "year": 1956,
+    "album_name": "After School Session",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f0028276a55283a4305a6ce0",
+    "spotify_id": "2KIz4ileT7mvzFhAR8U5gS"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Another Brick in the Wall Part 2",
+    "writers": "Roger Waters",
+    "producer": "Bob Ezrin, Waters, David Gilmour",
+    "year": 1979,
+    "album_name": "The Later Years",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273968346162bcec1360c5f9e97",
+    "spotify_id": "1xUTI8Ce8IQnyYCGPmrbzS"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Fake Plastic Trees",
+    "writers": "Radiohead",
+    "producer": "John Leckie",
+    "year": 1995,
+    "album_name": "The Bends",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27322ca59e5c2d806439d5f08a2",
+    "spotify_id": "045sp2JToyTaaKyXkGejPy"
+  },
+  {
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Maps",
+    "writers": "Yeah Yeah Yeahs",
+    "producer": "David Andrew Sitek",
+    "year": 2004,
+    "album_name": "Fever To Tell (Deluxe Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731b1cb4ef0f096f9d66fc3dc6",
+    "spotify_id": "0hDQV9X1Da5JrwhK8gu86p"
+  },
+  {
+    "artist": "Ray Charles",
+    "title": "Hit the Road Jack",
+    "writers": "Percy Mayfield",
+    "producer": "Sid Feller",
+    "year": 1961,
+    "album_name": "Zou bisou bisou",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2731474cf53dbc78bd0c403e1c1",
+    "spotify_id": "5yQFVCQkupKqTJecbXA7qT"
+  },
+  {
+    "artist": "U2",
+    "title": "Pride (In the Name of Love)",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Brian Eno, Daniel Lanois",
+    "year": 1984,
+    "album_name": "The Unforgettable Fire (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f3a97984c9fb5074f87e938d",
+    "spotify_id": "3dh2LlmeMqKJbzn2WUgt3d"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Radio Free Europe",
+    "writers": "R.E.M.",
+    "producer": "Mitch Easter, Don Dixon",
+    "year": 1983,
+    "album_name": "Murmur",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fe05afa9ef05c2ba87e0e860",
+    "spotify_id": "46dGFTD918NMz1IP1rPJXO"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "writers": "John, Bernie Taupin",
+    "producer": "Gus Dudgeon",
+    "year": 1973,
+    "album_name": "Goodbye Yellow Brick Road (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b",
+    "spotify_id": "4IRHwIZHzlHT1FQpRa5RdE"
+  },
+  {
+    "artist": "Aaron Neville",
+    "title": "Tell It Like It Is",
+    "writers": "George Davis, Lee Diamond",
+    "producer": "Davis",
+    "year": 1966,
+    "album_name": "The Very Best Of Aaron Neville",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc08384e67f91759261a685a",
+    "spotify_id": "66BjgQodHebiX5QGpBAjyQ"
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "writers": "Mick Jagger, Keith Richards, Richard Ashcroft",
+    "producer": "The Verve, Christopher Marc Potter, Youth",
+    "year": 1997,
+    "album_name": "Urban Hymns (Remastered 2016)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273707d13d3f87652e737e94d45",
+    "spotify_id": "57iDDD9N9tTWe75x6qhStw"
+  },
+  {
+    "artist": "The Allman Brothers Band",
+    "title": "Whipping Post",
+    "writers": "Gregg Allman",
+    "producer": "Tom Dowd",
+    "year": 1969,
+    "album_name": "The Allman Brothers Band (Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27381f19e21f6b2d06dd695719b",
+    "spotify_id": "701oRFDRzsz3WdhCFOtUJj"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Ticket to Ride",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1965,
+    "album_name": "Help! (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+    "spotify_id": "7CZiDzGVjUssMSOXrDNYHL"
+  },
+  {
+    "artist": "Crosby, Stills, Nash and Young",
+    "title": "Ohio",
+    "writers": "Neil Young",
+    "producer": "Crosby, Stills, Nash, Young",
+    "year": 1970,
+    "album_name": "So Far",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f20249de0d94e7d93b798beb",
+    "spotify_id": "0ToHhkK4qtwEyKOxhQpMbJ"
+  },
+  {
+    "artist": "Eric B. and Rakim",
+    "title": "Know You Got Soul",
+    "writers": "Eric B. and Rakim",
+    "producer": "Eric B. and Rakim",
+    "year": 1987,
+    "album_name": "Paid In Full",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d9a71c225d94b8cb6638bb91",
+    "spotify_id": "5D2lp16FQ0VIfLGRDn5jcG"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Tiny Dancer",
+    "writers": "John, Bernie Taupin",
+    "producer": "Gus Dudgeon",
+    "year": 1971,
+    "album_name": "Madman Across The Water",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31",
+    "spotify_id": "2TVxnKdb3tqe1nhQWwwZCO"
+  },
+  {
+    "artist": "The Police",
+    "title": "Roxanne",
+    "writers": "Sting",
+    "producer": "The Police",
+    "year": 1979,
+    "album_name": "Outlandos D'Amour (Remastered 2003)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+    "spotify_id": "3EYOJ48Et32uATr9ZmLnAo"
+  },
+  {
+    "artist": "The Temptations",
+    "title": "Just My Imagination",
+    "writers": "Norman Whitfield, Barrett Strong",
+    "producer": "Whitfield",
+    "year": 1971,
+    "album_name": "Sky's The Limit",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733be56fc968ce12e07f4caae6",
+    "spotify_id": "39Bd345OWEhRNyfayhp9gv"
+  },
+  {
+    "artist": "The Four Tops",
+    "title": "Baby I Need Your Loving",
+    "writers": "Brian Holland, Lamont Dozier, Eddie Holland",
+    "producer": "Holland, Dozier, Holland",
+    "year": 1964,
+    "album_name": "The Definitive Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27360a7627cc8790bd2d1de9a42",
+    "spotify_id": "6ClsM1x4P327baDUXp2Dep"
+  },
+  {
+    "artist": "The Lovin",
+    "title": "Spoonful, 'Summer in the City",
+    "writers": "John Sebastian, Steve Boone, Mark Sebastian",
+    "producer": "Erik Jacobsen",
+    "year": 1966,
+    "album_name": "Hums Of The Lovin' Spoonful",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273633c04118b43d201581e3328",
+    "spotify_id": "7AzFID6u1b3zIWbd9pb8Dk"
+  },
+  {
+    "artist": "The Five Stairsteps",
+    "title": "O-o-h Child",
+    "writers": "Stan Vincent",
+    "producer": "Vincent",
+    "year": 1970,
+    "album_name": "The First Family of Soul: The Best of The Five Stairsteps",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b4b2642b767f641a15c9fef1",
+    "spotify_id": "74JdR9aXE6I74oS1BVRsvb"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Can't Help Falling in Love",
+    "writers": "George Weiss, Hugo Peretti, Luigi Creatore",
+    "producer": "Joseph Lilley",
+    "year": 1961,
+    "album_name": "Blue Hawaii",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314",
+    "spotify_id": "44AyOl4qVkzS48vBsbNXaC"
+  },
+  {
+    "artist": "The Shangri-Las",
+    "title": "Remember (Walkin' in the Sand)",
+    "writers": "George \"Shadow\" Morton",
+    "producer": "Morton",
+    "year": 1964,
+    "album_name": "The Best Of The Shangri-Las",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739bd4306ef696c6fcfd8e417b",
+    "spotify_id": "4DR1rowKc2WeuCQS7wyQBI"
+  },
+  {
+    "artist": "Blue √ñyster Cult",
+    "title": "(Don't Fear) the Reaper",
+    "writers": "Donald Roeser",
+    "producer": "Murray Krugman, Sandy Pearlman, David Lucas",
+    "year": 1976,
+    "album_name": "Agents Of Fortune",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733ac318439ae56ce048d7bf5d",
+    "spotify_id": "5QTxFnGygVM4jFQiBovmRo"
+  },
+  {
+    "artist": "Big Star",
+    "title": "Thirteen",
+    "writers": "Alex Chilton, Chris Bell",
+    "producer": "John Fry",
+    "year": 1972,
+    "album_name": "#1 Record",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ece578a226806ad05af7a03d",
+    "spotify_id": "3BQLTtpQOYGXQY2lT3ZZeU"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet Home Alabama",
+    "writers": "Ed King, Gary Rossington, Ronnie Van Zant",
+    "producer": "Al Kooper",
+    "year": 1974,
+    "album_name": "Second Helping",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+    "spotify_id": "7e89621JPkKaeDSTQ3avtg"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "writers": "James Hetfield, Lars Ulrich, Kirk Hammett",
+    "producer": "Bob Rock, Hetfield, Ulrich",
+    "year": 1991,
+    "album_name": "Metallica",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce",
+    "spotify_id": "5BIMPccDwShpXq784RJlJp"
+  },
+  {
+    "artist": "The Shirelles",
+    "title": "Tonight's the Night",
+    "writers": "Luther Dixon, Shirley Owens",
+    "producer": "Dixon",
+    "year": 1960,
+    "album_name": "Tonight's The Night",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b88a6f4d9ecb90789a6f7d07",
+    "spotify_id": "29LaaN4wmDoaUBtCQOoCed"
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "title": "Thank You (Falettinme Be Mice Elf Agin)",
+    "writers": "Sly Stone",
+    "producer": "Stone",
+    "year": 1970,
+    "album_name": "Greatest Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a354509ac66d3ac6ecff586e",
+    "spotify_id": "74iQ3gahRTOGc19bYadBE3"
+  },
+  {
+    "artist": "Eddie Cochran",
+    "title": "C'mon Everybody",
+    "writers": "Cochran, Jerry Capehart",
+    "producer": "Capehart",
+    "year": 1958,
+    "album_name": "12 Of His Biggest Hits",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27324c50e31cea9cf898d05448c",
+    "spotify_id": "7ItZM6DMZE2m1X7yIaRxjq"
+  },
+  {
+    "artist": "Rihanna Featuring Jay-Z",
+    "title": "Umbrella",
+    "writers": "The-Dream, Kuk Harrell, Jay-Z, Christopher \"Tricky\" Stewart",
+    "producer": "Harrell, Stewart",
+    "year": 2007,
+    "album_name": "Good Girl Gone Bad: Reloaded",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+    "spotify_id": "49FYlytm3dAAraYgpoJZux"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Visions of Johanna",
+    "writers": "Dylan",
+    "producer": "Bob Johnston",
+    "year": 1966,
+    "album_name": "Blonde On Blonde",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27347d1abf4ee582bd7e19d8ac2",
+    "spotify_id": "2rslQV48gNv3r9pPrQFPW1"
+  },
+  {
+    "artist": "Carpenters",
+    "title": "We've Only Just Begun",
+    "writers": "Paul Williams, Roger Nichols",
+    "producer": "Jack Daugherty",
+    "year": 1970,
+    "album_name": "Close To You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739bdf3aab5a03f7d5a7c63f28",
+    "spotify_id": "3m167vBQI5YLK0a1m6L6Y1"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "In Bloom",
+    "writers": "Kurt Cobain",
+    "producer": "Butch Vig",
+    "year": 1991,
+    "album_name": "Nevermind (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "spotify_id": "30HCB1FoE77IfGRyNv4eFq"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Sweet Emotion",
+    "writers": "Steven Tyler, Tom Hamilton",
+    "producer": "Jack Douglas",
+    "year": 1975,
+    "album_name": "Toys In The Attic",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32",
+    "spotify_id": "24NwBd5vZ2CK8VOQVnqdxr"
+  },
+  {
+    "artist": "Pixies",
+    "title": "Monkey Gone to Heaven",
+    "writers": "Black Francis",
+    "producer": "Gil Norton",
+    "year": 1989,
+    "album_name": "Doolittle",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d27159df96ec159cc7d70080",
+    "spotify_id": "1lFC3sMgOcDrVzNh8zXRnl"
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "I Feel Love",
+    "writers": "Summer, Giorgio Moroder, Pete Bellotte",
+    "producer": "Moroder, Bellotte",
+    "year": 1977,
+    "album_name": "Bad Girls (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768",
+    "spotify_id": "7B7lf3sIze5VR2WuYttn18"
+  },
+  {
+    "artist": "Bobbie Gentry",
+    "title": "Ode to Billie Joe",
+    "writers": "Gentry",
+    "producer": "Kelly Gordon, Bobby Paris",
+    "year": 1967,
+    "album_name": "Ode To Billie Joe",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c052a03d8f5e9e2bff95b99d",
+    "spotify_id": "4FdDorlbJTVHcH3djLbIfn"
+  },
+  {
+    "artist": "Little Richard",
+    "title": "The Girl Can't Help It",
+    "writers": "Bobby Troup",
+    "producer": "Robert \"Bumps\" Blackwell",
+    "year": 1957,
+    "album_name": "The Very Best Of... Little Richard",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733dc4895dd411bf05e0dbbf5a",
+    "spotify_id": "1NkDAnonseUTjMijcg0Kpy"
+  },
+  {
+    "artist": "The Coasters",
+    "title": "Young Blood",
+    "writers": "Jerry Leiber, Mike Stoller, Doc Pomus",
+    "producer": "Leiber, Stoller",
+    "year": 1957,
+    "album_name": "The Coasters",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733d458302f94dcb78cbde22e6",
+    "spotify_id": "55f4JiHsK46ftCjzr5CiKl"
+  },
+  {
+    "artist": "The Four Tops",
+    "title": "Can't Help Myself",
+    "writers": "Eddie Holland, Lamont Dozier, Brian Holland",
+    "producer": "Holland, Dozier, Holland",
+    "year": 1965,
+    "album_name": "The Definitive Collection",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27360a7627cc8790bd2d1de9a42",
+    "spotify_id": "3aSWQJcWnnqgwYbAgidvlV"
+  },
+  {
+    "artist": "Don Henley",
+    "title": "The Boys of Summer",
+    "writers": "Henley, Mike Campbell",
+    "producer": "Henley, Campbell, Danny Kortchmar, Greg Ladanyi",
+    "year": 1984,
+    "album_name": "Building The Perfect Beast",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e59d7ff5a9d7634c02135b19",
+    "spotify_id": "4gvea7UlDkAvsJBPZAd4oB"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Juicy",
+    "writers": "The Notorious B.I.G.",
+    "producer": "Sean \"Puffy\" Combs, Poke",
+    "year": 1994,
+    "album_name": "Ready to Die (The Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a4950162a626593b7340f6c7",
+    "spotify_id": "5ByAIlEEnxYdvpnezg7HTX"
+  },
+  {
+    "artist": "N.W.A",
+    "title": "Fuck tha Police",
+    "writers": "Ice Cube, MC Ren",
+    "producer": "Dr. Dre, Yella",
+    "year": 1989,
+    "album_name": "Straight Outta Compton",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c79a70e8167cc1a4fab83781",
+    "spotify_id": "5n8Aro6j1bEGIy7Tpo7FV7"
+  },
+  {
+    "artist": "Crosby, Stills and Nash",
+    "title": "Suite: Judy Blue Eyes",
+    "writers": "Stephen Stills",
+    "producer": "David Crosby, Stills, Graham Nash",
+    "year": 1969,
+    "album_name": "Crosby, Stills & Nash",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734251c1eb2f227b890b230146",
+    "spotify_id": "2PuUFT13yCzUOZun94WOXv"
+  },
+  {
+    "artist": "Dr. Dre",
+    "title": "Nuthin' But a 'G' Thang",
+    "writers": "Snoop Dogg",
+    "producer": "Dr. Dre",
+    "year": 1993,
+    "album_name": "The Chronic",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dc20ba099bc933674f58ebae",
+    "spotify_id": "4YtoipFgf4k0AfD17ZfD5X"
+  },
+  {
+    "artist": "The Isley Brothers",
+    "title": "It's Your Thing",
+    "writers": "Rudolph Isley, Ronald lsley, O'Kelly Isley",
+    "producer": "R. Isley, R. Isley, O. Isley",
+    "year": 1969,
+    "album_name": "It's Our Thing",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27330ca41ca509871de84b3fea9",
+    "spotify_id": "3ZxfehzRtB3oJcBuxWXFZQ"
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "writers": "Joel",
+    "producer": "Michael Stewart",
+    "year": 1973,
+    "album_name": "Piano Man (Legacy Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+    "spotify_id": "70C4NyhjD5OZUMzvWZ3njJ"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Blue Suede Shoes",
+    "writers": "Carl Perkins",
+    "producer": "Steve Sholes",
+    "year": 1956,
+    "album_name": "Elvis Presley",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872",
+    "spotify_id": "47gmoUrZV3w20JAnQOZMcO"
+  },
+  {
+    "artist": "The Smiths",
+    "title": "William, It Was Really Nothing",
+    "writers": "Johnny Marr, Morrissey",
+    "producer": "John Porter",
+    "year": 1984,
+    "album_name": "Hatful of Hollow",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+    "spotify_id": "6SwqPZs0XuSnyqkbnkkAjQ"
+  },
+  {
+    "artist": "Green Day",
+    "title": "American Idiot",
+    "writers": "Green Day",
+    "producer": "Rob Cavallo, Green Day",
+    "year": 2004,
+    "album_name": "American Idiot",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b",
+    "spotify_id": "6nTiIhLmQ3FWhvrGafw2zj"
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "Tumbling Dice",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1972,
+    "album_name": "Goats Head Soup (Deluxe)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273aa4b9597399ef187074ee07b",
+    "spotify_id": "4P9CeNqN0HrhS3FcPMUlG1"
+  },
+  {
+    "artist": "Deep Purple",
+    "title": "Smoke on the Water",
+    "writers": "Ritchie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",
+    "producer": "Deep Purple",
+    "year": 1973,
+    "album_name": "Machine Head",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926",
+    "spotify_id": "5SAUIWdZ04OxYfJFDchC7S"
+  },
+  {
+    "artist": "U2",
+    "title": "New Year's Day",
+    "writers": "Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
+    "producer": "Steve Lillywhite",
+    "year": 1983,
+    "album_name": "War (Deluxe Edition Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273ab282af9bbff8b79516d8cbe",
+    "spotify_id": "7ErWGndDTgKlSkVKe9XDNJ"
+  },
+  {
+    "artist": "Solomon Burke",
+    "title": "Everybody Needs Somebody to Love",
+    "writers": "Burke, Bert Berns,  Jerry Wexler",
+    "producer": "Berns",
+    "year": 1964,
+    "album_name": "The Very Best of Solomon Burke",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc99ba3ede17c0e01bc5747d",
+    "spotify_id": "4NL8D4RQsC6ux6eI3m3Lg5"
+  },
+  {
+    "artist": "The Clash",
+    "title": "(White Man) In Hammersmith Palais",
+    "writers": "Mick Jones, Joe Strummer",
+    "producer": "The Clash",
+    "year": 1979,
+    "album_name": "Hits Back",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27357f627f712e7060d287dd732",
+    "spotify_id": "45xBWOa6oEAk1WlVyr5QAB"
+  },
+  {
+    "artist": "Fats Domino",
+    "title": "Ain't It a Shame",
+    "writers": "Dave Bartholomew, Domino",
+    "producer": "Bartholomew",
+    "year": 1955,
+    "album_name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d7ba528be09db75f310a1c0a",
+    "spotify_id": "4TtymnqQiN24mkJ8M2AjI5"
+  },
+  {
+    "artist": "Gladys Knight and the Pips",
+    "title": "Midnight Train to Georgia",
+    "writers": "Jim Weatherly",
+    "producer": "Tony Camillo",
+    "year": 1973,
+    "album_name": "Imagination (Expanded Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a",
+    "spotify_id": "7MF7QAodbGzNYav5ZfIhAY"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Ramble On",
+    "writers": "Jimmy Page, Robert Plant",
+    "producer": "Page",
+    "year": 1969,
+    "album_name": "Led Zeppelin II (1994 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273fc4f17340773c6c3579fea0d",
+    "spotify_id": "3MODES4TNtygekLl146Dxd"
+  },
+  {
+    "artist": "Wilson Pickett",
+    "title": "Mustang Sally",
+    "writers": "Sir Mack Rice",
+    "producer": "Jerry Wexler",
+    "year": 1966,
+    "album_name": "The Wicked Pickett",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738f817166a595967d455fcb1d",
+    "spotify_id": "5Sz09kaSzvpTC8lgm5W8Mt"
+  },
+  {
+    "artist": "Love",
+    "title": "Alone Again Or",
+    "writers": "Bryan MacLean",
+    "producer": "Arthur Lee, Bruce Botnick",
+    "year": 1968,
+    "album_name": "Forever Changes (2015 Remastered Version)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273bb01f0ca02c204d13933ca06",
+    "spotify_id": "1XuccRABkfUVB4FjSVhjL1"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Beast of Burden",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "The Glimmer Twins",
+    "year": 1978,
+    "album_name": "Some Girls",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
+    "spotify_id": "77oU2rjC5XbjQfNe3bD6so"
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Love Me Tender",
+    "writers": "Presley, Vera Watson",
+    "producer": "Steve Sholes",
+    "year": 1956,
+    "album_name": "Elvis' Golden Records",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27320ee3e86e17f17239bef1f76",
+    "spotify_id": "4GAhAw0RCzNVP976NRMOqO"
+  },
+  {
+    "artist": "The Stooges",
+    "title": "I Wanna Be Your Dog",
+    "writers": "Dave Alexander, Ron Asheton, Scott Asheton, Iggy Pop",
+    "producer": "John Cale",
+    "year": 1969,
+    "album_name": "The Stooges",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a7d2baa04a56c87de579db69",
+    "spotify_id": "672N8DGGTOLCOgWe0koX5g"
+  },
+  {
+    "artist": "Salt",
+    "title": "n Pepa, 'Push It",
+    "writers": "Hurby \"Luv Bug\" Azor",
+    "producer": "Azor",
+    "year": 1987,
+    "album_name": "Hot, Cool & Vicious",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a90317b8d96c0b3f5e9c5e3d",
+    "spotify_id": "6sT9MWlJManry3EQwf4V80"
+  },
+  {
+    "artist": "John Cougar Mellencamp",
+    "title": "Pink Houses",
+    "writers": "Mellencamp",
+    "producer": "Little Bastard, Don Gehman",
+    "year": 1983,
+    "album_name": "Uh-HUH!",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cd949894aa0df080ed50ff9b",
+    "spotify_id": "5JKQMoGmXwDHCodn5pFVHB"
+  },
+  {
+    "artist": "50 Cent",
+    "title": "In Da Club",
+    "writers": "50 Cent, Dr. Dre, Mike Elizondo",
+    "producer": "Dr. Dre, Elizondo",
+    "year": 2002,
+    "album_name": "Get Rich Or Die Tryin'",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf",
+    "spotify_id": "4RY96Asd9IefaL3X4LOLZ8"
+  },
+  {
+    "artist": "The Dell-Vikings",
+    "title": "Come Go With Me",
+    "writers": "Clarence E. Quick",
+    "producer": "Joe Averbach",
+    "year": 1957,
+    "album_name": "Come Go With Me: The Best Of The Del-Vikings",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a",
+    "spotify_id": "4IYyGIbMS5ZkxDXGfPIrXr"
+  },
+  {
+    "artist": "Bob Marley and the Wailers",
+    "title": "I Shot the Sheriff",
+    "writers": "Marley",
+    "producer": "Chris Blackwell",
+    "year": 1973,
+    "album_name": "Legend - The Best Of Bob Marley And The Wailers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273413a6c2c7b296d98171e5e21",
+    "spotify_id": "60e5PcqGmlVFQ0HHgUagCJ"
+  },
+  {
+    "artist": "Sonny and Cher",
+    "title": "I Got You Babe",
+    "writers": "Sonny Bono",
+    "producer": "Bono",
+    "year": 1965,
+    "album_name": "Look At Us",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736823f5ab3f87b902c35ef56b",
+    "spotify_id": "4SGBuq37Ol4HJr7pQqFMKa"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Come As You Are",
+    "writers": "Kurt Cobain, Nirvana",
+    "producer": "Butch Vig, Nirvana",
+    "year": 1991,
+    "album_name": "Nevermind (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "spotify_id": "4P5KoWXOxwuobLmHXLMobV"
+  },
+  {
+    "artist": "Toots and the Maytals",
+    "title": "Pressure Drop",
+    "writers": "Toots Hibbert",
+    "producer": "Leslie Kong",
+    "year": 1973,
+    "album_name": "Reggae Greats - Toots & The Maytals",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2739ffcc8763a9076530222f300",
+    "spotify_id": "7cfILJJHW9ZSkbM2ywLhiN"
+  },
+  {
+    "artist": "The Shangri-Las",
+    "title": "Leader of the Pack",
+    "writers": "George \"Shadow\" Morton, Jeff Barry, Ellie Greenwich",
+    "producer": "Morton, Barry, Greenwich",
+    "year": 1964,
+    "album_name": "Leader Of The Pack",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dd11279193e0dbfe1136e8e2",
+    "spotify_id": "6wzLLGFlWQ5jqTL13MU069"
+  },
+  {
+    "artist": "The Velvet Underground",
+    "title": "Heroin",
+    "writers": "Lou Reed",
+    "producer": "Andy Warhol, Tom Wilson",
+    "year": 1967,
+    "album_name": "The Velvet Underground & Nico 45th Anniversary",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+    "spotify_id": "5by3w3NXvwDpV9FBSOR35u"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Penny Lane",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1967,
+    "album_name": "Magical Mystery Tour (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
+    "spotify_id": "1h04XMpzGzmAudoI6VHBgA"
+  },
+  {
+    "artist": "Chubby Checker",
+    "title": "The Twist",
+    "writers": "Hank Ballard",
+    "producer": "Karl Mann",
+    "year": 1960,
+    "album_name": "The Best Of Chubby Checker 1959-1963",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273971d65161da7086711799bbb",
+    "spotify_id": "3ohLnESFgYACPMCkoTOzqE"
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "Cupid",
+    "writers": "Cooke",
+    "producer": "Cooke, Hugo and Luigi",
+    "year": 1961,
+    "album_name": "The Man Who Invented Soul",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273cdea00c6905f588e1f72ccad",
+    "spotify_id": "6VuO6xcpSeeLfqBo4ePbkw"
+  },
+  {
+    "artist": "Guns N",
+    "title": "Roses, 'Paradise City",
+    "writers": "Guns n' Roses",
+    "producer": "Mike Clink",
+    "year": 1987,
+    "album_name": "Appetite For Destruction",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "spotify_id": "6eN1f9KNmiWEhpE2RhQqB5"
+  },
+  {
+    "artist": "George Harrison",
+    "title": "My Sweet Lord",
+    "writers": "Harrison",
+    "producer": "Harrison, Phil Spector",
+    "year": 1970,
+    "album_name": "All Things Must Pass (Remastered 2014)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273acc11d868a59008935e72299",
+    "spotify_id": "0qdQUeKVyevrbKhAo0ibxS"
+  },
+  {
+    "artist": "Ramones",
+    "title": "Sheena Is a Punk Rocker",
+    "writers": "Ramones",
+    "producer": "Tony Bongiovi, T. Erdelyi",
+    "year": 1977,
+    "album_name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737ed5367900f7596d7c14345a",
+    "spotify_id": "61MZN0yyMWSEwrLPUUGfgJ"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "All Apologies",
+    "writers": "Kurt Cobain",
+    "producer": "Steve Albini",
+    "year": 1993,
+    "album_name": "In Utero - 20th Anniversary Remaster",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+    "spotify_id": "1Ic9pKxGSJGM0LKeqf6lGe"
+  },
+  {
+    "artist": "Sam and Dave",
+    "title": "Soul Man",
+    "writers": "Isaac Hayes, David Porter",
+    "producer": "Hayes, Porter",
+    "year": 1967,
+    "album_name": "Soul Men",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d526e12f9cf41ae9069660a8",
+    "spotify_id": "4eGHlplaq1ME8oetnTuFFf"
+  },
+  {
+    "artist": "Prince and the Revolution",
+    "title": "Kiss",
+    "writers": "Prince and the Revolution",
+    "producer": "Prince and the Revolution",
+    "year": 1986,
+    "album_name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38",
+    "spotify_id": "62LJFaYihsdVrrkgUOJC05"
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Rollin' Stone",
+    "writers": "McKinley Morganfield",
+    "producer": "Leonard and Phil Chess",
+    "year": 1948,
+    "album_name": "The Chess Box",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273dc8136afa6d14e89c8c321e6",
+    "spotify_id": "61K6lqGyrl2Aerk0LjAZem"
+  },
+  {
+    "artist": "Missy Elliott",
+    "title": "Get Ur Freak On",
+    "writers": "Elliott, Timbaland",
+    "producer": "Timbaland",
+    "year": 2001,
+    "album_name": "Miss E... So Addictive",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732e3969990abe1229c0879a7b",
+    "spotify_id": "6zsk6uF3MxfIeHPlubKBvR"
+  },
+  {
+    "artist": "Jay-Z Featuring UGK",
+    "title": "Big Pimpin'",
+    "writers": "Jay-Z, Bun B, Pimp C, Timbaland, Kyambo Joshua",
+    "producer": "Timbaland",
+    "year": 1999,
+    "album_name": "Volume. 3... Life and Times of S. Carter",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273188099f301c32148ab07a557",
+    "spotify_id": "7m97yKVzPpXV9Z4ezEziOD"
+  },
+  {
+    "artist": "The Staple Singers",
+    "title": "Respect Yourself",
+    "writers": "Luther Ingram, Mack Rice",
+    "producer": "Al Bell",
+    "year": 1971,
+    "album_name": "The Very Best Of The Staple Singers",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737fd00f79db3d1ff67255a585",
+    "spotify_id": "4lzTyLYXb3ED01TSLCJ1Hz"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Rain",
+    "writers": "John Lennon, Paul McCartney",
+    "producer": "George Martin",
+    "year": 1966,
+    "album_name": "Past Masters (Vols. 1 & 2 / Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738d23bdb7c0a6c420f4ffa644",
+    "spotify_id": "48TNLcToLs8DWkdj5vYdiW"
+  },
+  {
+    "artist": "The Four Tops",
+    "title": "Standing in the Shadows of Love",
+    "writers": "Brian Holland, Lamont Dozier, Eddie Holland",
+    "producer": "Brian Holland, Dozier",
+    "year": 1966,
+    "album_name": "Reach Out",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27347d4f42187d70ddbaac864a2",
+    "spotify_id": "2sD2XkPogLt7keXttj7F9o"
+  },
+  {
+    "artist": "Cheap Trick",
+    "title": "Surrender",
+    "writers": "Rick Nielsen",
+    "producer": "Tom Werman",
+    "year": 1978,
+    "album_name": "Heaven Tonight",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27361e605b2786f724b37f0176d",
+    "spotify_id": "2ccUQnjjNWT0rsNnsBpsCA"
+  },
+  {
+    "artist": "Del Shannon",
+    "title": "Runaway",
+    "writers": "Shannon, Max Crook",
+    "producer": "Harry Balk, Irving Micahnik",
+    "year": 1961,
+    "album_name": "Runaway with Del Shannon",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273f1fdd06fe4e73052f3a5a26c",
+    "spotify_id": "45Szkclj1lt4ubm7RFK68t"
+  },
+  {
+    "artist": "Guns N",
+    "title": "Roses, 'Welcome to the Jungle",
+    "writers": "Guns n' Roses",
+    "producer": "Mike Clink",
+    "year": 1987,
+    "album_name": "Appetite For Destruction",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "spotify_id": "0G21yYKMZoHa30cYVi1iA8"
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Into the Mystic",
+    "writers": "Morrison",
+    "producer": "Morrison",
+    "year": 1970,
+    "album_name": "Moondance",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d828b182ee9b7193a0f8b5d6",
+    "spotify_id": "3lh3iiiJeiBXHSZw6u0kh6"
+  },
+  {
+    "artist": "The Supremes",
+    "title": "Where Did Our Love Go",
+    "writers": "Brian Holland, Lamont Dozier, Eddie Holland",
+    "producer": "Brian Holland, Dozier",
+    "year": 1964,
+    "album_name": "Where Did Our Love Go",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273d5ea1215e77c3f7a7c716370",
+    "spotify_id": "69RH84na5iUNwrwxpgjC5j"
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "Do Right Woman ‚Äî Do Right Man",
+    "writers": "Chips Moman, Dan Penn",
+    "producer": "Jerry Wexler",
+    "year": 1967,
+    "album_name": "I Never Loved a Man the Way I Love You",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+    "spotify_id": "6cLEpgDcEldV1n9gusHQUX"
+  },
+  {
+    "artist": "The Smiths",
+    "title": "How Soon Is Now?",
+    "writers": "Johnny Marr, Morrissey",
+    "producer": "John Porter",
+    "year": 1985,
+    "album_name": "Hatful of Hollow",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+    "spotify_id": "1YrnDTqvcnUKxAIeXyaEmU"
+  },
+  {
+    "artist": "Foreigner",
+    "title": "Last Nite",
+    "writers": "Julian Casablancas",
+    "producer": "Gordon Raphael",
+    "year": 2001,
+    "album_name": "Is This It",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+    "spotify_id": "3SUusuA9jH1v6PVwtYMbdv"
+  },
+  {
+    "artist": "Foreigner",
+    "title": "I Want to Know What Love Is",
+    "writers": "Mick Jones",
+    "producer": "Jones, Alex Sadkin",
+    "year": 1984,
+    "album_name": "Agent Provocateur",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274",
+    "spotify_id": "1JLn8RhQzHz3qDqsChcmBl"
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "writers": "Beastie Boys",
+    "producer": "Beastie Boys, Mario Caldato Jr.",
+    "year": 1994,
+    "album_name": "Ill Communication",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a",
+    "spotify_id": "0Puj4YlTm6xNzDDADXHMI9"
+  },
+  {
+    "artist": "Rick James",
+    "title": "Super Freak",
+    "writers": "James, Alonzo Miller",
+    "producer": "James",
+    "year": 1981,
+    "album_name": "Street Songs (Deluxe Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
+    "spotify_id": "2dCmGcEOQrMQhMMS8Vj7Ca"
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "title": "Since U Been Gone",
+    "writers": "Dr. Luke, Max Martin",
+    "producer": "Dr. Luke, Martin",
+    "year": 2004,
+    "album_name": "Breakaway",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c",
+    "spotify_id": "3xrn9i8zhNZsTtcoWgQEAd"
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "title": "White Rabbit",
+    "writers": "Grace Slick",
+    "producer": "Rick Jarrard",
+    "year": 1967,
+    "album_name": "Surrealistic Pillow",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2732dac7a01676ddb36c1d0ec05",
+    "spotify_id": "4vpeKl0vMGdAXpZiQB2Dtd"
+  },
+  {
+    "artist": "Justin Timberlake",
+    "title": "Cry Me a River",
+    "writers": "Timbaland, Scott Storch, Timberlake",
+    "producer": "Timbaland",
+    "year": 2002,
+    "album_name": "Justified",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+    "spotify_id": "7Lf7oSEVdzZqTA0kEDSlS5"
+  },
+  {
+    "artist": "LaBelle",
+    "title": "Lady Marmalade",
+    "writers": "Bob Crewe, Kenny Nolan",
+    "producer": "Allen Toussaint",
+    "year": 1975,
+    "album_name": "Nightbirds",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13",
+    "spotify_id": "17VWTx7LD7liGlpnlGhUbn"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Young Americans",
+    "writers": "Bowie",
+    "producer": "Tony Visconti",
+    "year": 1975,
+    "album_name": "Young Americans (2016 Remaster)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273b3bd6493ad6e29dcd2ad5a37",
+    "spotify_id": "7uPmQttafLiJyju14JREY4"
+  },
+  {
+    "artist": "Alice Cooper",
+    "title": "I'm Eighteen",
+    "writers": "Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith",
+    "producer": "Bob Erzin, Jack Richardson",
+    "year": 1971,
+    "album_name": "Love It to Death",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27369c7e9a2894048b37e961e83",
+    "spotify_id": "3YU9X8ryOR20beT7wOlDIJ"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Just Like Heaven",
+    "writers": "Robert Smith, Simon Gallup, Porl Thompson, Lol Tolhurst, Boris Williams",
+    "producer": "David Allen, Smith",
+    "year": 1987,
+    "album_name": "Kiss Me, Kiss Me, Kiss Me",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2737f22337546d61faca55e0f4f",
+    "spotify_id": "76GlO5H5RT6g7y0gev86Nk"
+  },
+  {
+    "artist": "The Drifters",
+    "title": "Under the Boardwalk",
+    "writers": "Arthur Resnick, Kenny Young",
+    "producer": "Bert Berns",
+    "year": 1964,
+    "album_name": "Under the Boardwalk",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27357f74f8c3d23837417b6f0f6",
+    "spotify_id": "65jrjEhWfAvysKfnojk1i0"
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Clocks",
+    "writers": "Coldplay",
+    "producer": "Ken Nelson, Mark Phythian",
+    "year": 2002,
+    "album_name": "A Rush of Blood to the Head",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27390afd8e4ec6d787114ed6c40",
+    "spotify_id": "0BCPKOYdS2jbQ8iyB56Zns"
+  },
+  {
+    "artist": "Joan Jett and the Blackhearts",
+    "title": "I Love Rock 'N Roll",
+    "writers": "Jake Hooker, Alan Merrill",
+    "producer": "Ritchie Cordell, Kenny Laguna",
+    "year": 1982,
+    "album_name": "I Love Rock 'N' Roll (Expanded Edition)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2733c73b2e0a6aa490736f19751",
+    "spotify_id": "2Cdvbe2G4hZsnhNMKyGrie"
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive",
+    "writers": "Dino Fekaris, Freddie Perren",
+    "producer": "Fekaris, Perren",
+    "year": 1978,
+    "album_name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1",
+    "spotify_id": "7cv28LXcjAC3GsXbUvXKbX"
+  },
+  {
+    "artist": "MGMT",
+    "title": "Time to Pretend",
+    "writers": "Ben Goldwasser, Andrew VanWyngarden",
+    "producer": "Dave Fridmann",
+    "year": 2008,
+    "album_name": "Oracular Spectacular",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+    "spotify_id": "4iG2gAwKXsOcijVaVXzRPW"
+  },
+  {
+    "artist": "R. Kelly",
+    "title": "Ignition (Remix)",
+    "writers": "Kelly",
+    "producer": "Kelly",
+    "year": 2002,
+    "album_name": "Chocolate Factory",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2734cb949e9f103f12d96797121",
+    "spotify_id": "5dNfHmqgr128gMY2tc5CeJ"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Brown Sugar",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "Jimmy Miller",
+    "year": 1971,
+    "album_name": "Sticky Fingers (Remastered)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
+    "spotify_id": "61UuPxxYUvacEH6SHIK3sU"
+  },
+  {
+    "artist": "Jackson Browne",
+    "title": "Running on Empty",
+    "writers": "Browne",
+    "producer": "Browne",
+    "year": 1977,
+    "album_name": "Running on Empty / Nothing but Time (Digital 45)",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b2738d6479b1461b26b8b6603935",
+    "spotify_id": "6aqm56xP40foYBBtAWWrnY"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "The Rising",
+    "writers": "Springsteen",
+    "producer": "Brendan O'Brien",
+    "year": 2002,
+    "album_name": "The Rising",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27345250f89c252406b27163810",
+    "spotify_id": "2czBvzOv3TvnyoW7Ozo7fP"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Miss You",
+    "writers": "Mick Jagger, Keith Richards",
+    "producer": "The Glimmer Twins",
+    "year": 1978,
+    "album_name": "Some Girls",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27305c7aec05eabf142cc33b936",
+    "spotify_id": "3hJLKtTpgct9Y9wKww0BiR"
+  },
+  {
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "writers": "Rivers Cuomo",
+    "producer": "Ric Ocasek",
+    "year": 1994,
+    "album_name": "Weezer",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+    "spotify_id": "3mwvKOyMmG77zZRunnxp9E"
+  },
+  {
+    "artist": "Smokey Robinson and the Miracles",
+    "title": "Shop Around",
+    "writers": "Berry Gordy, Robinson",
+    "producer": "Gordy",
+    "year": 1960,
+    "album_name": "20th Century Masters: The Millennium Collection: Best Of Smokey Robinson & The Miracles",
+    "album_img": "https://i.scdn.co/image/ab67616d0000b27361b2d7e139f88b82fb13b0e1",
+    "spotify_id": "77Z1pij1PpjhlzZnzBM86G"
+  }
+]

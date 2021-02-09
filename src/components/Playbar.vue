@@ -56,7 +56,7 @@
       </button>
     </div>
   </div>
-    <div v-if="$store.getters.errorMessage" class="bg-main h-6 w-full px-5 flex justify-between text-darkest text-xs">
+    <div v-if="$store.getters.errorMessage" class="bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 h-6 w-full px-5 flex justify-between text-darkest text-xs">
       <div class="my-auto font-bold ">{{ $store.getters.errorMessage }}</div>
       <font-awesome-icon @click="closeErrorMessage()" class="my-auto cursor-pointer" size="sm" :icon="['fa', 'times']" />
     </div>
@@ -120,7 +120,7 @@ export default {
             }, function (err) {
               //if the user making the request is non-premium, a 403 FORBIDDEN response code will be returned
               console.log('Something went wrong!', err);
-              store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in and have a Spotify Premium account to play a song"})
+              store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in to Spotify and subscribed to a premium account to play a song"})
             });
       }
     },
@@ -136,7 +136,7 @@ export default {
             }, function (err) {
               //if the user making the request is non-premium, a 403 FORBIDDEN response code will be returned
               console.log('Something went wrong!', err);
-              store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in and have a Spotify Premium account to play a song"})
+              store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in to Spotify and subscribed to a premium account to play a song"})
             });
       }
     },
@@ -148,7 +148,7 @@ export default {
           }, function(err) {
             //if the user making the request is non-premium, a 403 FORBIDDEN response code will be returned
             console.log('Something went wrong!', err);
-            store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in and have a Spotify Premium account to play a song"})
+            store.dispatch('saveErrorMessage', {errorMessage: "You need to be logged in to Spotify and subscribed to a premium account to play a song"})
 
           });
     },

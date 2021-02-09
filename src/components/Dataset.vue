@@ -1,183 +1,64 @@
 <template>
-  <div class="dataset-content">
-    <h2 class="mt-24 text-5xl font-semibold text-white">Dataset</h2>
-    <div class="mt-12">
-      <h3 class="font-semibold text-xl border-b border-light pb-2">Recently Played</h3>
-      <div class="flex items-center mt-4 -mx-4">
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover02.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
+  <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
+    <Topbar/>
 
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover03.jpg" alt="album cover"></a>
+    <div class="overflow-y-auto overflow-x-hidden">
+      <div class="container mx-auto">
+        <div class="">
+          <div class="pt-2">
+            <strong class="uppercase tracking-widest text-white font-light text-xs">Dataset</strong>
+            <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">500 Greatest Songs of All Time</h2>
+            <p>Created by <a href="https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/" class="text-white hover:underline">Rolling Stone</a> • 500 Songs, 32 h 45 min.</p>
+            <button class="w-28 py-2 mr-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs">
+              Download
+            </button>
+            <a href="https://open.spotify.com/playlist/33jXjzOGlYJcnHhARPj4LK" target="_blank">
+            <button class="w-28 py-2 mx-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs">
+              Follow
+            </button>
+            </a>
           </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Christmas</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
+          <div class="w-full pt-5">
+            <strong class="uppercase tracking-widest text-white font-light text-xs">Information</strong>
+            <p class="pt-1">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+              invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+              dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+              amet.</p>
           </div>
-        </div>
 
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover04.jpg" alt="album cover"></a>
+          <div class="py-2 pl-2 flex justify-start flex-row text-white mt-10">
+            <div class="w-20 flex items-center">
+            </div>
+            <div class="xl:pl-10 pl-5 xl:w-96 lg:w-56 w-full">
+              <h1 class="text-sm truncate px-2 uppercase tracking-widest text-xs text-lightest">Title & Artist</h1>
+            </div>
+            <div class="xl:w-72 lg:w-52 lg:flex hidden px-2 truncate uppercase tracking-widest text-xs text-lightest">
+              Writer
+            </div>
+            <div class="xl:w-72 lg:w-52 lg:flex hidden px-2 uppercase tracking-widest text-xs text-lightest">
+              Producer
+            </div>
+            <div class="xl-20 xl:flex hidden px-2 text-right uppercase tracking-widest text-xs text-lightest">
+              Year
+            </div>
           </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
 
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover05.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
+          <div class="song-row mt-2 divide-y divide-light">
+            <SongRow v-for="dataset in dataset"
+                     :id="dataset.spotify_id"
+                     :key="dataset.index"
+                     :album="dataset.album_name"
+                     :artist="dataset.artist"
+                     :album_cover="dataset.album_img"
+                     :track="dataset.title"
+                     :producer="dataset.producer"
+                     :writers="dataset.writers"
+                     :year="dataset.year"
+                     :dataset="true"
 
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover06.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
 
-      </div>
-    </div>
-
-    <div class="mt-12">
-      <h3 class="font-semibold text-xl border-b border-light pb-2">Your Heavy Rotation</h3>
-      <div class="flex items-center mt-4 -mx-4">
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover06.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover05.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover04.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover03.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover02.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="mt-12 mb-12">
-      <h3 class="font-semibold text-xl border-b border-light pb-2">Chill</h3>
-      <div class="flex items-center mt-4 -mx-4">
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover02.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover03.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover04.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover05.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
-          </div>
-        </div>
-
-        <div class="w-1/5 px-4">
-          <div>
-            <a href="#"><img src="./../assets/albumcover06.jpg" alt="album cover"></a>
-          </div>
-          <div>
-            <a href="#" class="text-white font-semibold block hover:underline mt-2">Acoustic Pop Covers 2019</a>
-            <div class="text-lightest mt-2">Amazing Acoustic Covers updated every week.</div>
-            <div class="uppercase tracking-widest text-xs text-lightest mt-2">6679 Followers</div>
+                     @show-details="function () {return}"
+            />
           </div>
         </div>
       </div>
@@ -186,11 +67,31 @@
 </template>
 
 <script>
+
+import SongRow from "@/components/SongRow";
+import dataset from "./../services/top_500.json";
+import Topbar from "@/components/Topbar";
+
 export default {
-name: "Dataset"
+  name: "Dataset",
+  components: {SongRow, Topbar},
+  data() {
+    return {
+      dataset
+    }
+  },
 }
 </script>
 
 <style scoped>
 
+.dataset::-webkit-scrollbar {
+  width: 8px;
+  background-color: #181818;
+}
+
+.dataset::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #535353;
+}
 </style>

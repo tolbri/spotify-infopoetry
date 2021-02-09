@@ -14,9 +14,10 @@ module.exports = {
       }),
       zIndex: {
         '-10': '-10',
+        '60': '60'
       },
       colors: {
-        'main': '#1DB954',
+        'main': '#A327D6',
         'dark': '#181818',
         'darkest': '#121212',
         'light': '#282828',

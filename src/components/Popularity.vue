@@ -1,16 +1,18 @@
 <template>
   <div class="flex-1 flex flex-col content-spotify bg-dark w-full">
     <Topbar/>
-
     <div class="overflow-y-auto overflow-x-hidden">
       <div class="container mx-auto">
         <transition name="fade">
           <!--          <div v-if="!show" class="background-cover opacity-20 absolute top-0 left-44 w-136 h-full" v-bind:style="{'background-image': 'url('+`${cover}`+')'}" >-->
           <!--          </div>-->
         </transition>
-        <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
-          <div class="w-full h-full p-5">
-            <apexchart
+        <div class="xl:w-120 xl:h-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div class="w-full h-full p-5 z-10">
+            <div class="absolute top-0 left-0 w-full h-full">
+              <img :src="`${background}`" alt="" class="opacity-20">
+            </div>
+            <apexchart class=""
                        ref="barChart"
                        :options="chartOptions"
                        :series="series"
@@ -21,18 +23,21 @@
           </div>
         </div>
         <transition name="fade">
-          <div v-if="show" class="z-50 w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div v-if="show" class="z-50 xl:w-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
             <div class="w-full h-full">
               <img :src="`${cover}`" alt="">
             </div>
           </div>
         </transition>
-        <div class="pl-130">
+        <div class="fixed w-full -ml-10 hidden md:flex lg:hidden">
+        <div class="absolute h-96 w-full bg-darkest shadow-lg opacity-90"></div>
+        </div>
+        <div class="xl:pl-130 lg:pl-96 md:pt-96 lg:pt-0">
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Track Popularity</h2>
             <p>Created by <span class="text-white">Tim Olbrich</span> • 2000 Songs, 20 h 30 min.</p>
-            <button class="w-24 py-2 mt-5 text-center bg-main rounded-full uppercase tracking-wide text-white text-xs"
+            <button class="w-24 py-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs"
                     @click="show = !show">
               {{ show ? 'Play' : 'Pause' }}
             </button>
@@ -70,10 +75,11 @@
 import SongRow from "@/components/SongRow";
 import dataset from "./../services/song_popularity.json";
 import cover from "./../assets/albumcover01.jpg";
+import background from "./../assets/background01.jpg";
 import Topbar from "@/components/Topbar";
 
 export default {
-  name: "SongAttributes",
+  name: "Popularity",
   components: {SongRow, Topbar},
   mounted() {
     this.getTrackPopularity();
@@ -81,6 +87,7 @@ export default {
   data() {
     return {
       cover,
+      background,
       show: true,
       dataset,
       startData: {
@@ -90,6 +97,7 @@ export default {
       },
       songPopularity: null,
       chartOptions: {
+        colors: ["#fff", "#EF4444"],
         tooltip: {
           enabled: false
         },
@@ -113,7 +121,7 @@ export default {
           zoom: {
             enabled: false
           },
-          background: '#282828',
+          // background: '#282828',
           offsetX: 0
         },
         legend: {
@@ -123,13 +131,7 @@ export default {
           },
         },
         xaxis: {
-          axisBorder: {
-            show: true,
-            offsetY: 1
-          },
-          axisTicks: {
-            show: false
-          },
+          type: "category",
           categories: [
             "40's",
             "50's",
@@ -138,15 +140,41 @@ export default {
             "80's",
             "90's",
             "00's",
-            ]
+          ],
+          labels: {
+            style: {
+              colors: "#B3B3B3",
+            }
+          },
+          title: {
+            text: "Decade",
+            style: {
+              color: "#B3B3B3",
+            }
+          },
+          axisBorder: {
+            show: true,
+            offsetY: 1
+          },
+          axisTicks: {
+            show: false
+          }
         },
         yaxis: {
+          labels: {
+            style: {
+              colors: "#B3B3B3",
+            }
+          },
+          title: {
+            text: "Popularity",
+            style: {
+              color: "#B3B3B3",
+            }
+          },
           min: 0,
           max: 100,
           show: true,
-          labels: {
-            offsetX: 0,
-          },
           axisBorder: {
             show: false
           },
@@ -164,15 +192,7 @@ export default {
           type: 'column',
           data: [55, 53, 63, 66, 69, 68, 66]
         }
-      ],
-      labels: [
-        'acousticness',
-        'danceability',
-        'energy',
-        'instrumentalness',
-        'liveness',
-        'speechiness',
-        'valence']
+      ]
     }
   },
   methods: {
@@ -239,6 +259,8 @@ export default {
       let userSongPopularity = this.userTrackPopularity;
 
       if(typeof userSongPopularity == "number") {
+        this.$refs.barChart.updateOptions({ colors: ["#A327D6","#fff", "#EF4444"],
+        })
         this.series = [
           {
             name: "Your Top 20",
@@ -296,16 +318,5 @@ export default {
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */
 {
   opacity: 0;
-}
-
-
-.dataset::-webkit-scrollbar {
-  width: 8px;
-  background-color: #181818;
-}
-
-.dataset::-webkit-scrollbar-thumb {
-  border-radius: 8px;
-  background-color: #535353;
 }
 </style>

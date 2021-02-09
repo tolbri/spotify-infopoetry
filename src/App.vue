@@ -1,15 +1,25 @@
 <template>
   <div class="flex flex-col h-screen  text-sm text-lightest">
+        <div class="md:hidden flex bg-dark absolute h-screen w-screen z-60">
+          <div class="flex flex-col mx-auto my-auto container">
+            <div class="flex mx-auto mb-2">
+            <font-awesome-icon class="text-lightest opacity-25" size="2x" :icon="['fa', 'desktop']" />
+            </div>
+            <h2 class="font-semibold text-xl text-center">This website works best on a tablet or desktop device.</h2>
+          </div>
+        </div>
     <div class="flex-1 flex overflow-y-hidden overflow-x-hidden">
       <Sidebar />
-<!--      <div class="flex-1 flex flex-col content-spotify bg-dark w-full">-->
-<!--        <Topbar />-->
-        <router-view></router-view>
-<!--      </div>-->
+      <!--      <div class="flex-1 flex flex-col content-spotify bg-dark w-full">-->
+      <!--        <Topbar />-->
+      <router-view></router-view>
+      <!--      </div>-->
     </div>
     <Playbar />
   </div>
 </template>
+
+
 
 <script>
 
@@ -20,12 +30,10 @@ import {getAccessToken, spotify} from "@/services/spotify";
 
 
 
-
 export default {
   name: 'App',
   components: {Playbar, Sidebar},
   mounted() {
-
      const accessToken = getAccessToken() || this.accessToken // comes from URL or Vuex
       store.dispatch('saveAccessToken', {accessToken})
     if (this.$store.getters.accessToken) {
@@ -35,6 +43,7 @@ export default {
           .getMe()
           .then(me => {
             store.dispatch('saveUser', {user: me})
+            console.log(me);
             return me
           });
 
@@ -140,17 +149,23 @@ export default {
   margin-right: 0 !important;;
   padding-right: 0 !important;
 }
-::-webkit-scrollbar
-{
-  width: 8px;
-  background-color: #121212;
-}
-::-webkit-scrollbar-thumb {
-  border-radius: 8px;
-  background-color: #535353;
+@media (min-width: 768px) {
+  ::-webkit-scrollbar {
+    display: none;
+  }
 }
 
-::-webkit-scrollbar-thumb {
-  cursor: pointer;
+@media (min-width: 1024px) {
+  ::-webkit-scrollbar {
+    display: block;
+    width: 8px;
+    background-color: #181818;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    display: block;
+    border-radius: 8px;
+    background-color: #535353;
+  }
 }
 </style>

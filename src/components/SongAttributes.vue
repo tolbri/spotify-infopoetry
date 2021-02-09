@@ -8,9 +8,12 @@
           <!--          <div v-if="!show" class="background-cover opacity-20 absolute top-0 left-44 w-136 h-full" v-bind:style="{'background-image': 'url('+`${cover}`+')'}" >-->
           <!--          </div>-->
         </transition>
-        <div class="w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
-          <div class="w-full h-full p-5">
-            <apexchart
+        <div class="xl:w-120 xl:h-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div class="w-full h-full p-5 z-10">
+            <div class="absolute top-0 left-0 w-full h-full">
+              <img :src="`${background}`" alt="" class="opacity-20">
+            </div>
+            <apexchart class=""
                        ref="radarChart"
                        :options="chartOptions"
                        :series="series"
@@ -21,18 +24,21 @@
           </div>
         </div>
         <transition name="fade">
-          <div v-if="show" class="z-50 w-120 h-120 bg-light mr-10 mt-10 shadow-lg absolute">
+          <div v-if="show" class="z-50 xl:w-120 w-80 h-80 bg-light mr-10 mt-10 shadow-lg absolute">
             <div class="w-full h-full">
               <img :src="`${cover}`" alt="">
             </div>
           </div>
         </transition>
-        <div class="pl-130">
+        <div class="fixed w-full -ml-10 hidden md:flex lg:hidden">
+          <div class="absolute h-96 w-full bg-darkest shadow-lg opacity-90"></div>
+        </div>
+        <div class="xl:pl-130 lg:pl-96 md:pt-96 lg:pt-0">
           <div class="pt-2">
             <strong class="uppercase tracking-widest text-white font-light text-xs">Library</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">Song Attributes</h2>
             <p>Created by <span class="text-white">Tim Olbrich</span> • 2000 Songs, 20 h 30 min.</p>
-            <button class="w-24 py-2 mt-5 text-center bg-main rounded-full uppercase tracking-wide text-white text-xs"
+            <button class="w-24 py-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs"
                     @click="show = !show">
               {{ show ? 'Play' : 'Pause' }}
             </button>
@@ -76,7 +82,8 @@
 
 import SongRow from "@/components/SongRow";
 import dataset from "./../services/song_attributes.json";
-import cover from "./../assets/albumcover02.jpg";
+import cover from "./../assets/albumcover03.jpg";
+import background from "./../assets/background03.jpg";
 import Topbar from "@/components/Topbar";
 
 export default {
@@ -88,6 +95,7 @@ export default {
   data() {
     return {
       cover,
+      background,
       show: true,
       dataset,
       startData: {
@@ -104,9 +112,13 @@ export default {
         'valence': null
       },
       chartOptions: {
+        colors: ["#fff", "#EF4444"],
         chart: {
-          background: '#282828',
+          // background: '#282828',
           offsetX: 10,
+        },
+        fill: {
+          opacity: 0.6,
         },
         legend: {
           showForSingleSeries: true,
@@ -116,10 +128,12 @@ export default {
         },
         plotOptions: {
           radar: {
+            offsetY: 30,
             polygons: {
-              strokeColor: '#e8e8e8',
+              strokeColor: '#5e5e5e',
+              strokeWidth: 0.2,
               fill: {
-                colors: ['#f8f8f8', '#fff']
+                colors: ['#49393e', '#49393e']
               }
             }
           }
@@ -148,23 +162,17 @@ export default {
           name: "Top 500 Songs",
           data: [0.34, 0.56, 0.6, 0.04, 0.20, 0.06, 0.64]
         }
-      ],
-      labels: [
-        'acousticness',
-        'danceability',
-        'energy',
-        'instrumentalness',
-        'liveness',
-        'speechiness',
-        'valence']
+      ]
     }
   },
   methods: {
     getAudioFeatures() {
       let audioFeatures= this.$store.getters.audioFeatures;
       if(audioFeatures) {
+        this.$refs.radarChart.updateOptions({ colors: ["#A327D6","#fff", "#EF4444"]})
 
-        let acousticness = this.getAverage(audioFeatures.map(function(audioFeatures) {
+
+          let acousticness = this.getAverage(audioFeatures.map(function(audioFeatures) {
           return audioFeatures.acousticness;
         })) ;
 
@@ -296,16 +304,5 @@ export default {
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */
 {
   opacity: 0;
-}
-
-
-.dataset::-webkit-scrollbar {
-  width: 8px;
-  background-color: #181818;
-}
-
-.dataset::-webkit-scrollbar-thumb {
-  border-radius: 8px;
-  background-color: #535353;
 }
 </style>
