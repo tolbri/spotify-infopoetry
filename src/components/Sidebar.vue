@@ -1,7 +1,7 @@
 <template>
   <div class="z-10 sidebar bg-darkest w-48 flex-none flex flex-col justify-start font-semibold">
-    <div class="flex pl-5 w-4/5 mt-6">
-      <img :src="`${logo}`" alt="chartbreakers" class="w-full mx-auto">
+    <div class=" pl-5 w-4/5 mt-6">
+      <img :src="`${logo}`" alt="chartbreakers" class="w-full">
     </div>
     <ul class="pb-6 pt-4">
       <router-link to="/">
