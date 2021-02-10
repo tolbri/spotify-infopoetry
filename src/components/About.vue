@@ -1,15 +1,15 @@
 <template>
-  <div class="flex flex-col content-spotify bg-dark w-full">
+  <div class="flex flex-col content-spotify bg-dark w-full overflow-x-hidden">
     <div class="h-14">
       <Topbar/>
     </div>
-    <div class="flex-1 home-content overflow-y-auto overflow-x-hidden">
+    <div class="flex-1 home-content overflow-y-auto">
       <div class="container mx-auto">
         <h2 class="top-bar-headline mt-24 text-5xl font-semibold text-white">About</h2>
         <div class="xl:px-64 lg:px-24 px-0 flex flex-col">
 
 
-          <div class="flex flex-col">
+          <div class="flex flex-col w-full">
             <div class="flex h-22 sticky top-0 bg-dark border-b-2 border-light pb-2">
               <h3 class="self-end font-semibold text-xl">The Chartbreakers Project</h3>
             </div>
@@ -47,7 +47,7 @@
                 to complete the collection. The following list gives an overview of all collected columns.
               </p>
               <div class="w-full overflow-x-auto my-4">
-                <table class="table-auto w-full mb-2 bg-purple-500">
+                <table class="table-auto mb-2 bg-purple-500">
                   <thead>
                   <tr>
                     <th class="border border-lightest px-4 py-2 text-left text-white font-semibold pb-2">index</th>

@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col">
-  <div class="z-10 bg-light flex-none h-22 px-5 flex items-center justify-between">
+  <div class="z-10  flex-none h-22 px-5 flex items-center justify-between">
     <div class="flex justify-self-start w-1/3 items-center">
       <div class="flex-shrink-0" href="#">
         <img v-if="$store.getters.selectedSong" :src="$store.getters.selectedSong.cover" alt="album cover" class="w-14 h-14">

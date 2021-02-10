@@ -12,7 +12,7 @@
       <Sidebar />
       <router-view></router-view>
     </div>
-    <div class="h-22">
+    <div class="h-28 bg-light">
     <Playbar />
     </div>
   </div>
