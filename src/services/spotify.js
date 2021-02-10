@@ -3,7 +3,7 @@ const spotify = new Spotify()
 
 const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectURI = "https://tolbri.github.io/spotify-infopoetry/#/";
+const redirectURI = "https://tolbri.github.io/spotify-infopoetry/";
 // const redirectURI = "http://localhost:8080/";
 const clientID = "a07a86420a194d2ea5166024859ea716";
 
