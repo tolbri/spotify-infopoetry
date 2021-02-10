@@ -198,6 +198,7 @@ export default {
     getTrackPopularity() {
       let topTracks= this.$store.getters.topTracks;
       if(topTracks) {
+        this.$refs.barChart.updateOptions({ colors: ["#A327D6","#fff", "#EF4444"]});
 
         let popularity = this.getAverage(topTracks.map(function(topTracks) {
           return topTracks.popularity;
