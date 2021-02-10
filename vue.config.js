@@ -6,7 +6,7 @@ module.exports = {
     // },
     publicPath: process.env.NODE_ENV === 'production'
         ? '/spotify-infopoetry/'
-        : '/',
+        : '/spotify-infopoetry/',
     // publicPath: "/",
     chainWebpack: (config) => {
         const svgRule = config.module.rule('svg');
