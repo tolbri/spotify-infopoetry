@@ -1,20 +1,22 @@
 <template>
-  <div class="flex flex-col h-screen w-full text-sm text-lightest">
-<!--        <div class="md:hidden flex bg-dark absolute h-screen w-screen z-60">-->
-<!--          <div class="flex flex-col mx-auto my-auto container">-->
-<!--            <div class="flex mx-auto mb-2">-->
-<!--            <font-awesome-icon class="text-lightest opacity-25" size="2x" :icon="['fa', 'desktop']" />-->
-<!--            </div>-->
-<!--            <h2 class="font-semibold text-xl text-center">This website works best on a tablet or desktop device.</h2>-->
-<!--          </div>-->
-<!--        </div>-->
-    <div class="flex-1 flex overflow-x-hidden overflow-y-auto relative w-full">
+  <div class="w-scree h-screen relative">
+    <div class="md:hidden absolute top-0 left-0 flex bg-dark h-screen w-screen z-60">
+      <div class="flex flex-col mx-auto my-auto container">
+        <div class="flex mx-auto mb-2">
+          <font-awesome-icon class="text-purple-500 opacity-50" size="2x" :icon="['fa', 'desktop']" />
+        </div>
+        <h2 class="font-semibold text-xl text-purple-500 text-center">This website works best on a tablet or desktop device.</h2>
+      </div>
+    </div>
+  <div class="hidden md:flex flex-col h-screen w-full text-sm text-lightest">
+    <div class="flex-1 flex overflow-x-hidden overflow-y-auto relative">
       <Sidebar />
       <router-view></router-view>
     </div>
     <div class="h-28 bg-light">
     <Playbar />
     </div>
+  </div>
   </div>
 </template>
 
