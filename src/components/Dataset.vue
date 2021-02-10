@@ -9,7 +9,7 @@
             <strong class="uppercase tracking-widest text-white font-light text-xs">Dataset</strong>
             <h2 class="top-bar-headline mb-5 text-5xl font-semibold text-white">500 Greatest Songs of All Time</h2>
             <p>Created by <a href="https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/" target="_blank" class="text-white hover:underline">Rolling Stone</a> • 500 Songs, 32 h 45 min.</p>
-            <a href="/#/downloads/spotify-infopoetry-rolling-stones.csv" download="spotify-infopoetry">
+            <a href="https://tolbri.github.io/spotify-infopoetry/downloads/spotify-infopoetry-rolling-stones.csv" download="spotify-infopoetry">
             <button class="w-28 py-2 mr-2 mt-5 text-center bg-purple-600 rounded-full uppercase tracking-wide text-white text-xs">
               Download
             </button>
