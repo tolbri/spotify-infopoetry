@@ -7,11 +7,28 @@ import Dataset from "@/components/Dataset";
 import store from "./store";
 import SongAttributes from "@/components/SongAttributes";
 import VueApexCharts from 'vue-apexcharts';
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { faPlay, faPlayCircle, faPause, faTimes, faExternalLinkSquare, faDesktop } from '@fortawesome/pro-solid-svg-icons'
-import { faCircle } from '@fortawesome/pro-regular-svg-icons'
-import { faHomeAlt, faAlbumCollection, faInfoCircle } from '@fortawesome/pro-light-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import {
+  library
+} from '@fortawesome/fontawesome-svg-core'
+import {
+  faPlay,
+  faPlayCircle,
+  faPause,
+  faTimes,
+  faExternalLinkSquare,
+  faDesktop
+} from '@fortawesome/pro-solid-svg-icons'
+import {
+  faCircle
+} from '@fortawesome/pro-regular-svg-icons'
+import {
+  faHomeAlt,
+  faAlbumCollection,
+  faInfoCircle
+} from '@fortawesome/pro-light-svg-icons'
+import {
+  FontAwesomeIcon
+} from '@fortawesome/vue-fontawesome'
 import KProgress from 'k-progress';
 import Popularity from "@/components/Popularity";
 import Danceability from "@/components/Danceability";
@@ -32,16 +49,46 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 Vue.component('k-progress', KProgress);
 
 
-const routes = [
-  {path: '/about', component: About},
-  {path: '/prelogin', component: PreLogin},
-  {path: '/duration', component: Duration},
-  {path: '/danceability', component: Danceability},
-  {path: '/songpopularity', component: Popularity},
-  {path: '/songattributes', component: SongAttributes},
-  {path: '/dataset', component: Dataset},
-  {path: '/', component: Home},
-  {path: '/spotify-infopoetry/', component: Home}
+const routes = [{
+    path: '/about',
+    component: About
+  },
+  {
+    path: '/prelogin',
+    component: PreLogin
+  },
+  {
+    path: '/duration',
+    component: Duration
+  },
+  {
+    path: '/danceability',
+    component: Danceability
+  },
+  {
+    path: '/songpopularity',
+    component: Popularity
+  },
+  {
+    path: '/songattributes',
+    component: SongAttributes
+  },
+  {
+    path: '/dataset',
+    component: Dataset
+  },
+  {
+    path: '/',
+    component: Home
+  },
+  {
+    path: '/spotify-infopoetry/',
+    component: Home
+  },
+  {
+    path: '*',
+    component: Home
+  },
 ];
 
 const router = new VueRouter({
@@ -56,4 +103,3 @@ new Vue({
   store,
   render: h => h(App),
 }).$mount('#app');
-
