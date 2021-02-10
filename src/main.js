@@ -46,7 +46,8 @@ const routes = [
 
 const router = new VueRouter({
   routes,
-  mode: 'history'
+  mode: 'history',
+  base: '/spotify-infopoetry/'
 });
 
 
