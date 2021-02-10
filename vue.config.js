@@ -4,10 +4,10 @@ module.exports = {
     //     port: 8080,
     //     public: '0.0.0.0:8080'
     // },
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/spotify-infopoetry/'
-        : '/spotify-infopoetry/',
-    // publicPath: "/",
+    // publicPath: process.env.NODE_ENV === 'production'
+    //     ? '/spotify-infopoetry/'
+    //     : '/',
+    publicPath: "/spotify-infopoetry/",
     chainWebpack: (config) => {
         const svgRule = config.module.rule('svg');
 
